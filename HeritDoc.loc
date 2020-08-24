@@ -1,13 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-16"?>
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="HeritDoc1">
-                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=16 face=Michelle color=000000&gt;&lt;margin left=62 right=62&gt;&lt;font size=18 face=Michelle&gt;&lt;p align=left&gt;
+                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin left=62 right=62 top=62 bottom=48&gt;&lt;p align=center&gt;Preface
 
-Preface
-
-Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
+&lt;p align=left&gt;Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
 
 Straight as an arrow
 Carry your intentions through the wind
