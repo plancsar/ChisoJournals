@@ -3,7 +3,8 @@
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="HeritDoc1">
-                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin left=62 right=62 top=62 bottom=48&gt;&lt;p align=center&gt;Preface
+                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;
+&lt;p align=center&gt;Preface
 
 &lt;p align=left&gt;Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
 
@@ -66,9 +67,9 @@ Make me feel it, make me feel
 Excerpted from "Burn You Up, Burn You Down"
 Songwriters: Peter Gabriel, Neil Sparkes, Karl Wallinger&lt;PB&gt;
 
-&lt;PB&gt;Foreword
+&lt;p align=center&gt;Foreword
 
-This work was written by Carl Palmner, DimensionTravelerCalum, and Malfhok. It represents a narrative of the Second Restoration as experienced by two of the eyewitnesses to those events, and while the authors have worked hard to maintain 100&percnt; accuracy in their account, it should be noted that this is not the work of the DRC, Cyan, or any other official organization.
+&lt;p align=left&gt;This work was written by Carl Palmner, DimensionTravelerCalum, and Malfhok. It represents a narrative of the Second Restoration as experienced by two of the eyewitnesses to those events, and while the authors have worked hard to maintain 100 percent accuracy in their account, it should be noted that this is not the work of the DRC, Cyan, or any other official organization.
 
 If you've found this book, then you've felt The Call. You've discovered the Cavern and are in the process of discovering the ancient race who created this place where you now stand, and the world above you've always known as your home.
 
@@ -78,15 +79,13 @@ You will find in this book an account of the events from the earliest times of t
 
 Read on and know that these events are true. They happened. And they are continuing to happen even now.
 
-
-
 Carl Palmner
 DimensionTravelerCalum
 Malphok&lt;PB&gt;
 
-&lt;PB&gt;Acknowledgements
+&lt;p align=center&gt;Acknowledgements
 
-Narration &amp; Presentation
+&lt;p align=left&gt;Narration &amp; Presentation
 * Prologue, Part 1 – DimensionTravelerCalum
 * Prologue, Part 2 – DimensionTravelerCalum
 * Beginning (original title "The Great Scream &amp; Aftermath") – Carl Palmner
@@ -158,11 +157,17 @@ Heritage Night/Documents Web Site
 Conversion to journal format
 * Korov'ev&lt;PB&gt;
 
-&lt;PB&gt;First Restoration&lt;PB&gt;
+&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;PB&gt;Prologue, Part 1
 
-I found a quote in my history book and I'd like to share it. It's by George Santayana.
+
+First Restoration&lt;PB&gt;
+
+&lt;PB&gt;
+
+&lt;p align=center&gt;Prologue, Part 1
+
+&lt;p align=left&gt;I found a quote in my history book and I'd like to share it. It's by George Santayana.
 
 "Those who cannot remember the past are condemned to repeat it."
 
