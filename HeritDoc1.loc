@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="HeritDoc">
-                <translation language="English">&lt;cover src="HeritDoc.hsm"&gt;&lt;font size=16 face=Michelle color=000000&gt;&lt;margin left=62 right=62&gt;&lt;font size=18 face=Michelle&gt;&lt;p align=left&gt;
+            <element name="HeritDoc1">
+                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=16 face=Michelle color=000000&gt;&lt;margin left=62 right=62&gt;&lt;font size=18 face=Michelle&gt;&lt;p align=left&gt;
 
 Preface
 
