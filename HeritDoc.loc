@@ -963,7 +963,10 @@ Upon the stone in the center of the Minkata desert is a symbol--a symbol we'd he
 Minkata is released (photos courtesy of Ainia)
 
 
-And in the end, that was what united the explorers. Not the Team Ages, but the death of a teenage girl.&lt;PB&gt;&lt;PB&gt;
+And in the end, that was what united the explorers. Not the Team Ages, but the death of a teenage girl.</translation>
+            </element>
+            <element name="HeritDoc3">
+                <translation language="English">&lt;cover src="HeritDoc3.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;A New Light
 
@@ -1270,6 +1273,21 @@ Who was "He"? The Great King who was sealed in his tomb? The very one that Phil 
 Or perhaps... Was it someone else entirely?
 
 Strangely, though, due to that strange dream, many of us knew that Yeesha herself would come as well. It was a comfort to some, but until she and he and they arrived, we would never know.</translation>
+            </element>
+            <element name="HeritDoc4">
+                <translation language="English">&lt;cover src="HeritDoc4.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
+
+...
+
+                </translation>
+            </element>
+            </element>
+            <element name="HeritDoc5">
+                <translation language="English">&lt;cover src="HeritDoc5.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
+
+...
+
+                </translation>
             </element>
         </set>
     </age>
