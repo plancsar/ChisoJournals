@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="Activity">
-                <translation language="English">&lt;cover src="Activity.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
+            <element name="Activity1">
+                <translation language="English">&lt;cover src="Activity1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;
 
@@ -13,9 +13,9 @@ Activity in the Cavern
 
 Mac_Fife
 
-February 2010&lt;PB&gt;&lt;PB&gt;
+February 2010
 
-&lt;p align=center&gt;Beginning
+Part I&lt;PB&gt;&lt;PB&gt;
 
 &lt;p align=left&gt;After the last remaining Restoration Engineers left the Cavern in April 2008, it became a largely empty and desolate place once again. A few explorers remained behind attempting to continue private studies of D'ni life. Some, perhaps brazenly, even posted accounts of their forays into D'ni and exploration of ages on the DRC forums, but most stayed away, fearing the dangers of an unmaintained Cavern. After all, disasters had occurred even when there was a watchful DRC presence. Yet others drifted off into new avenues of exploration, some far away from the great cave below the New Mexico desert.
 
@@ -392,10 +392,24 @@ After a little more friendly discussion, Kodama announced that he should go and 
 Photo by EthanEver
 
 
-The occupants of the Cavern now felt accepted in their surroundings and less like the "unauthorized explorers" that they were at the start of the weekend.
+The occupants of the Cavern now felt accepted in their surroundings and less like the "unauthorized explorers" that they were at the start of the weekend.</translation>
+            </element>
+            <element name="Activity2">
+                <translation language="English">&lt;cover src="Activity2.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
+
+&lt;p align=center&gt;
 
 
-Later that afternoon, Marie Sutherland once again emerged from the Tokotah building to chat with assembled explorers. Word of the DRC's acceptance of their presence in the Cavern had obviously spread as one or two new faces had joined the group.
+
+Activity in the Cavern
+
+Mac_Fife
+
+February 2010
+
+Part II&lt;PB&gt;&lt;PB&gt;
+
+&lt;p align=left&gt;Later that afternoon, Marie Sutherland once again emerged from the Tokotah building to chat with assembled explorers. Word of the DRC's acceptance of their presence in the Cavern had obviously spread as one or two new faces had joined the group.
 
 Greetings and pleasantries exchanged, the conversation continued: "All recovered from your trip out and down this weekend, Marie?" enquired JWPlatt.
 
@@ -771,8 +785,7 @@ Credits
 * Photographs supplied by Mac_Fife, Tai'lahr, HenryMikel, EthanEver, JanB.
 * Book cover texture adapted from Leather Book Texture by Tsabo6 (Deviant ART).
 * The "MOULagain Hooligans" (the Unauthorized Explorers).
-* The first "official" arrivals: James Kaufman, Zrax, ghaelen, Whitch, vid, Chloe Rhodes, Nadnerb, Gordon Nadezda, Zib, Tesseract, Kerryth, Whilyam, Qalthos, Tofer, Tweek, CyanJason, Oliver Knowles, Alahmnat, Marten, Gondar, CoinCollector, Keiya, Azador, Beavis, and all those who journeyed down in the following days.
-                </translation>
+* The first "official" arrivals: James Kaufman, Zrax, ghaelen, Whitch, vid, Chloe Rhodes, Nadnerb, Gordon Nadezda, Zib, Tesseract, Kerryth, Whilyam, Qalthos, Tofer, Tweek, CyanJason, Oliver Knowles, Alahmnat, Marten, Gondar, CoinCollector, Keiya, Azador, Beavis, and all those who journeyed down in the following days.</translation>
             </element>
         </set>
     </age>
