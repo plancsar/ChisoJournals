@@ -8,6 +8,7 @@ Preface
 
 &lt;font style=n size=10&gt;&lt;p align=left&gt;Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
 
+
 Straight as an arrow
 Carry your intentions through the wind
 Doubts all around you
@@ -27,15 +28,12 @@ Doesn't matter much which damn beat you use
 
 Pilgrim knows the road to go
 How many times we've told you so
-(Burn you up, they're gonna burn you down)
-(Burn you up, they're gonna burn you down)
+(Burn you up, they're gonna burn you down) x2
 No rhyme or reason
 No way to make it easy 'til it's done
-(Burn you up, they're gonna burn you down)
-(Burn you up, they're gonna burn you down)
+(Burn you up, they're gonna burn you down) x2
 So you're crossing to the other side of the street
-(Burn you up, they're gonna burn you down)
-(Burn you up, they're gonna burn you down)
+(Burn you up, they're gonna burn you down) x2
 Should know better but you keep turning up the heat
 
 Let me tell you how it all works out
@@ -57,11 +55,9 @@ Make me feel it
 (hey hey hey hey)
 
 When they lose you, it can use you
-(Burn you up, they're gonna burn you down)
-(Burn you up, they're gonna burn you down)
+(Burn you up, they're gonna burn you down) x2
 Break me open, I need someone to see me
-(Burn you up, they're gonna burn you down)
-(Burn you up, they're gonna burn you down)
+(Burn you up, they're gonna burn you down) x2
 Make me feel it, make me feel
 
 Excerpted from "Burn You Up, Burn You Down"
@@ -124,7 +120,7 @@ Heritage Night/Documents Web Site
 http://heritagenight.wordpress.com/
 
 Illustrated PDF version
-allthingsuru.com/AllThingsUru/pdf/Heritage Documents Volume 1 - Memoirs.pdf &lt;PB&gt;&lt;PB&gt;&lt;PB&gt;
+http://www.allthingsuru.com/AllThingsUru/pdf/Heritage Documents Volume 1 - Memoirs.pdf &lt;PB&gt;
 
 &lt;font style=b size=12&gt;&lt;p align=center&gt;
 
@@ -484,7 +480,7 @@ We waited and we gathered. And one day... We had a spark.</translation>
 
 
 
-&lt;p align=center&gt;Second Restoration, part I&lt;PB&gt;&lt;PB&gt;
+&lt;p align=center&gt;Second Restoration&lt;PB&gt;&lt;PB&gt;
 
 &lt;font style=b&gt;Beginning
 
@@ -768,11 +764,7 @@ Upon the stone in the center of the Minkata desert is a symbol--a symbol we'd he
 And in the end, that was what united the explorers. Not the Team Ages, but the death of a teenage girl.</translation>
             </element>
             <element name="HeritDoc5">
-                <translation language="English">&lt;cover src="HeritDoc5.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
-
-
-
-Second Restoration, part II&lt;PB&gt;&lt;PB&gt;
+                <translation language="English">&lt;cover src="HeritDoc5.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;A New Light
 
@@ -860,9 +852,12 @@ This time, explorers were more urgent and aggressive in their protests against h
 
 And that was the last time we saw him--until the following month, when we finally began to experience what was really going on with the Bahro.
 
-The truth is, that week was more about new areas and activities than it was about anything exciting happening or any mysteries being solved.&lt;PB&gt;
+The truth is, that week was more about new areas and activities than it was about anything exciting happening or any mysteries being solved.</translation>
+            </element>
+            <element name="HeritDoc6">
+                <translation language="English">&lt;cover src="HeritDoc6.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Familiar Voices
+&lt;p align=center&gt;Familiar Voices
 
 &lt;font size=10 style=n&gt;&lt;p align=left&gt;The week was known as "Familiar Voices". There's a reason it's called that, and I'll show why in a bit, but let's just say that it started out around lunch time.
 
@@ -990,12 +985,8 @@ Or perhaps... Was it someone else entirely?
 
 Strangely, though, due to that strange dream, many of us knew that Yeesha herself would come as well. It was a comfort to some, but until she and he and they arrived, we would never know.</translation>
             </element>
-            <element name="HeritDoc6">
-                <translation language="English">&lt;cover src="HeritDoc6.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
-
-
-
-Second Restoration, part III&lt;PB&gt;&lt;PB&gt;
+            <element name="HeritDoc7">
+                <translation language="English">&lt;cover src="HeritDoc7.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;Deception
 
@@ -1093,12 +1084,12 @@ He went on to tell us that Yeesha had been fighting for us. She had already been
 
 But, said Watson, it was looking more likely that she would not find what she sought in the Ages currently available. That was why the Guilds were so important--we needed new Ages to explore, new Ages to search for a solution to the Bahro problem.
 
-Because the war was coming, the good side was losing, and if we didn't find some way to protect ourselves, we might be their next target.&lt;PB&gt;&lt;PB&gt;</translation>
+Because the war was coming, the good side was losing, and if we didn't find some way to protect ourselves, we might be their next target.</translation>
             </element>
-            <element name="HeritDoc7">
-                <translation language="English">&lt;cover src="HeritDoc7.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
+            <element name="HeritDoc8">
+                <translation language="English">&lt;cover src="HeritDoc8.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Exodus &amp; Conclusion
+&lt;p align=center&gt;Exodus &amp; Conclusion
 
 &lt;font size=10 style=n&gt;&lt;p align=left&gt;The final week is called Exodus, which was named after the book in the Bible for reasons that will be explained later.
 
@@ -1265,8 +1256,8 @@ Your coming here is not without purpose. No Great Uru just happens. There is alw
 This is our heritage.</translation>
             </element>
             </element>
-            <element name="HeritDoc8">
-                <translation language="English">&lt;cover src="HeritDoc8.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+            <element name="HeritDoc9">
+                <translation language="English">&lt;cover src="HeritDoc9.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
@@ -1274,16 +1265,14 @@ Addenda&lt;PB&gt;&lt;PB&gt;
 
 Appendix A
 
-&lt;font size=12 style=n&gt;&lt;p align=left&gt;Biographical Data
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Biographical Data
 
 &lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: The information below is from the Guild of Greeters web site and the DRC forums.
 
 
-&lt;font size=12 style=n&gt;&lt;p align=left&gt;DRC Members
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;DRC Members
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Victor Laxman&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc184*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Victor Laxman&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 12 April 2002
 
@@ -1308,9 +1297,7 @@ Born on June 14th, 1958, Victor Laxman received multiple Engineering Degrees fro
 Unlike the other DRC members, Victor doesn't oversee any particular phase but is instead in charge of all aspects of restoring D'ni technology. In particular, Victor is responsible for translating D'ni technology to English and making it work with human technology. He also led successfully a joint-effort with explorers to re-calibrate the Great Zero. He also oversees explorers' recent effort to re-establish the daily light cycle generated by the lake algae which was interrupted due to the Fall of D'ni. In early November he departed with his colleagues to the surface to look for other funding sources. (GoG bio)
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Ikuro Kodama&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc186*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Dr. Ikuro Kodama&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 12 April 2002
 
@@ -1327,9 +1314,7 @@ Dr. K
 Born on October 5th, 1957, Ikuro Kodama has a Bachelor of Arts in Mechanical Engineering Technology from New Mexico State University along with a Tech Doctorate in Geology from the University of Southern California. He was a friend of Dr. Richard Watson's from their time together in the teaching profession when he was invited to D'ni in 1994 before joining the DRC from 1997 to 2004. In 2004 he was also co-leader of the DRC after Dr. Watson left. Kodama returned to D'ni in 2006 when funding was secured and retook his position on the DRC as well as his old duty of overseeing Phases One and Two. His work was interrupted with the sudden resignation of Cate Alexander. He returned to the surface to look for funds to continue the Restoration. (GoG bio)
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Marie Sutherland&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc188*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Dr. Marie Sutherland&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 15 April 2002
 
@@ -1352,9 +1337,7 @@ Marie
 Born on March 12th, 1962, Marie Sutherland received a Doctorate in Anthropology from Southern Illinois University before entering the teaching profession. While in this profession she met Dr. Richard Watson and first joined an expedition to D'ni in 1993 before becoming a founding member of the DRC from 1997 to 2004. In 2006, when the DRC returned to D'ni, Marie retook her old position in the DRC. As part of her duties with the DRC Marie is responsible for Phases Three and Five. She is also known to at times differ with Cate, particularly her reluctance to allow advertisements in the Cavern. After Cate's resignation, she too departed for the surface to search for other Restoration funding sources. (GoG bio)
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Michael Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc190*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Michael Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 25 April 2002
 
@@ -1373,9 +1356,7 @@ Michael
 Born on September 9th, 1966, Michael Engberg has a Masters of Building Science which he obtained from the University of Southern California before he came to D'ni. He initially came in 1998 before joining the DRC from 1999 to 2004. From 2004 to 2006 he had a teaching position before returning to D'ni once more with his daughter Willow. As part of his duties in the DRC, he was in charge of the Restoration Phase Four for all structures. The untimely death of Willow, his only remaining daughter in late May 2007 overwhelmed him and caused him to disappear from the Cavern. He remained MIA until his sudden return on September 10th, 2007, and has kept silent on his future plans, including whether or not he will return to the Council. (GoG bio)
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Richard A. Watson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc192*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Dr. Richard A. Watson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 29 April 2002
 
@@ -1395,121 +1376,101 @@ Born on June 8th, 1961, Richard Watson received a Doctorate in History from the 
 
 
 
-&lt;font size=12&gt;&lt;p align=left&gt;People Affiliated with the DRC
+&lt;font size=12&gt;&lt;p align=center&gt;People Affiliated with the DRC
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Douglas Sharper&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc194*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Douglas Sharper&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Douglas Sharper was one of the first people to come to D'ni who was not associated with the DRC. He had a major role in the restoration effort which included being given control of Teledahn as well as some city structures. However despite having official sanction to work on restoring D'ni, Sharper often went behind the DRC's back and hid books, secretly gained access to closed off areas and held protests against the DRC. He also went on Yeesha's journey with Phil Henderson before any other restoration engineer or DRC member had. Because he so often went against the DRC, he eventually lost access to the city structures he had been given.
 
 When the DRC abandoned their restoration efforts he stayed behind in D'ni and remained largely silent since the resumption of restoration in 2006, until March 2007 when Cate summoned him to investigate the apparent decimation of animals in Negilahn. In late May he witnessed a battle between different Bahro factions, and has also vowed to avenge the untimely death of Willow Engberg on the Bahro. He admitted to killing a "good" Bahro while being attacked by an "evil" Bahro faction. He was the first to alert explorers to the false sense of security in the Cavern because they were unknowingly being protected by "good" Bahro against "evil" ones bent on destruction. On November 6, 2007 he also departed for the surface.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Phil Henderson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc196*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Phil Henderson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Phil Henderson was a restoration engineer who was once in charge of restoring Eder Kemo. However, he went missing in 2003 through the journey door located in the Age and wasn't seen for a full year. Upon returning, Phil Henderson spoke with people about the teachings of Yeesha despite growing tension between himself and the DRC. Claiming to be concerned for Phil's safety, the DRC eventually locked him up in their Bevin's "Egg Room" for a few days until they released him. Upon being released, Phil went to an area near the Guild Hall on Ae'gura despite the fact the area was closed off and deemed unsafe. As a result, the wall he was on collapsed and he was presumed dead. Yet he surprised explorers when he suddenly returned to the Cavern on August 3rd, 2007, and reported that the Bahro took him to many places, and expanded his understanding. He was the first to definitively confirm Sharper's concerns that the good Bahro were protecting the Cavern from the coming destruction. He continues to warn explorers of coming destruction and to listen to Watson and Yeesha.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Nick White&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc198*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Nick White&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Nick was once a Restoration Engineer who translated documents from D'ni and into English. He started translating documents from Teledahn immediately after learning D'ni in 1998. During 2000 he also translated some documents from Rebek before being pulled off it. When the DRC returned in 2006 Nick White also returned; however, he makes frequent trips to the surface. Around December, 2006, Nick White was working on two Ages with Dr. Kodama, one of which is still unnamed.
 
 On May 3rd, 2007, Nick's employment with the DRC was terminated. The reasons given for this action included poor job performance, "fraternization" with explorers, and leaking confidential DRC information in violation of the terms of his probation for previous violations of DRC policy. Since his termination, Nick continues to appear in the Cavern, sharing rumors he hears from other Restoration Engineers, many of whom still remain his friends, and accompanying Douglas Sharper on his expeditions. Nick remains calm and undaunted by the prophetic warnings of pending destruction.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Cate Alexander&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc200*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Cate Alexander&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Cate Alexander began securing funding for the DRC sometime after 2004 when they had to cancel the restoration efforts. She played a role in getting Turner to fund the restoration and has also contributed to the DRC's funds, herself. Her role with the DRC became even more more prominent when she announced in late June 2007 that she was elected to the Council to replace Michael Engberg, and that she also had a tie-breaker vote. Unlike the other DRC members, she is eager for new areas to be opened up quickly and so she pressures the DRC to open them faster. Her recent proposal to allow advertisements in the Cavern to alleviate funding issues has attracted much attention and controversy. She further surprised the community with her sudden resignation and departure on November 1st, 2007, and with it her financial backing for the Restoration.
 
 
 
-&lt;font size=12 style=n&gt;&lt;p align=left&gt;Other Historic People
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Other Historic People
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Elias "Eli" Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Elias "Eli" Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Elias Zandi was a wealthy and eccentric archaeologist who often paid large sums of money for particular artifacts that he claimed were connected to him somehow. John Loftin came to Zandi one time claiming to have discovered ancient machines beneath the surface of the Earth and on the 19th of March, 1988 they travelled to the tunnels that led to D'ni.
 
 Elias immediately began buying the land around the area of the tunnels and after another expedition with just Fighting Branch, he contacted his colleague Dr. Watson to join him on an expedition. During a later expedition in 1992 Elias revealed his desire to restore the city and populate it with people who called themselves D'ni. Elias became consumed with the restoration efforts and ignored his health until he died due to a massive heart attack in 1996. He left his wealth to the D'ni Restoration Foundation but left the land to his estranged son, Jeff.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Jeff Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc202*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Jeff Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 The son of Elias Zandi, Jeff became an ally of Yeesha in gaining explorers to her cause. Most of the time he can be found at the Cleft in front of his trailer.
 [The 'real' Jeff died in 2019.]
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;John "Fighting Branch" Loftin&lt;font size=10 style=n&gt;&lt;p align=left&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;John "Fighting Branch" Loftin&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 John Loftin discovered the D'ni digging machines in 1987 while searching for artifacts to sell to Elias Zandi. He went on several expeditions to D'ni with Elias Zandi and Richard Watson in the following years until he died during one of them in 1991.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Rand Miller&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc204*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Rand Miller&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Born January 17, 1959, in Pennsylvania, USA, Rand and his brother Robyn Miller co-founded Cyan, now Cyan Worlds, Inc. Cyan became famous from the unexpected success of their computer game Myst, which remained the number one-selling game for the remainder of the 1990s. Rand also worked on the game's sequel, Riven, and later realMyst and Uru: Ages Beyond Myst.
 
 Still CEO, he is now less involved with working out storyline, gameplay and programming, instead focusing on managing the projects his company works on. As a sideline, you will find him portraying Atrus in the Myst sequels, some of which were created by other companies, including: Myst III: Exile (by Presto Studios), Myst IV: Revelation and Myst V: End of Ages (both by Ubisoft Montreal). However, he claims that he dislikes this job, and feels he is the wrong person to do it.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Reteltee&lt;font size=10 style=n&gt;&lt;p align=left&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Reteltee&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Relteltee is an explorer who was interviewed by the DRC and afterwards appointed as their Guilds Advisor. Reteltee does not vote with the Council, but is one who does independent research on the D'ni guild system before reporting to the Council and the explorers. While he tries to disclose as much information as possible on official movements, his reluctance to separate facts from personal interpretations regarding the D'ni Guild system have not satisfied explorers who desire the DRC to be more open in their decision-making.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;J.D. Barnes&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc206*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;J.D. Barnes&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 J.D. Barnes is an anthropologist who recently entered the Restoration effort as an independent researcher and has collaborated with the DRC on several occasions. He did his graduate work at Oregon State at Corvallis and earned a Master's Degree in Applied Anthropology. He is involved in several projects, including production of a documentary, and has recently asked explorers for help in authenticating old documents from a surface dweller who may have visited D'ni long before the Zandis did.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Willow "Wheely" Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc208*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Willow "Wheely" Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Willow Engberg, nicknamed Wheely, is the daughter of DRC member Michael Engberg who was homeschooled in 2007 in D'ni. She liked to climb and explore the various Ages and was seen occasionally talking with players. In late May 2007 she and her friend Rose were trapped underneath a structural failure at the Kahlo Pub. Rescuers tried to reach her, but in vain. The DRC later revealed that her death was due to an enemy Bahro and not the rock fall.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Rosette "Rose" Taylor&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc210*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Rosette "Rose" Taylor&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Rosette Taylor, nicknamed Rose, was a close friend of Willow Engberg. She was a brand new explorer, and loved to roam the different Ages together with her friend. In late May 2007 a few explorers briefly met Rose with her friend Willow, shortly before the two of them were trapped underneath a structural collapse at the Kahlo Pub, where Rose was believed to have died instantly.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Brian Fioca&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc212*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Brian Fioca&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Brian Fioca was described by Douglas Sharper as "an eventual leader" of the explorer community in one of his November 2003 journal entries. Sharper praised him as one of those who "see right through" the DRC during its early stages. He also is the administrator of The Great Tree forum, another fan community which existed during the Uru Live Prologue. He recently completed his Bachelor of Science degree in Computer Science in Seattle, Washington.
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;Yeesha&lt;font size=10 style=n&gt;&lt;p align=left&gt;
-
-&lt;img src="heritdoc214*1#0.hsm" align=center blend=alpha resize=no&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Yeesha&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Yeesha was born almost 200 years ago to Atrus and Catherine, the main characters in the Myst series. Currently, one of her journeys is accessible in Myst Online: Uru Live; however, she made two others that have been released in the earlier games with a fourth one that was played out in real life. She made her first live appearance along with many Bahro on November 5th, 2007. There she confirmed that "destruction is coming," identified the enemy Bahro leader, promised to draw the Bahro War away from the Cavern, and challenged all to "find a way... make a home."
 
 
-&lt;font size=10 style=b&gt;&lt;p align=left&gt;The Bahro&lt;font size=10 style=n&gt;&lt;p align=left&gt;
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;The Bahro&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
-&lt;img src="heritdoc216*1#0.hsm" align=center blend=alpha resize=no&gt;
-
-The Bahro are a race of creatures who have the natural ability to link at will. They were servants to the D'ni for thousands of years, and presumably gave the D'ni the ability to link to other Ages. Since explorers freed the Bahro from the power of the Tablet, the Bahro have now become free to make their own choices. Unfortunately, some of them have chosen revenge for revenge's sake, and are therefore bent on destruction of even innocent life. Yet according to Yeesha, most Bahro are friendly and have protected explorers, the life in the other Ages, and even the D'ni from destruction, even to the point of sacrificing their lives.&lt;PB&gt;
+The Bahro are a race of creatures who have the natural ability to link at will. They were servants to the D'ni for thousands of years, and presumably gave the D'ni the ability to link to other Ages. Since explorers freed the Bahro from the power of the Tablet, the Bahro have now become free to make their own choices. Unfortunately, some of them have chosen revenge for revenge's sake, and are therefore bent on destruction of even innocent life. Yet according to Yeesha, most Bahro are friendly and have protected explorers, the life in the other Ages, and even the D'ni from destruction, even to the point of sacrificing their lives.</translation>
+            </element>
+            </element>
+            <element name="HeritDoc10">
+                <translation language="English">&lt;cover src="HeritDoc10.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
 &lt;font size=12 style=b&gt;&lt;p align=center&gt;Appendix B
 
-&lt;font size=12 style=n&gt;&lt;p align=left&gt;Chatlog List
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Chatlog List
 
 &lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archives web site [and can be viewed in the Guild of Archivists wiki].
 
@@ -1544,6 +1505,324 @@ First Restoration Attempt
 (2003-12-16) Sharper is angry
 (2003-12-16) Sharper is still angry
 (2003-12-17) Sharper strikes back
+(2003-12-18) Rand Miller and Dr. Watson visit a neighbourhood
+(2003-12-18) Douglas Sharper visits the UruObsession Neighbourhood
+(2003-12-19) Douglas Sharper opens the Egg Rooms
+(2003-12-19) The DRC allows Tink to meet Phil
+(2003-12-19) Douglas Sharper invites more people to see the Egg Rooms
+(2003-12-21) Michael Engberg answers questions in the German Neighbourhood
+(2003-12-22) Douglas Sharper visits the UruObsession Neighbourhood again
+(2003-12-26) Phil Henderson's accident
+(2003-12-29) Sharper visits a neighbourhood
+
+D'mala
+
+In late 2005 some DRC members began returning to the Cavern. In 2006 more and more explorers returned to the Cavern and the DRC began to meet with the explorers once more. The DRC had hope that they might be able to continue the Restoration efforts. The DRC asked the community to elect 5 liaisons, to make communication between the DRC and the community easier. The elected liaisons (CAGrayWolf, Eleri, Gadren, Tweek and Vortmax) organised various Town Hall meetings with the DRC, Cyan and the explorers.
+
+(2006-04-07) Marie Sutherland about the elections
+(2006-04-15) DRC / Liaison Meeting
+(2006-04-26) Meet the DRC: Marie Sutherland (Morning session)
+(2006-04-26) Meet the DRC: Michael Engberg (Morning session)
+(2006-04-26) Meet the DRC: Dr. Kodama (Morning session)
+(2006-04-26) Meet the DRC: Victor Laxman (Morning session)
+(2006-04-26) Meet the DRC: Marie Sutherland (Afternoon session)
+(2006-04-26) Meet the DRC: Michael Engberg (Afternoon session)
+(2006-04-26) Meet the DRC: Dr. Kodama (Afternoon session)
+(2006-04-26) Meet the DRC: Victor Laxman (Afternoon session)
+(2006-05-02) DRC / Liaison Meeting
+(2006-06-13) DRC / Liaison Meeting
+(2006-06-14) The KI and the Great Zero
+(2006-06-20) Ae'gura &amp; The City (Morning session)
+(2006-06-20) Ae'gura &amp; The City (Evening session)
+(2006-07-06) New Ages (Morning session)
+(2006-07-06) New Ages (Evening session)
+(2006-11-08) DRC / Liaison Meeting
+(2006-12-19) Re-Opening of the Cavern
+
+The Restoration Continues
+
+(2006-12-20) Dr. Kodama inspects Ae'gura
+(2006-12-20) Dr. Kodama inspects Zia's neighbourhood
+(2006-12-20) Marie Sutherland inspects the Uru Obsession neighbourhood
+(2006-12-20) Victor Laxman inspects the Uru Obsession neighbourhood
+(2006-12-20) Victor Laxman inspects the Guild of Greeters neighbourhood
+(2006-12-20) Marie Sutherland inspects a neighbourhood
+(2006-12-20) Dr. Kodama inspects the Uru Obsession neighbourhood
+(2006-12-21) Dr. Kodama inspects Ae'gura again
+(2006-12-21) Michael Engberg has returned from the surface
+(2006-12-21) Rand Miller visits the explorers
+(2006-12-21) Michael Engberg about his daughter
+(2006-12-21) Victor Laxman inspects another neighbourhood
+(2006-12-21) Victor Laxman inspects Uru Obsession
+(2006-12-22) Victor Laxman about instances
+(2006-12-22) Marie Sutherland talks about the opening of the gallery doors
+(2006-12-23) Wheely is back
+(2006-12-24) "Gas Station Stan" returns
+(2006-12-25) Marie Sutherland visits Ae'gura
+(2006-12-26) Marie Sutherland sets up the liaison's 'hood
+(2006-12-27) Nick White in Ae'gura
+(2006-12-27) Nick White in the Uru Obsession neighbourhood
+(2006-12-28) Marie Sutherland chats with the explorers
+(2006-12-29) Dr. Kodama talks about the community rooms
+(2007-01-02) Nick White announces Cate's coming
+(2007-01-03) Cate Alexander introduces herself
+(2007-01-03) The liaisons meet Cate
+(2007-01-04) Michael Engberg couldn't sleep
+(2007-01-09) Cate is pushing Laxman
+(2007-01-10) Delays are announced by the liaisons
+(2007-01-11) Nick White chats near the opened concert hall foyer
+
+The Eders
+
+(2007-01-16) Victor Laxman has just fixed the Great Zero
+(2007-01-17) The liaisons have resigned
+(2007-01-18) Cate visits the Uru Obsession neighbourhood
+(2007-01-19) Nick talks about the restoration
+(2007-01-25) Nick talks about Sharper and the restoration
+(2007-01-30) Engberg wants to slow down
+(2007-02-02) Cate talks about the restoration
+(2007-02-05) Cate removes the official DRC forums
+(2007-02-06) Engberg inspects the Library area
+(2007-02-08) Cate Alexander at the sit-in for the DRC forums
+(2007-02-08) Michael Engberg defends the explorers and brings the forums back
+(2007-02-16) Blake Lewin visits the cavern
+(2007-02-16) Wheely Engberg in the cavern
+(2007-02-16) Victor Laxman about the weather in Eder Delin
+(2007-02-16) Nick in Eder Delin
+(2007-02-20) Nick in snowy Eder Delin
+(2007-02-20) Nick makes fun of the explorers
+(2007-02-21) Dr. Kodama investigates a neighbourhood after Yeesha's appearance
+(2007-02-22) Stained glass windows to restore
+(2007-02-26) Nick White about the museum
+(2007-02-26) Dr. Kodama reinvestigates
+
+The Hunter and the Pods
+
+(2007-03-02) Nick White talks about Negilahn's animal population
+(2007-03-02) The Great Tree awaits Douglas Sharper
+(2007-03-03) Nick White announces Sharper's return
+(2007-03-03) Nick White comments on the stolen Dereno Linking Book
+(2007-03-07) Nick White talks about new Ages and the missing creature chart
+(2007-03-07) Cate Alexander is glad with Sharper's return
+(2007-03-08) Nick comes to chat
+(2007-03-09) Nick visits The Great Tree
+(2007-03-09) Douglas Sharper meets exlorers
+(2007-03-11) Nick is looking for Rils
+(2007-03-11) Nick is having fun in The Great Tree's
+(2007-03-12) Douglas Sharper returns to The Great Tree
+(2007-03-13) Nick talks about Dereno and the Great Zero
+(2007-03-14) Douglas Sharper visits NULPS's neighbourhood
+(2007-03-14) Rand, Nick and Sharper in a 'hood
+(2007-03-14) Vormaen argues with Sharper
+(2007-03-14) Dr. Kodama visits Ae'gura
+(2007-03-14) Nick White talks about Dereno and translations
+(2007-03-15) Cate oversees the release of Dereno
+(2007-03-15) Explorers visit the pods with Wheely Engberg
+(2007-03-21) Nick chats about the upcoming Negilahn expedition
+(2007-03-21) Rils reports on the expedition to Negilahn
+(2007-03-22) Nick talks about the expedition and Minkata
+(2007-03-27) Nick White in ThinkSpiral's neighbourhood
+(2007-03-27) Nick White visits more explorers
+(2007-03-28) More stained glass windows to restore
+(2007-03-28) Nick White and Kal discuss Guilds
+(2007-03-29) Cate releases a map of the Pod Age
+
+The Great Zero
+
+Scars
+
+A New Light
+
+Familiar Voices
+
+Deception
+
+Exodus&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Appendix C
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;DRC Forum Posts List
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archive web site. All original posts may be viewed at the DRC site forums [and the Guild of Archivists wiki].
+
+
+2002
+
+January
+* Authorized Books
+* Greetings
+* new KI for board members
+* KI host annex
+* Teledahn Trip
+* Lost
+* Inappropriate threads
+* Industrial Complex
+* "Security"
+* Teledahn schedule
+* Garden KI Test
+* Assistance request
+* Interage KI Transmission
+* Surface Trip Planning
+* Rebek
+
+April
+* Greetings
+* new KI for board members
+* KI host annex
+* Teledahn Trip
+* Lost
+
+May
+* Inappropriate threads
+* Industrial Complex
+* "Security"
+* Teledahn schedule
+* Garden KI Test
+
+June
+* Assistance request
+* Interage KI Transmission
+* Surface Trip Planning
+
+July
+* Rebek
+
+August
+* references available?
+* KK
+* Unscheduled Meeting
+* Ae'gura
+
+September
+* Games
+* Missing
+* Sharper
+* Moving on...
+
+October
+* Preparation for Arrivals
+* New T-Shirt at CafePress
+* KI's Image Testing
+
+November
+* His "game" has begun
+* clarification
+* MT
+
+December
+* Uru Explorers
+* Unbelievable
+
+2003
+
+January
+* New Neighborhoods
+* Surfacing
+* KI Update
+* A little background on Zandi
+
+April
+* New Year - 9659May
+
+July
+* Imager question
+* food for thought
+
+September
+* Arrivals
+* Contest
+
+October
+* Marker System Oddities
+* Extruder Update
+* Update for the art and modeling contests
+* Contest Travesty
+* The Pub in J'Taeri
+
+November
+* a fun aside
+* Apologize?
+* The Pub
+* need a meeting
+* Signals Again
+* We need to meet again
+* Ahyoheek Top Scores
+
+December
+* Meeting
+* Forums
+* Nexus City Links Restored
+* too long
+* Update on Phil
+* The Baron
+* Current Affairs
+* After?
+* Yesterday's Tragic Event
+* Present Affairs
+* The Last Few Days and the Future
+* Age Listing
+* Nexus Terminals
+* Neighborhood Clocks
+
+2004
+
+January
+* Today's the Day
+* Dr. Watson
+* Phase 5
+
+February
+* Meeting
+* Equipment and Systems
+* Nexus Pedestals
+
+2005
+
+December
+* ttttttttxxttttttttttttttttt*#*#*#*#
+* Test
+* Hello?
+
+2006
+
+January
+* A Bone
+
+February
+* Proposal
+* 2 Years
+* Welcome
+* The Liaisons
+
+June
+* Town Hall Apology
+* Eder Delin on the Age List
+
+December
+* Ready?
+* Welcome Message
+* Gallery Doors
+
+2007
+
+February
+* DRC Forums are back up
+
+April
+* Great Zero Markers
+
+2010
+
+February
+* Activity in the Cavern?
+
+May
+* Bahro costumes in the Cavern
+
+2011
+
+February
+* Illusions in the Cavern
 (2003-12-18) Rand Miller and Dr. Watson visit a neighbourhood
 (2003-12-18) Douglas Sharper visits the UruObsession Neighbourhood
 (2003-12-19) Douglas Sharper opens the Egg Rooms
