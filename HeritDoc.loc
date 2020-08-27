@@ -3,10 +3,10 @@
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="HeritDoc1">
-                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-&lt;p align=center&gt;Preface
+                <translation language="English">&lt;cover src="HeritDoc1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+Preface
 
-&lt;p align=left&gt;Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
+&lt;font style=n size=10&gt;&lt;p align=left&gt;Each journey to D'ni begins with Jeff Zandi's favorite song... Listen to it well and then find your path to the City below.
 
 Straight as an arrow
 Carry your intentions through the wind
@@ -67,9 +67,9 @@ Make me feel it, make me feel
 Excerpted from "Burn You Up, Burn You Down"
 Songwriters: Peter Gabriel, Neil Sparkes, Karl Wallinger&lt;PB&gt;
 
-&lt;p align=center&gt;Foreword
+&lt;font style=b size=12&gt;&lt;p align=center&gt;Foreword
 
-&lt;p align=left&gt;This work was written by Carl Palmner, DimensionTravelerCalum, and Malfhok. It represents a narrative of the Second Restoration as experienced by two of the eyewitnesses to those events, and while the authors have worked hard to maintain 100 percent accuracy in their account, it should be noted that this is not the work of the DRC, Cyan, or any other official organization.
+&lt;font style=n size=10&gt;&lt;p align=left&gt;This work was written by Carl Palmner, DimensionTravelerCalum, and Malfhok. It represents a narrative of the Second Restoration as experienced by two of the eyewitnesses to those events, and while the authors have worked hard to maintain 100 percent accuracy in their account, it should be noted that this is not the work of the DRC, Cyan, or any other official organization.
 
 If you've found this book, then you've felt The Call. You've discovered the Cavern and are in the process of discovering the ancient race who created this place where you now stand, and the world above you've always known as your home.
 
@@ -83,9 +83,9 @@ Carl Palmner
 DimensionTravelerCalum
 Malphok&lt;PB&gt;
 
-&lt;p align=center&gt;Acknowledgements
+&lt;font style=b size=12&gt;&lt;p align=center&gt;Acknowledgements
 
-&lt;p align=left&gt;Narration &amp; Presentation
+&lt;font style=n size=10&gt;&lt;p align=left&gt;Narration &amp; Presentation
 * Prologue, Part 1 - DimensionTravelerCalum
 * Prologue, Part 2 - DimensionTravelerCalum
 * Beginning (original title "The Great Scream &amp; Aftermath") - Carl Palmner
@@ -126,15 +126,15 @@ Erik/D'ni Restoration Archive web site
 Heritage Night/Documents Web Site
 http://heritagenight.wordpress.com/ &lt;PB&gt;&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;
+&lt;font style=b size=12&gt;&lt;p align=center&gt;
 
 
 
 First Restoration&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Prologue, Part 1
+Prologue, Part 1
 
-&lt;p align=left&gt;I found a quote in my history book and I'd like to share it. It's by George Santayana.
+&lt;font style=n size=10&gt;&lt;p align=left&gt;I found a quote in my history book and I'd like to share it. It's by George Santayana.
 
 "Those who cannot remember the past are condemned to repeat it."
 
@@ -341,9 +341,9 @@ All five DRC members soon were searching for the man. And throughout Phil's dail
 
 As you might be able to see, things were not going well.&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Prologue, Part 2
+&lt;font style=b size=12&gt;&lt;p align=center&gt;Prologue, Part 2
 
-&lt;p align=left&gt;As you may or may not remember, the tales of the Prologue era are tales that often do not wish to be told. Tonight, we will see why this is.
+&lt;font style=n size=10&gt;&lt;p align=left&gt;As you may or may not remember, the tales of the Prologue era are tales that often do not wish to be told. Tonight, we will see why this is.
 
 I have told of the time when things were simple, when the DRC restored on a timely basis and released new areas as they deemed safe. However, once the gaming corporation UbiSoft got its funds thrown into the mix, things began to become unstable. Explorers who weren't authorized began drifting down, feeling called to something they didn't understand. But things were changing here in the cavern.
 
@@ -567,17 +567,15 @@ Puzzles were solved. Journeys were taken. One in particular, when retold to Cyan
 We waited and we gathered. And one day... We had a spark.</translation>
             </element>
             <element name="HeritDoc2">
-                <translation language="English">&lt;cover src="HeritDoc2.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="HeritDoc2.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;
 
 
 
-Second Restoration, part I&lt;PB&gt;&lt;PB&gt;
+&lt;p align=center&gt;Second Restoration, part I&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Beginning
+&lt;font style=b&gt;Beginning
 
-&lt;p align=left&gt;First, a little background:
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;First, a little background:
 
 When we came to the cavern in 2006, we were not the first. There had been one attempt at a Restoration of D'ni before. The D'ni Restoration Council, or DRC, had originally consisted of five scholars: Richard Watson, Ikuro Kodama, Michael Engberg, Victor Laxman, and Marie Sutherland. Their first attempt at restoring the cavern had ended in failure, due mainly to a lack of funds, but also to unforeseen events.
 
@@ -767,9 +765,9 @@ Why had they left us all alone?
 
 Something had to happen to break the tension in the cavern and unite us.&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Scars
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Scars
 
-&lt;p align=left&gt;Feelings had become tense in the cavern by the time the week known as "Scars Week" occurred. The DRC had opened all of Ae'gura and the Neighborhoods, and released Eder Delin, Eder Tsogal, and the four pods of Reziksehv to explorers. We had recently been warned that a dangerous and violent predator was stalking the wildlife near Negilahn, but we didn't know what kind of creature it was, or even what it looked like.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Feelings had become tense in the cavern by the time the week known as "Scars Week" occurred. The DRC had opened all of Ae'gura and the Neighborhoods, and released Eder Delin, Eder Tsogal, and the four pods of Reziksehv to explorers. We had recently been warned that a dangerous and violent predator was stalking the wildlife near Negilahn, but we didn't know what kind of creature it was, or even what it looked like.
 
 In spite of Yeesha's lessons in Delin and Tsogal, we were not united. We argued constantly, especially over the Bahro.
 
@@ -963,9 +961,7 @@ Minkata is released (photos courtesy of Ainia)
 And in the end, that was what united the explorers. Not the Team Ages, but the death of a teenage girl.</translation>
             </element>
             <element name="HeritDoc3">
-                <translation language="English">&lt;cover src="HeritDoc3.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="HeritDoc3.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
@@ -973,7 +969,7 @@ Second Restoration, part II&lt;PB&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;A New Light
 
-&lt;p align=left&gt;We had learned, during "Scars Week" the month before, that the Reziksehv predator was, in fact, a large group of Bahro. One of them appeared to have been responsible for the death of Wheely Engberg, which had resulted in her father leaving the DRC and disappearing.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;We had learned, during "Scars Week" the month before, that the Reziksehv predator was, in fact, a large group of Bahro. One of them appeared to have been responsible for the death of Wheely Engberg, which had resulted in her father leaving the DRC and disappearing.
 
 Sharper had discovered that the Bahro were in the middle of a civil war. We had heard nothing from Sharper, Nick, or the DRC in a month.
 
@@ -1092,11 +1088,11 @@ This time, explorers were more urgent and aggressive in their protests against h
 
 And that was the last time we saw him--until the following month, when we finally began to experience what was really going on with the Bahro.
 
-The truth is, that week was more about new areas and activities than it was about anything exciting happening or any mysteries being solved.&lt;PB&gt;&lt;PB&gt;
+The truth is, that week was more about new areas and activities than it was about anything exciting happening or any mysteries being solved.&lt;PB&gt;
 
-&lt;p align=center&gt;Familiar Voices
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Familiar Voices
 
-&lt;p align=left&gt;The week was known as "Familiar Voices". There's a reason it's called that, and I'll show why in a bit, but let's just say that it started out around lunch time.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;The week was known as "Familiar Voices". There's a reason it's called that, and I'll show why in a bit, but let's just say that it started out around lunch time.
 
 You might remember that in "A New Light" a dock lake meter was mentioned. That dock meter, also known as Bob the Dalek to some explorers, was malfunctioning all the way through its one-month span of use. On the first day of "Familiar Voices", Victor Laxman came to Ae'gura to remove the dock meter. It was a sad moment, but one many understood for technical reasons.
 
@@ -1278,9 +1274,7 @@ Or perhaps... Was it someone else entirely?
 Strangely, though, due to that strange dream, many of us knew that Yeesha herself would come as well. It was a comfort to some, but until she and he and they arrived, we would never know.</translation>
             </element>
             <element name="HeritDoc4">
-                <translation language="English">&lt;cover src="HeritDoc4.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="HeritDoc4.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
@@ -1288,7 +1282,7 @@ Second Restoration, part III&lt;PB&gt;&lt;PB&gt;
 
 &lt;p align=center&gt;Deception
 
-&lt;p align=left&gt;To briefly recap, Sharper had killed a Bahro in retaliation for Wheely's death, but by accident had shot a good Bahro. Phil Henderson, who was NOT dead after all, returned to the cavern to explain that the Bahro Sharper shot had willingly sacrificed itself to protect us from its hostile brethren. And for the first time, Bahro had interacted personally with explorers at close range.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;To briefly recap, Sharper had killed a Bahro in retaliation for Wheely's death, but by accident had shot a good Bahro. Phil Henderson, who was NOT dead after all, returned to the cavern to explain that the Bahro Sharper shot had willingly sacrificed itself to protect us from its hostile brethren. And for the first time, Bahro had interacted personally with explorers at close range.
 
 A month had now passed since Phil's return, and we had seen neither him nor any more Bahro. We were all a bit nervous about the Bahro Civil War, and the events of this week did nothing to assuage our fear.
 
@@ -1423,9 +1417,9 @@ But, said Watson, it was looking more likely that she would not find what she so
 
 Because the war was coming, the good side was losing, and if we didn't find some way to protect ourselves, we might be their next target.&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Exodus &amp; Conclusion
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Exodus &amp; Conclusion
 
-&lt;p align=left&gt;The final week is called Exodus, which was named after the book in the Bible for reasons that will be explained later.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;The final week is called Exodus, which was named after the book in the Bible for reasons that will be explained later.
 
 November 1, 2007. Day One. 11:00 A.M., Ae'gura.
 
@@ -1638,23 +1632,22 @@ This is our heritage.</translation>
             </element>
             </element>
             <element name="HeritDoc5">
-                <translation language="English">&lt;cover src="HeritDoc5.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="HeritDoc5.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
 Addenda&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;Appendix A
+Appendix A
 
-&lt;p align=left&gt;Biographical Data
+&lt;font size=12 style=n&gt;&lt;p align=left&gt;Biographical Data
 
-Editor's Note: The information below is from the Guild of Greeters web site and the DRC forums.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: The information below is from the Guild of Greeters web site and the DRC forums.
 
-DRC Members
 
-Victor Laxman
+&lt;font size=12 style=n&gt;&lt;p align=left&gt;DRC Members
+
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Victor Laxman&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc184*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1680,9 +1673,8 @@ Born on June 14th, 1958, Victor Laxman received multiple Engineering Degrees fro
 
 Unlike the other DRC members, Victor doesn't oversee any particular phase but is instead in charge of all aspects of restoring D'ni technology. In particular, Victor is responsible for translating D'ni technology to English and making it work with human technology. He also led successfully a joint-effort with explorers to re-calibrate the Great Zero. He also oversees explorers' recent effort to re-establish the daily light cycle generated by the lake algae which was interrupted due to the Fall of D'ni. In early November he departed with his colleagues to the surface to look for other funding sources. (GoG bio)
 
------
 
-Dr. Ikuro Kodama
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Ikuro Kodama&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc186*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1700,9 +1692,8 @@ Dr. K
 
 Born on October 5th, 1957, Ikuro Kodama has a Bachelor of Arts in Mechanical Engineering Technology from New Mexico State University along with a Tech Doctorate in Geology from the University of Southern California. He was a friend of Dr. Richard Watson's from their time together in the teaching profession when he was invited to D'ni in 1994 before joining the DRC from 1997 to 2004. In 2004 he was also co-leader of the DRC after Dr. Watson left. Kodama returned to D'ni in 2006 when funding was secured and retook his position on the DRC as well as his old duty of overseeing Phases One and Two. His work was interrupted with the sudden resignation of Cate Alexander. He returned to the surface to look for funds to continue the Restoration. (GoG bio)
 
------
 
-Dr. Marie Sutherland
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Marie Sutherland&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc188*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1726,9 +1717,8 @@ Marie
 
 Born on March 12th, 1962, Marie Sutherland received a Doctorate in Anthropology from Southern Illinois University before entering the teaching profession. While in this profession she met Dr. Richard Watson and first joined an expedition to D'ni in 1993 before becoming a founding member of the DRC from 1997 to 2004. In 2006, when the DRC returned to D'ni, Marie retook her old position in the DRC. As part of her duties with the DRC Marie is responsible for Phases Three and Five. She is also known to at times differ with Cate, particularly her reluctance to allow advertisements in the Cavern. After Cate's resignation, she too departed for the surface to search for other Restoration funding sources. (GoG bio)
 
------
 
-Michael Engberg
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Michael Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc190*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1748,9 +1738,8 @@ Michael
 
 Born on September 9th, 1966, Michael Engberg has a Masters of Building Science which he obtained from the University of Southern California before he came to D'ni. He initially came in 1998 before joining the DRC from 1999 to 2004. From 2004 to 2006 he had a teaching position before returning to D'ni once more with his daughter Willow. As part of his duties in the DRC, he was in charge of the Restoration Phase Four for all structures. The untimely death of Willow, his only remaining daughter in late May 2007 overwhelmed him and caused him to disappear from the Cavern. He remained MIA until his sudden return on September 10th, 2007, and has kept silent on his future plans, including whether or not he will return to the Council. (GoG bio)
 
------
 
-Dr. Richard A. Watson
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Dr. Richard A. Watson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc192*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1770,11 +1759,11 @@ Dr. Watson
 
 Born on June 8th, 1961, Richard Watson received a Doctorate in History from the University of Utah before being invited to D'ni by his good friend Elias Zandi. When Elias Zandi died in 1996 Dr. Watson became the sole chairman of the D'ni Restoration Foundation and decided to create the DRC one year later instead to help with the responsibility. While a member of the DRC, Dr. Watson wasn't responsible for any particular phase but instead helped out in a variety of areas. However, this came to a halt when he abruptly left the DRC following Phil Henderson's apparent death. Unable to cope with Phil's death, Dr. Watson went on Yeesha's Quest and was not heard from until Michael Engberg came to find him, and he returned, surprising all on September 11th, 2007. He confirmed that the "good" Bahro have created a "grand deception" that things are okay when in fact, destruction was headed their way. He stressed collaboration and unity in re-building the guilds as the D'ni did, and has refused to rejoin the DRC citing differences in philosophy. He is presently enlisting support from explorer groups for Restoration projects that engage his interest. (GoG bio)
 
-=====
 
-People Affiliated with the DRC
 
-Douglas Sharper
+&lt;font size=12&gt;&lt;p align=left&gt;People Affiliated with the DRC
+
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Douglas Sharper&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc194*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1782,17 +1771,15 @@ Douglas Sharper was one of the first people to come to D'ni who was not associat
 
 When the DRC abandoned their restoration efforts he stayed behind in D'ni and remained largely silent since the resumption of restoration in 2006, until March 2007 when Cate summoned him to investigate the apparent decimation of animals in Negilahn. In late May he witnessed a battle between different Bahro factions, and has also vowed to avenge the untimely death of Willow Engberg on the Bahro. He admitted to killing a "good" Bahro while being attacked by an "evil" Bahro faction. He was the first to alert explorers to the false sense of security in the Cavern because they were unknowingly being protected by "good" Bahro against "evil" ones bent on destruction. On November 6, 2007 he also departed for the surface.
 
------
 
-Phil Henderson
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Phil Henderson&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc196*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Phil Henderson was a restoration engineer who was once in charge of restoring Eder Kemo. However, he went missing in 2003 through the journey door located in the Age and wasn't seen for a full year. Upon returning, Phil Henderson spoke with people about the teachings of Yeesha despite growing tension between himself and the DRC. Claiming to be concerned for Phil's safety, the DRC eventually locked him up in their Bevin's "Egg Room" for a few days until they released him. Upon being released, Phil went to an area near the Guild Hall on Ae'gura despite the fact the area was closed off and deemed unsafe. As a result, the wall he was on collapsed and he was presumed dead. Yet he surprised explorers when he suddenly returned to the Cavern on August 3rd, 2007, and reported that the Bahro took him to many places, and expanded his understanding. He was the first to definitively confirm Sharper's concerns that the good Bahro were protecting the Cavern from the coming destruction. He continues to warn explorers of coming destruction and to listen to Watson and Yeesha.
 
------
 
-Nick White
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Nick White&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc198*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1800,42 +1787,38 @@ Nick was once a Restoration Engineer who translated documents from D'ni and into
 
 On May 3rd, 2007, Nick's employment with the DRC was terminated. The reasons given for this action included poor job performance, "fraternization" with explorers, and leaking confidential DRC information in violation of the terms of his probation for previous violations of DRC policy. Since his termination, Nick continues to appear in the Cavern, sharing rumors he hears from other Restoration Engineers, many of whom still remain his friends, and accompanying Douglas Sharper on his expeditions. Nick remains calm and undaunted by the prophetic warnings of pending destruction.
 
------
 
-Cate Alexander
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Cate Alexander&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc200*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Cate Alexander began securing funding for the DRC sometime after 2004 when they had to cancel the restoration efforts. She played a role in getting Turner to fund the restoration and has also contributed to the DRC's funds, herself. Her role with the DRC became even more more prominent when she announced in late June 2007 that she was elected to the Council to replace Michael Engberg, and that she also had a tie-breaker vote. Unlike the other DRC members, she is eager for new areas to be opened up quickly and so she pressures the DRC to open them faster. Her recent proposal to allow advertisements in the Cavern to alleviate funding issues has attracted much attention and controversy. She further surprised the community with her sudden resignation and departure on November 1st, 2007, and with it her financial backing for the Restoration.
 
-=====
 
-Other Historic People
 
-Elias "Eli" Zandi
+&lt;font size=12 style=n&gt;&lt;p align=left&gt;Other Historic People
+
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Elias "Eli" Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Elias Zandi was a wealthy and eccentric archaeologist who often paid large sums of money for particular artifacts that he claimed were connected to him somehow. John Loftin came to Zandi one time claiming to have discovered ancient machines beneath the surface of the Earth and on the 19th of March, 1988 they travelled to the tunnels that led to D'ni.
 
 Elias immediately began buying the land around the area of the tunnels and after another expedition with just Fighting Branch, he contacted his colleague Dr. Watson to join him on an expedition. During a later expedition in 1992 Elias revealed his desire to restore the city and populate it with people who called themselves D'ni. Elias became consumed with the restoration efforts and ignored his health until he died due to a massive heart attack in 1996. He left his wealth to the D'ni Restoration Foundation but left the land to his estranged son, Jeff.
 
------
 
-Jeff Zandi
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Jeff Zandi&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc202*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 The son of Elias Zandi, Jeff became an ally of Yeesha in gaining explorers to her cause. Most of the time he can be found at the Cleft in front of his trailer.
 [The 'real' Jeff died in 2019.]
 
------
 
-John "Fighting Branch" Loftin
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;John "Fighting Branch" Loftin&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 John Loftin discovered the D'ni digging machines in 1987 while searching for artifacts to sell to Elias Zandi. He went on several expeditions to D'ni with Elias Zandi and Richard Watson in the following years until he died during one of them in 1991.
 
------
 
-Rand Miller
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Rand Miller&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc204*1#0.hsm" align=center blend=alpha resize=no&gt;
 
@@ -1843,65 +1826,58 @@ Born January 17, 1959, in Pennsylvania, USA, Rand and his brother Robyn Miller c
 
 Still CEO, he is now less involved with working out storyline, gameplay and programming, instead focusing on managing the projects his company works on. As a sideline, you will find him portraying Atrus in the Myst sequels, some of which were created by other companies, including: Myst III: Exile (by Presto Studios), Myst IV: Revelation and Myst V: End of Ages (both by Ubisoft Montreal). However, he claims that he dislikes this job, and feels he is the wrong person to do it.
 
------
 
-Reteltee
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Reteltee&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 Relteltee is an explorer who was interviewed by the DRC and afterwards appointed as their Guilds Advisor. Reteltee does not vote with the Council, but is one who does independent research on the D'ni guild system before reporting to the Council and the explorers. While he tries to disclose as much information as possible on official movements, his reluctance to separate facts from personal interpretations regarding the D'ni Guild system have not satisfied explorers who desire the DRC to be more open in their decision-making.
 
------
 
-J.D. Barnes
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;J.D. Barnes&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc206*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 J.D. Barnes is an anthropologist who recently entered the Restoration effort as an independent researcher and has collaborated with the DRC on several occasions. He did his graduate work at Oregon State at Corvallis and earned a Master's Degree in Applied Anthropology. He is involved in several projects, including production of a documentary, and has recently asked explorers for help in authenticating old documents from a surface dweller who may have visited D'ni long before the Zandis did.
 
------
 
-Willow "Wheely" Engberg
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Willow "Wheely" Engberg&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc208*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Willow Engberg, nicknamed Wheely, is the daughter of DRC member Michael Engberg who was homeschooled in 2007 in D'ni. She liked to climb and explore the various Ages and was seen occasionally talking with players. In late May 2007 she and her friend Rose were trapped underneath a structural failure at the Kahlo Pub. Rescuers tried to reach her, but in vain. The DRC later revealed that her death was due to an enemy Bahro and not the rock fall.
 
------
 
-Rosette "Rose" Taylor
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Rosette "Rose" Taylor&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc210*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Rosette Taylor, nicknamed Rose, was a close friend of Willow Engberg. She was a brand new explorer, and loved to roam the different Ages together with her friend. In late May 2007 a few explorers briefly met Rose with her friend Willow, shortly before the two of them were trapped underneath a structural collapse at the Kahlo Pub, where Rose was believed to have died instantly.
 
------
 
-Brian Fioca
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Brian Fioca&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc212*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Brian Fioca was described by Douglas Sharper as "an eventual leader" of the explorer community in one of his November 2003 journal entries. Sharper praised him as one of those who "see right through" the DRC during its early stages. He also is the administrator of The Great Tree forum, another fan community which existed during the Uru Live Prologue. He recently completed his Bachelor of Science degree in Computer Science in Seattle, Washington.
 
------
 
-Yeesha
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;Yeesha&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc214*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 Yeesha was born almost 200 years ago to Atrus and Catherine, the main characters in the Myst series. Currently, one of her journeys is accessible in Myst Online: Uru Live; however, she made two others that have been released in the earlier games with a fourth one that was played out in real life. She made her first live appearance along with many Bahro on November 5th, 2007. There she confirmed that "destruction is coming," identified the enemy Bahro leader, promised to draw the Bahro War away from the Cavern, and challenged all to "find a way... make a home."
 
------
 
-The Bahro
+&lt;font size=10 style=b&gt;&lt;p align=left&gt;The Bahro&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 &lt;img src="heritdoc216*1#0.hsm" align=center blend=alpha resize=no&gt;
 
 The Bahro are a race of creatures who have the natural ability to link at will. They were servants to the D'ni for thousands of years, and presumably gave the D'ni the ability to link to other Ages. Since explorers freed the Bahro from the power of the Tablet, the Bahro have now become free to make their own choices. Unfortunately, some of them have chosen revenge for revenge's sake, and are therefore bent on destruction of even innocent life. Yet according to Yeesha, most Bahro are friendly and have protected explorers, the life in the other Ages, and even the D'ni from destruction, even to the point of sacrificing their lives.&lt;PB&gt;
 
-&lt;p align=center&gt;Appendix B
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Appendix B
 
-&lt;p align=left&gt;Chatlog List
+&lt;font size=12 style=n&gt;&lt;p align=left&gt;Chatlog List
 
-Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archives web site [and can be viewed in the Guild of Archivists wiki].
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archives web site [and can be viewed in the Guild of Archivists wiki].
 
 First Restoration Attempt
 
@@ -2068,11 +2044,11 @@ Deception
 
 Exodus&lt;PB&gt;
 
-&lt;p align=center&gt;Appendix C
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Appendix C
 
-&lt;p align=left&gt;DRC Forum Posts List
+&lt;font size=12 style=n&gt;&lt;p align=left&gt;DRC Forum Posts List
 
-Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archive web site. All original posts may be viewed at the DRC site forums [and the Guild of Archivists wiki].
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Editor's Note: Most of the information compiled below is taken directly from the D'ni Restoration Archive web site. All original posts may be viewed at the DRC site forums [and the Guild of Archivists wiki].
 
 2002
 
