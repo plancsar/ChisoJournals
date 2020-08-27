@@ -3,18 +3,15 @@
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="DniEng">
-                <translation language="English">&lt;cover src="DniEng.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="DniEng.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
 D'ni to English Dictionary&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt;AH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;AH
 
-&lt;p align=left&gt;
-ah, prep. marks an object directly affected by the action of the verb
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;ah, prep. marks an object directly affected by the action of the verb
 
 -ah, suff. imperative mood
 
@@ -73,30 +70,27 @@ Ahvo, n. Father(?)
 ahyoheek, n. D'ni game very similar to rock-paper-scissors
 
 
-&lt;p align=center&gt;A
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;A
 
-&lt;p align=left&gt;
-advuh, n. arch
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;advuh, n. arch
 
 atinor, n. beauty
 
 atinoreht, adj. beautiful
 
 
-&lt;p align=center&gt;AY
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;AY
 
-&lt;p align=left&gt;
-aylah, v. (unknown)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;aylah, v. (unknown)
 
 ayshoyk, v. realize
 
 ayts'day, n. retribution
 
 
-&lt;p align=center&gt;B
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;B
 
-&lt;p align=left&gt;
-b', prep. to
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;b', prep. to
 
 b'bree, a little (lit. "to two")
 
@@ -203,10 +197,9 @@ broon, n. tube
 buhgsho (unknown)
 
 
-&lt;p align=center&gt;CH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;CH
 
-&lt;p align=left&gt;
-chahn, v. can(?), be able to(?), may(?)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;chahn, v. can(?), be able to(?), may(?)
 
 chay, n. fault (geological)
 
@@ -235,10 +228,9 @@ chor bahkh, n. a type of D'ni food (meat roll?)
 choylahnay, v. complete
 
 
-&lt;p align=center&gt;D
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;D
 
-&lt;p align=left&gt;
-d', adv. again, re-
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;d', adv. again, re-
 
 D'nee, D'ni, lit. New Start
 
@@ -297,10 +289,9 @@ drahtol (unknown)
 du, n. food
 
 
-&lt;p align=center&gt;DH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;DH
 
-&lt;p align=left&gt;
-dhaynoy, n. setback
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;dhaynoy, n. setback
 
 dhehlim, n. right(?), wit(?), strength(?), numbers(?)
 
@@ -309,12 +300,9 @@ dho, adv. how
 dhozonehsh, adv. however(?)
 
 
-&lt;p align=center&gt;EH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;EH
 
-&lt;p align=left&gt;
-eder, n./v. sleep, rest
-
-Eder Tomahn, way station, rest house
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;eder, n./v. sleep, rest; station
 
 ehg (unknown)
 
@@ -371,10 +359,9 @@ ehtahf (unknown)
 -ehts, noun-adjective suffix (-y; -th)
 
 
-&lt;p align=center&gt;EE
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;EE
 
-&lt;p align=left&gt;
-een, pron. det. any
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;een, pron. det. any
 
 eer, n. bandage (strip of cloth to cover a wound)
 
@@ -383,10 +370,9 @@ eest, pron. them; 3rd person plural object pronoun
 -eet, 3rd person plural actor suffix (they)
 
 
-&lt;p align=center&gt;F
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;F
 
-&lt;p align=left&gt;
-f', prep. on
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;f', prep. on
 
 fah, num. 1, one; single
 
@@ -441,10 +427,9 @@ freh, prep. at the, on the
 fuhsh, v. change color(?)
 
 
-&lt;p align=center&gt;G
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;G
 
-&lt;p align=left&gt;
-g', conj. and
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;g', conj. and
 
 g're-, conj. and the
 
@@ -553,10 +538,9 @@ greh-, conj. and the
 guhlehm, n. strait(?) channel(?)
 
 
-&lt;p align=center&gt;H
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;H
 
-&lt;p align=left&gt;
-h'rot (unknown)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;h'rot (unknown)
 
 hahpo, v. combine, mix
 
@@ -599,10 +583,9 @@ hootsay, adj. holy
 hootsayth, n. holiness
 
 
-&lt;p align=center&gt;I
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;IH
 
-&lt;p align=left&gt;
-idhsay, n. line
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;idhsay, n. line
 
 iglahrno, adj. temporary
 
@@ -625,10 +608,9 @@ istah, v. through(?), operate(?), control(?), use(?)
 isyeer, v. revere
 
 
-&lt;p align=center&gt;J
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;J
 
-&lt;p align=left&gt;
-jahgah, v. warrant(?), provide(?)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;jahgah, v. warrant(?), provide(?)
 
 jeroo, adj. possible
 
@@ -639,10 +621,9 @@ jikhah, v. remain(?)
 jimah, n. prophecy
 
 
-&lt;p align=center&gt;K
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;K
 
-&lt;p align=left&gt;
-k'tehsh, v. entertain
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;k'tehsh, v. entertain
 
 k'tsee, adj. happy
 
@@ -761,10 +742,9 @@ krogestahn, n. dancer
 krogestoy, n. dance, the art of dancing
 
 
-&lt;p align=center&gt;KH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;KH
 
-&lt;p align=left&gt;
-kh', prep. for
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;kh', prep. for
 
 khah, adj. few
 
@@ -789,10 +769,9 @@ khoytahg, n. result(?), question(?)
 khreh-, prep. for the
 
 
-&lt;p align=center&gt;L
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;L
 
-&lt;p align=left&gt;
-l', present perfect tense prefix (has/have), before a vowel
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;l', present perfect tense prefix (has/have), before a vowel
 
 l'izchah, v. cry
 
@@ -851,10 +830,9 @@ lorahg, n. grace(?), joy(?)
 loymaht, conj. though
 
 
-&lt;p align=center&gt;M
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;M
 
-&lt;p align=left&gt;
-m'lah, n. lizard
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;m'lah, n. lizard
 
 m're-, prep. from the, of the
 
@@ -965,10 +943,9 @@ mreh-, prep. from the, of the
 muhkhon, adj. complex, complicated
 
 
-&lt;p align=center&gt;N
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;N
 
-&lt;p align=left&gt;
-n', prep. around
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;n', prep. around
 
 na'grenis, adj. brittle
 
@@ -1049,10 +1026,9 @@ nuhdahtahv, n. disaster(?)
 nuhree, n. the primary D'ni monetary unit
 
 
-&lt;p align=center&gt;O
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;O
 
-&lt;p align=left&gt;
-oehnahzo, v. hope, wish
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;oehnahzo, v. hope, wish
 
 ogel, v. age, get old(?)
 
@@ -1085,10 +1061,9 @@ oshahnin, adj. lost
 -ot, 1st plural possessor suff. (our)
 
 
-&lt;p align=center&gt;OO
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;OO
 
-&lt;p align=left&gt;
-oochah, n. a young tarpin shal
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;oochah, n. a young tarpin shal
 
 oolbah, n. office
 
@@ -1105,18 +1080,16 @@ ooroo, n. large gathering, grand community
 ooshah, n. formula
 
 
-&lt;p align=center&gt;OY
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;OY
 
-&lt;p align=left&gt;
--oy, 1st singular possessor suff. (my)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-oy, 1st singular possessor suff. (my)
 
 oyn, prep. myself(?), for my sake(?), moreover(?)
 
 
-&lt;p align=center&gt;P
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;P
 
-&lt;p align=left&gt;
-pahboy, v. bless
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;pahboy, v. bless
 
 pahl, adv?, anyway(?), must(?), please(?)
 
@@ -1205,10 +1178,9 @@ prorahn, equal to about 1.5 seconds of surface time
 pumi, n. an animal that can jump from tree to tree
 
 
-&lt;p align=center&gt;R
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;R
 
-&lt;p align=left&gt;
--rah, num. 25^2 (625), combining form
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-rah, num. 25^2 (625), combining form
 
 rahm, adj. good
 
@@ -1317,10 +1289,9 @@ rotee (unknown)
 rov, n. person
 
 
-&lt;p align=center&gt;S
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;S
 
-&lt;p align=left&gt;
-sahehth, n. own (one), owned thing, property
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;sahehth, n. own (one), owned thing, property
 
 say, n./v. design
 
@@ -1346,9 +1317,26 @@ seren, n. light
 
 seht, set, pron. us
 
-sehv, n. age
+sehv, n. agerocksalt
 
--sh, suff. adjective-adverb suffix (-ly)
+sifay, adj. wired
+
+sofehguh, v. fear
+
+somah, n. seal, signet
+
+sovah (unknown)
+
+soygi, adj. stable
+
+soygith, n. stability
+
+stofah, of one
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;SH
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-sh, suff. adjective-adverb suffix (-ly)
 
 shahfee, n. span
 
@@ -1398,27 +1386,12 @@ shoraht, adj. peaceful
 
 shufay, v. finish
 
-shuhteejoo, n. rocksalt
-
-sifay, adj. wired
-
-sofehguh, v. fear
-
-somah, n. seal, signet
-
-sovah (unknown)
-
-soygi, adj. stable
-
-soygith, n. stability
-
-stofah, of one
+shuhteejoo, n. 
 
 
-&lt;p align=center&gt;T
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;T
 
-&lt;p align=left&gt;
--t, noun-adjective suffix (-ful)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-t, noun-adjective suffix (-ful)
 
 t', prep. in, by, with
 
@@ -1593,18 +1566,16 @@ tromehts, adj. winged
 tuliema, n. a plant in the Serenol Age
 
 
-&lt;p align=center&gt;TH
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;TH
 
-&lt;p align=left&gt;
--th, adjective-noun suffix (-ty/one)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-th, adjective-noun suffix (-ty/one)
 
 thirk, v. save (keep)
 
 
-&lt;p align=center&gt;TS
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;TS
 
-&lt;p align=left&gt;
-tsahn, adv. always, forever
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;tsahn, adv. always, forever
 
 tsahno, adj. everlasting, permanent, eternal (nonliving)
 
@@ -1645,20 +1616,18 @@ tsosahtahv, n. possession(?), treasure(?)
 tsotoy, n. child
 
 
-&lt;p align=center&gt;U
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;UH
 
-&lt;p align=left&gt;
-uhgraht, n. pillars in the Wahrk Lake
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;uhgraht, n. pillars in the Wahrk Lake
 
 uhmt (unknown)
 
 urwin, n. a large bird native of Negilahn
 
 
-&lt;p align=center&gt;V
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;V
 
-&lt;p align=left&gt;
-v'ja, n. celebration
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;v'ja, n. celebration
 
 vah-, num. 5, five, combining form
 
@@ -1715,20 +1684,18 @@ votahnah, n. truth
 votahr, v. praise
 
 
-&lt;p align=center&gt;W
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;W
 
-&lt;p align=left&gt;
-winis, adv. together(?), forward(?)
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;winis, adv. together(?), forward(?)
 
 wish, v. lift (raise)
 
 wotsah, adj. harsh
 
 
-&lt;p align=center&gt;Y
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Y
 
-&lt;p align=left&gt;
-yahr, time, day
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;yahr, time, day
 
 Yahvo, name, Maker, God
 
@@ -1749,10 +1716,9 @@ yishah, n. planet(?)
 yootay, n. guinea pig; v. owe
 
 
-&lt;p align=center&gt;Z
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Z
 
-&lt;p align=left&gt;
-zahfay, n. fate
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;zahfay, n. fate
 
 zeh, pron. her, him(?)
 
