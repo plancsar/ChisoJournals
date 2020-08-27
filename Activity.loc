@@ -3,21 +3,19 @@
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="Activity1">
-                <translation language="English">&lt;cover src="Activity1.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="Activity1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
 Activity in the Cavern
 
-Mac_Fife
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Mac_Fife
 
 February 2010
 
 Part I&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=left&gt;After the last remaining Restoration Engineers left the Cavern in April 2008, it became a largely empty and desolate place once again. A few explorers remained behind attempting to continue private studies of D'ni life. Some, perhaps brazenly, even posted accounts of their forays into D'ni and exploration of ages on the DRC forums, but most stayed away, fearing the dangers of an unmaintained Cavern. After all, disasters had occurred even when there was a watchful DRC presence. Yet others drifted off into new avenues of exploration, some far away from the great cave below the New Mexico desert.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;After the last remaining Restoration Engineers left the Cavern in April 2008, it became a largely empty and desolate place once again. A few explorers remained behind attempting to continue private studies of D'ni life. Some, perhaps brazenly, even posted accounts of their forays into D'ni and exploration of ages on the DRC forums, but most stayed away, fearing the dangers of an unmaintained Cavern. After all, disasters had occurred even when there was a watchful DRC presence. Yet others drifted off into new avenues of exploration, some far away from the great cave below the New Mexico desert.
 
 Occasionally, explorers would meet and discuss the prospects of returning to the Cavern, and suggestions started to filter down from the DRC that might allow the explorers to resource a form of restoration themselves. The DRC leaders had become involved in other projects and progress on the proposals was slow and information scant. Meantime, "unauthorized explorers" continued to make infrequent and solitary visits, but for many people the Cavern became just a memory.
 
@@ -395,21 +393,19 @@ Photo by EthanEver
 The occupants of the Cavern now felt accepted in their surroundings and less like the "unauthorized explorers" that they were at the start of the weekend.</translation>
             </element>
             <element name="Activity2">
-                <translation language="English">&lt;cover src="Activity2.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+                <translation language="English">&lt;cover src="Activity2.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
 Activity in the Cavern
 
-Mac_Fife
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Mac_Fife
 
 February 2010
 
 Part II&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=left&gt;Later that afternoon, Marie Sutherland once again emerged from the Tokotah building to chat with assembled explorers. Word of the DRC's acceptance of their presence in the Cavern had obviously spread as one or two new faces had joined the group.
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;Later that afternoon, Marie Sutherland once again emerged from the Tokotah building to chat with assembled explorers. Word of the DRC's acceptance of their presence in the Cavern had obviously spread as one or two new faces had joined the group.
 
 Greetings and pleasantries exchanged, the conversation continued: "All recovered from your trip out and down this weekend, Marie?" enquired JWPlatt.
 
@@ -775,7 +771,8 @@ The Called had returned.
 Returning Explorers are met at the Ferry Terminal: Clockwise from center front: Tai'lahr, Azador, Mystdee, Gondar, JWPlatt, Keiya. Photo by Tai'lahr
 
 
-Credits
+
+&lt;font size=10 style=b&gt;&lt;p align=center&gt;Credits&lt;font size=10 style=n&gt;&lt;p align=left&gt;
 
 * Narrative and document assembly by Mac_Fife.
 * Editorial advice by Ainia.
