@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="DniEng">
-                <translation language="English">&lt;cover src="DniEng.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+            <element name="DniDict1">
+                <translation language="English">&lt;cover src="DniDict1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
@@ -1748,23 +1748,1684 @@ zuh, n. end
 
 zuhnuh, n. ending</translation>
             </element>
-            <element name="EngDni">
-                <translation language="English">&lt;cover src="EngDni.hsm"&gt;&lt;font size=10 face=courier color=000000&gt;&lt;margin right=62 left=62&gt;&lt;p align=center&gt;&lt;PB&gt;
-
-&lt;p align=center&gt;
+            <element name="DniDict2">
+                <translation language="English">&lt;cover src="DniDict2.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 
 
 English to D'ni Dictionary&lt;PB&gt;&lt;PB&gt;
 
-&lt;p align=center&gt; A
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;A
 
-&lt;p align=left&gt;
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;a: erth
+
+able: shin
+
+about (quantity): blo
+
+about (relation): tso
+
+acid: bonoo
+
+acidic: bonooets
+
+acquire: seen
+
+act (v.): fenges
+
+acting: fengestoy
+
+actor: fengestahn
+
+actual: robot
+
+again: d'
+
+once again: preniv
+
+age: sev
+
+all: biv
+
+always: tsahn
+
+am (is: are: be): ken
+
+am (is: are) ... -ing: do-
+
+among: te
+
+an: erth
+
+ancient: oglahn
+
+and: gah
+
+and the: gre-
+
+angel: sheeyah
+
+angle (unit of angular elevation): toran
+
+another (adj.): kevo
+
+another (n.): kevoth
+
+antelope: kelahnee
+
+any: een
+
+arch: advuh
+
+archive (v.): chiso
+
+archivist: chisotahn
+
+are (see am)
+
+around: n', ne
+
+arrive: lis
+
+art: gestoy
+
+art of dancing: krogestoy
+
+art of playing a role: fengestoy
+
+as a: terth-
+
+as if it were, like: don
+
+at: se
+
+at the: fre-; tre-
+
+atmosphere: viduh
 
 
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;B
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;bandage (n.): eer
+
+basalt: ahbtsee
+
+basaltic: ahbtseeehts
+
+to be: b'ken
+
+have been: leken
+
+have been ... -ing: dol-
+
+be determined: tokituh
+
+beast: bah
+
+beast-people: bah'ro
+
+beautiful: atinoret
+
+beauty: atinor
+
+because: gopah
+
+become: ahnee
+
+begin: glo
+
+New Beginning: D'nee
+
+[belong]: pisho
+
+belonging to: okh
+
+[bend]: nekis
+
+bent: nekisahl
+
+one who is bent, twisted or distorted: nekisahloth
+
+birth: vokan
+
+black: oko
+
+blank: neeah
+
+blank book: kor'neeah
+
+bless: pahboy
+
+blessing: bigto
+
+blue: trel
+
+book: kor
+
+blank book: kor'neeah
+
+descriptive book: kormahn
+
+first book: korfah
+
+linking book: korvahkh
+
+book-making: korbah
+
+book-worlder: ahrotahn
+
+brave: kerah
+
+brave one: Kerath
+
+breeze: kahlo
+
+bright: tsogahl
+
+bring: kilo
+
+bringer of death: manhshooth
+
+brittle: na'grenis
+
+brother: bol
+
+build: enday
+
+builder: endaytahn
+
+building: senahren
+
+bulb: poy
+
+bulldozer: shokrotahn
+
+but: roob
+
+by: t', te
 
 
-                </translation>
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;C
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;call (v.): foosah
+
+call upon, invoke: khoyoo
+
+can (v.): voohee
+
+Gehn's cane: heek
+
+carrier: laysootahn
+
+carry: laysoo
+
+cartographer: bahtsentahn
+
+Guild of Cartographers: telbahtsen
+
+cater: doo'shol
+
+caterer: doo'sholtahn
+
+Guild of Caterers: teldoo'shol
+
+[caution]: keshtahv
+
+cave: gahlpo
+
+celebration: v'ja
+
+change (n.): kesotahv
+
+change (v.): keso
+
+changer: kesotahn
+
+charge (v.): ila.is
+
+cherish: sheten
+
+child: tsotoy
+
+[circle]: grahner
+
+city: pahts
+
+claim (v.): behl
+
+clean: nee
+
+clock: gorahyan
+
+close (v.): lahsah
+
+cold (adj.): torini
+
+combine, mix: hahpo
+
+come: mahlah
+
+grand community: ooroo
+
+compel: bekhe
+
+complete (v.): choylahnay
+
+complex, complicated: muhkhon
+
+condition: flin
+
+construct: mishtah
+
+construction: mishtahtahv
+
+contact (n.): terelin
+
+[control (n.)]: oolintahv
+
+[control (v.)]: oolin
+
+could: voohee
+
+council: kaligo
+
+courier: laysootahn
+
+crater: roshee
+
+create: mahrn
+
+creation: mahrntahv
+
+creator: mahrntahn
+
+creature: boogin
+
+cry (v.): l'izchah
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;D
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;dance (n.): krogestoy
+
+dance (v.): kroges
+
+dancer: krogestahn
+
+danger: paychahvo
+
+dark (n.): rahshahth
+
+day: yahr
+
+death: mahnshootahv, shooth
+
+Death Bringer: manhshooth
+
+defeat (v.): dormahdh
+
+[depart]: koozah
+
+descriptive book: kormahn
+
+desert sand: kirin
+
+deserve: veewuh
+
+design (v., n.): say
+
+destroy: rooayk
+
+destruction: rooayktahv
+
+determine, be determined: tokituh
+
+detour (v.): kahzee
+
+Devil: Jakooth
+
+did: ko-
+
+die (v.): mahnshoo
+
+die by accident or murder: tahroo
+
+different: ahro
+
+diligence: remesfeteth
+
+diligent: remesfet
+
+dirt-mover: shokrotahn
+
+discover: lon
+
+dissolve: reeslo
+
+distorted: nekisahl
+
+one who is bent, twisted or distorted: nekisahloth
+
+dome tower: dahsh
+
+place of the locked door(s): Tokotah
+
+drink (v.): glahs
+
+dry: ferem
+
+due: gatah
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;E
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;each: pod
+
+east: vahmo
+
+eastern: vahmot
+
+eat: rees
+
+-ed (adj.): -in; -ahl
+
+to be (will be, has been) ... -ed (pass.): -ij
+
+-ed (past): ko-
+
+eight: vahgahsen
+
+eighteen: heegahsen
+
+eighth month: Leevosahn
+
+[elevate]: elon
+
+unit of angular elevation: toran
+
+eleven: naygahfah
+
+[elite]: elahth
+
+empire: gahn
+
+-en (adjectival): -in
+
+to be (will be: has been) ... -en (pass.): -ij
+
+end (n.): zuh
+
+ending: zuhnuh
+
+enigma: deseekay
+
+[enslave]: kahntin
+
+entertain: k'tesh
+
+-er (agent): -tahn
+
+error: ahve
+
+-est (superlative): b'fahsee
+
+eternal (living): tsahvahn
+
+eternal (nonliving): tsahno
+
+everlasting: tsahno
+
+every: biv
+
+everyone: bivrov
+
+everything: bivdil
+
+example: klay, khlay
+
+excavate: gid
+
+excavation: gidtahv
+
+existence: mahn
+
+experience: fahdho
+
+eyeglasses: yeepay
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;F
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;fact: lesh
+
+fair, just: oner
+
+far (adj., adv.): fahm
+
+farewell (interj.): shorah
+
+fate: zahfay
+
+[father]: Ahvo
+
+fault (geological): chay
+
+fear: sofeguh
+
+few: khah
+
+a few: tren
+
+fifteen: heebor
+
+15,625: -lahn
+
+fifth month: Leevot
+
+fifty: breesee
+
+final: noref
+
+find: hoor
+
+finish (v.): shuhfay
+
+fire: tahm
+
+first: fahets
+
+first book: korfah
+
+first month: Leefo
+
+fish native to Eder Kemo: keemo
+
+five: vaht
+
+floor: togo
+
+flow (v.): rem
+
+fold (v.): fahlah
+
+folded (adj.): fahlah'ahl
+
+follow: mahrent
+
+food: doo
+
+foot: toogo
+
+for (exchange, duration): ben
+
+for (purpose): khe
+
+for the: khre-
+
+force (v.): bekhe
+
+forever: tsahn
+
+forget: malo
+
+formula: ooshah
+
+fortress: Gahreesen
+
+fortune: mooden
+
+[foundation]: tson
+
+four: tor
+
+fourteen: naygahtor
+
+fourth: torets
+
+fourth month: Leetar
+
+friend: tishmah
+
+fresh: nee
+
+from, made from: me
+
+from the: mre-
+
+[fund] (v.): pazgo
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;G
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;gallery: timel
+
+game similar to rock-paper-scissors: ahyoheek
+
+game played on a 3-dimensional grid: gemedet
+
+garden age: Eder
+
+garrison: Gahreesen
+
+gate: kotsah
+
+[gather]: nem
+
+large gathering: ooroo
+
+get, acquire: seen
+
+get, arrive: lis
+
+get, become: ahnee
+
+give: tahg
+
+glow (v.): tsoïd
+
+glowing: tsoïdahl
+
+God: Yahvo, Bahreltahn
+
+good: rahm
+
+[grandmother]: mor'okh'mor
+
+great, large: pahrah
+
+great, mighty: gahro
+
+great one: gahroth
+
+great words (words used in the Art): gahrohevtee
+
+Great Tree: Gahrter
+
+greatly: gahrosh
+
+greatness: pahrahth, gahroth
+
+greet: tsoonoo
+
+ground (n.): gahlon
+
+group: tes
+
+grow: tool
+
+guild: tel
+
+Guild of Cartographers: telbahtsen
+
+Guild of Caterers: teldoo'shol
+
+Guild of Maintainers: telbeeree
+
+Guild of Messengers: telshee
+
+Guild of Surveyors: telook
+
+guild-person, guildsman: telrov
+
+guinea pig: yootay
+
+gusty: elioykhets
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;H
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;had ... -ed (-en): kol-
+
+had been ... -ing: kodol-
+
+hammer: dahgo
+
+happy: k'tsee
+
+harsh: wotsah
+
+have, own: sekh, sek
+
+have (has) ... -ed (-en): l', le-
+
+have been: leken
+
+have been ... -ing: dol-
+
+he: -en
+
+heavily scarred: Minkata
+
+hello (interjection): shorah
+
+help: tayr
+
+her (object): ze
+
+her (possessive): -on
+
+here: tomet
+
+high: el
+
+the high place: Relto
+
+[high(est) one]: elahth
+
+highly: b'rigahsen
+
+[him]: ze
+
+his: -on
+
+historian: fentasenta
+
+holiness: hootsaith
+
+holy: hootsay
+
+home: tomahnah
+
+homesick: tome
+
+hope (lit. rebirth): devokan
+
+hope, wish (v.): oenahzo
+
+horn (of an animal): tsofah
+
+hostile: oonahn
+
+house: tomahn
+
+about 1 hour 13 minutes: pahrtahvo
+
+how (adv., interrogative): dho
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;I
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;I: (no verb suffix)
+
+idiot: lenitah
+
+[if]: khoy
+
+immediate: gimit
+
+immortal: tsahvahn
+
+in: t', te
+
+in a: terth-
+
+in the: tre-
+
+-ing (adjectival): -ahl
+
+-ing (progressive): do-
+
+ink: lem
+
+insane: zeeglah
+
+instruct: shokhoo
+
+woodwind instrument: maral-obe
+
+invoke: khoyoo
+
+-ion: -tahv
+
+is (see am)
+
+island: bahntahno
+
+it: -en; tah
+
+its: -on
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;J
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;journey: lenah
+
+judge (n.): golantan
+
+just, fair: oner
+
+just (adv.): kat
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;K
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;keep: beerah
+
+keep, save: thirk
+
+king: porpah
+
+know: tahgahm
+
+[krill fly]: kiri
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;L
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;labyrinth: dayjee fahlah'ahl
+
+large: pahrah
+
+laughter: yeeshah
+
+lava: ahnotahm
+
+layer: mahrg
+
+learn: choor, tahgayr
+
+[least]: zithahth
+
+lechuguilla (agave species): beletsahrah
+
+lexicon: hevkor
+
+lift (v.): wish
+
+light (n.): seren
+
+like (adv.): don
+
+line: idhsay
+
+link (v.): baykh
+
+linking (adj.): vahkh
+
+linking book: korvahkh
+
+a little (adv.): b'bree
+
+live (v.): tsahv
+
+lizard: m'lah
+
+place of the locked door(s): Tokotah
+
+long: tonah
+
+lord: oonray
+
+lose: oshahn
+
+loss: zo'e
+
+lost: oshahnin
+
+love (with the mind): taygahn
+
+low (adj.): zith
+
+[lower (v.)]: zithon
+
+-ly: -sh, -esh
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;M
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;machine: doyhah
+
+mad, insane: zeeglah
+
+something made (n.): bahreltahv
+
+made from (preposition): me
+
+magma-based: ahnotahm
+
+magnet: palmen
+
+magnetic: palmenets
+
+main: chil
+
+mainly: chilesh
+
+maintain: beeree
+
+maintainer: beereetahn
+
+Guild of Maintainers: telbeeree
+
+make: bahrel
+
+make, produce: netso
+
+maker: bahreltahn
+
+Maker, God: Bahreltahn, Yahvo
+
+book-making: korbah
+
+many: kosuh
+
+map (n.): bahtsahnah
+
+to map (v.): bahtsen
+
+mapper: bahtsentahn
+
+marble (n.): dahko
+
+master: nahvah
+
+may (wish): yeret
+
+[may (permission)]: chahn
+
+me: zoo
+
+meat: ikhah
+
+memorial: tefoonet
+
+merely: neegesh
+
+message: sheetem
+
+messenger: sheetemsootahn
+
+Guild of Messengers: telshee
+
+mightily: gahrosh
+
+mighty: gahro
+
+mighty one: Garoth
+
+mighty words: gahrohevtee
+
+mineral: irvan
+
+mist, misty: delin
+
+mix, combine: hahpo
+
+mollify: veren
+
+monetary unit: nuhree
+
+money: nuhreetee
+
+money stone: pradnuhreetee
+
+month: lee-, vilee
+
+more than: inay
+
+[mouth]: po
+
+move: kro
+
+mushroom: nadahn
+
+mushroomy: nadahnets
+
+device for playing recorded music: cannen
+
+(you) must, (we) must, etc. (imperative): -ah
+
+my: -oy
+
+mystery: deseekay
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;N
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;name: foosahtahv
+
+natural: vogets
+
+nature: vog
+
+near (adj.): fahsh
+
+near the: tre-
+
+[necessary]: tseemahahl
+
+need (v.): tseemah
+
+-ness: -th
+
+never: tsahnril
+
+new, blank: neeah
+
+new, fresh: clean: nee
+
+new again: d'nee
+
+New Beginning, New Start: D'nee
+
+nine: vahgahtor
+
+9,765,625: -blo
+
+nineteen: heegahtor
+
+ninth month: Leevotar
+
+no: ril
+
+nobody: rilrov
+
+north: remah
+
+not: ril
+
+nothing: rildil
+
+[now]: gormet
+
+number: her
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;O
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;obey: keebah
+
+[observatory]: Todelmer
+
+[ocean]: gahrahno
+
+of, about: tso
+
+of one: stofah
+
+of, among: te
+
+of a: terth-
+
+of the: tre-
+
+of, belonging to: okh
+
+of, made from: me
+
+of the: mre-
+
+office: oolbah
+
+on: f', fe
+
+on the: fre-
+
+once again: preniv
+
+one: fah; -th
+
+only (adj.): lahn
+
+only (adv.): kat
+
+[oppress]: kahntin
+
+or: pahm
+
+-or (agent): -tahn
+
+order: flin
+
+organism: chir
+
+original: kahg
+
+originally: kahgesh
+
+other (adj.): ahro
+
+others: ahrotahn(tee)
+
+our: -ot
+
+straight out, from: megoyray
+
+outer: melin
+
+outsider: ahrotahn
+
+outworlder: ahrotahn
+
+owe: yootay
+
+own, have: sekh, sek
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;P
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;pacify: veren
+
+[part]: nahsh
+
+path: dayjee
+
+peace: shorah
+
+peaceful: shoraht
+
+people: rovtee
+
+People of the Root: Ronay
+
+beast-people: bahro
+
+perhaps: khahpo
+
+permanent: tsahno
+
+permanently: tsahnosh
+
+person: rov
+
+phosphorescent: bahronet
+
+pillar in Jalak: jahlahk
+
+pillar in the Wahrk Lake: uhgraht
+
+place: to
+
+[planet]: yishah
+
+plant (n.): gilo
+
+plant similar to a lechugilla: beletsahrah
+
+plant with (poisonous) yellow berries: yertis
+
+device for playing recorded music: cannen
+
+play a role: fenges
+
+pleasure: meoor
+
+pod: zik
+
+poisoned water: merk
+
+plant with (poisonous) yellow berries: yertis
+
+[possession]: tsosahtahv
+
+possibility: jerooth
+
+possible: jeroo
+
+power (v.): ila.is
+
+praise: votahr
+
+prepare: shol
+
+presence: vaytsoo
+
+procedure: riway
+
+produce: netso
+
+prophecy: jimah
+
+prophet: meestahnyah
+
+prophetical work: geltav
+
+protect: ahreeuh
+
+protection: ahreeuhtahv
+
+protector: ahreeuhtahn
+
+puzzle: deseekay
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Q
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;queen: morpah
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;R
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;raise, lift: wish
+
+re-: d', de-
+
+read: neze
+
+reader: nezetahn
+
+ready: ahtsoo
+
+realize: ayshoyk
+
+rebirth: devokan
+
+receive: pilel
+
+red: roodsh
+
+regret (v.): zoodoo
+
+reign (v.): poget
+
+remain: beerah
+
+remember: rifoon
+
+require: mes
+
+rest (v., n.): eder
+
+retribution: ayts'day
+
+return: d'mahlah
+
+revere: isyeer
+
+rock: prad
+
+rocksalt: shuhteejoo
+
+rock-working: pradteegahl
+
+rocky: pradets
+
+play a role: fenges
+
+room: hern
+
+root: nay. Root of the Great Tree: Garternay. People of the Root: Ronay
+
+route: rooay
+
+row (v.): fel
+
+rower: feltahn
+
+rule (n.): lesh
+
+rule (v.): poget
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;S
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-s (plural): -tee
+
+safe (adj.): gitsah
+
+safety: gitsahth
+
+saliva: poahnt
+
+desert sand: kirin
+
+save (keep): thirk
+
+heavily scarred: Minkata
+
+sculpt: pradges
+
+sculptor: pradgestahn
+
+sculpture: pradgestoy
+
+seal (v.): lahsah
+
+sealed place: Tolesa
+
+seal, signet: somah
+
+about 1.5 seconds: prorahn
+
+second month: Leebro
+
+see (v.): yim
+
+seek: taykheboorkh
+
+seen (adj.): yimah
+
+series: bantee
+
+setback: dhaynoy
+
+seven: vahgahbree
+
+seventeen: heegahbree
+
+seventh month: Leevobro
+
+shaft: tiwah
+
+she: -en
+
+sick: enyalo
+
+sickly one: enyaloth
+
+signet: somah
+
+simple: ten
+
+simply: tenesh
+
+single: fah
+
+six: vahgahfah
+
+624: rigahtorseerigator
+
+625: -rah
+
+six-in-a-line: gemedet
+
+sixteen: heegahfah
+
+sixth month: Leevofo
+
+skill: erem
+
+sleep (v., n.): eder
+
+small: prin
+
+smoke: nijuh
+
+smoked: nijuhets
+
+smoked meat: ikhah nijuhets
+
+so: b'rish
+
+some: tren
+
+soon: gorven
+
+sorrowful, sorry: tikoleet
+
+soul: veelay
+
+south: teemah
+
+span (n.): shahfee
+
+speak: mees
+
+speaker: meestahn
+
+speech: meestahv
+
+spit (v.): torn
+
+spore: elemahr
+
+[squad]: teejuh
+
+stability: soygith
+
+stable (adj.): soygi
+
+New Start: D'nee
+
+way station: eder tomahn
+
+stay: beerah
+
+[steam]: gira
+
+step: keelen
+
+still (adv.): gahth
+
+jet black light weight artificial stone: deretheni
+
+metallic gray stone: nara
+
+money stone: pradnuhreetee
+
+storm: gahrkahl
+
+stormy: gahrkahlets
+
+story: fenah
+
+storyteller: tee'ahnah (Ti'ana)
+
+straight: goyray
+
+straight out: megoyray
+
+stream: kooahn
+
+strike: dahg
+
+strip of cloth to cover a wound: eer
+
+structure: senahren
+
+suffer: neetsahvay
+
+sufficient: fooruh
+
+sunny: tsogahl
+
+surface: tahleeo
+
+survey: look
+
+Surveyors Guild: telook
+
+swarm: hevo
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;T
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;take: shento
+
+-teen: nay-
+
+tell (v.): dahbah
+
+temple (to Yahvo): geltovokum
+
+temporary: iglahrno
+
+ten: nayvoo
+
+tenth month: Leenovoo
+
+-th: -ets
+
+more than: inay
+
+thank: chev
+
+thankful: chevet
+
+thanks: chevtahvtee
+
+that (thing): mot
+
+that ... would: roo
+
+the: r', re-
+
+their: -os
+
+them: eest
+
+then: gormot
+
+there: meet; tomot
+
+they: -eet
+
+[thing]: dil
+
+think: kahnrad
+
+third month: Leesahn
+
+thirteen: naygahsen
+
+this: met
+
+those: motee
+
+though: loymaht
+
+three: sen
+
+390,625: -mel
+
+time: gor
+
+about 1.5 seconds: prorahn
+
+about 35 seconds: gorahn
+
+about 14.5 minutes: tahvo
+
+about 1 hour and 13 minutes: pahrtahvo
+
+about 6 hours and 3 minutes: gahrtahvo
+
+about 30 hours and 14 minutes: yahr
+
+[about 36 days and 13 hours]: vilee
+
+time-piece: gorahyan
+
+-tion: -tahv
+
+to: b', be
+
+to the: bre-
+
+top: filahdh
+
+toxic: miro
+
+dome towers: dahsh
+
+travel between Ages: baykh
+
+tree: ter. New Tree: Terahnee. Root of the Great Tree: Garternay
+
+trust (v.): pahn
+
+truth: votahnah
+
+tube: broon
+
+tunnel: bishtah
+
+long tweezers: re'dantee
+
+twelve: naygahbree
+
+twenty: rish
+
+twenty-one: rigahfah
+
+twenty-two: rigahbree
+
+twenty-three: rigahsen
+
+twenty-four: rigahtor
+
+twenty five: fahsee: -see
+
+[twist]: nekis
+
+twisted, bent: nekisahl
+
+one who is twisted, bent or distorted: nekisahloth
+
+twisted, insane: zeeglah
+
+two: bree
+
+-ty (abstract): -th
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;U
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;universe: misho
+
+unknown: riltagamin
+
+unseen (adj.): rilyimah
+
+the Unseen: Relyimah (Terahnee word)
+
+unwritten: rilgelin
+
+upon: fe
+
+us: set
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;V
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;vanquished: rahsoo
+
+various: rahnahl
+
+vault: tolesah
+
+very: b'rish
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;W
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;[warning]: keshtahv
+
+warped: zeeglah
+
+was: koken
+
+was (were) ... -ing: kodo-
+
+watch (v.): mer
+
+water: ahno
+
+poisoned water: merk
+
+watery: ahnoets
+
+way: sheegah
+
+way station: eder tomahn
+
+we: -et
+
+welcome (v.): taynee
+
+you're welcome: meoor (lit. pleasure)
+
+well (adj., adv.): ahgo
+
+were (see was)
+
+west: sayrah
+
+wet: ahnoets
+
+what: kam
+
+[where]: kamto
+
+which (what one): kamfah
+
+which, that (thing): mot
+
+white: hahzah
+
+who: kamrov
+
+whole (n.): leeshahn
+
+why: kamdol
+
+will (future tense): bo-
+
+will be: bodo-
+
+will have: boko-, bol-
+
+will have been: bodol-
+
+wind: kahlo
+
+wing: trom
+
+winged: tromets
+
+wired: sifay
+
+wish (v.): oenahzo
+
+wisdom: ge'dahn
+
+with: t': te
+
+with the: tre-
+
+[without]: rilte
+
+woman: min
+
+woodwind instrument: maral-obe
+
+word: hev
+
+great words, mighty words (used in the Art): gahrohevtee
+
+work (n.): teegtahv
+
+writings, prophetic work: geltahv
+
+work (v.): teeg
+
+worker: teegtahn
+
+working: teegahl; teeget
+
+world: dovah
+
+would have: kobol-
+
+that ... would: roo
+
+write (ordinary): gel
+
+write (Ages): sel
+
+writer (ordinary): geltahn
+
+writer, one who writes (Ages): seltahn
+
+written: gelin
+
+[written work]: geltahv
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Y
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;-y: -ets
+
+year: hahr
+
+yes: volah
+
+yet: gahth
+
+you (singular): -em; shem
+
+you (plural): -tee
+
+your (singular): -om
+
+your (plural): -omee
+
+
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Z
+
+&lt;font size=10 style=n&gt;&lt;p align=left&gt;zero: roon
+
+The Great Zero: rezeero</translation>
             </element>
         </set>
     </age>
