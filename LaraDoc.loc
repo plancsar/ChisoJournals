@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-16"?>
 <localizations>
-    <age name="ChisoPreniv">
-        <set name="Journals">
-            <element name="LaraDoc1">
-                <translation language="English">&lt;cover src="LaraDoc1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+	<age name="Personal">
+		<set name="Bookshelf">
+			<element name="DeleteBook">
+				<translation language="English">Are you sure you want to delete this book, and lose your progress in the age?</translation>
+			</element>
+			<element name="DeleteNeighborhoodBook">
+				<translation language="English">Are you sure you want to delete this book, and lose your membership in this neighborhood? Re-insert your KI into the Marker Machine to restore your GZ link.</translation>
+			</element>
+		</set>
+		<set name="Journals">
+			<element name="Yeesha">
+				<translation language="English">&lt;cover src="LaraDoc1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
 DRAFT
 
@@ -70,6 +78,7 @@ A. In the 1890s. That would place his trip not long after the remaining D'ni lef
 Q. Can I use information from the Lara documents for this other project I am working on?
 A. I plan to make all of the restorations publicly available. However, I would strongly suggest that you not use the information from this restoration effort unless you are prepared to deal with the possibility that the information will be shown to be erroneous or, worse, forgeries.
 
+
 Domasio Lara
 
 Q. What do we know about Mr. Lara?
@@ -83,6 +92,7 @@ A. Assuming the veracity of his story, his notes did not indicate that he'd visi
 
 Q. What did Mr. Lara find out about D'ni?
 A. As far as I can tell, he had no idea that he'd discovered D'ni. He seems to have thought D'ni was actually the source of the myths surrounding El Dorado, apparently due to the fact that the lake gave off a dim orange light.
+
 
 The Restoration Process
 
@@ -105,7 +115,7 @@ Q. Do you want a 'snapshot' of the restored document itself, or just a translati
 A. While snapshots of restored documents are welcome, they are not necessary at this stage of the restoration. Rather, I am most interested in cataloging and recording the information in the documents. English reproductions of the document or just the information therein are sufficient, much like the DRC notebooks you find in the Cavern. Restored images from documents can be submitted individually or in the context of the page on which they reside.
 
 Q. I do not know the D'ni language. How can I assist in restoring these documents?
-A. There are a number of linguists in our community who might be willing to help. However, at this stage, you do not need to show the linguistic intricacies of the document in your submission, unless you are so inclined. An English version of the document will be sufficient at this point.&lt;PB&gt;&lt;PB&gt;
+A. There are a number of linguists in our community who might be willing to help. However, at this stage, you do not need to show the linguistic intricacies of the document in your submission, unless you are so inclined. An English version of the document will be sufficient at this point.&lt;PB&gt;
 
 &lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 001: Cahy'leh's letters
 
@@ -132,20 +142,17 @@ Fondly,
 Cahy'leh
 
 
+&lt;font style=b&gt;Footnotes
 
-Footnotes
-
-[1] This comment indicates that the author is young. However, his command of language indicates he's quite a bit older than the age of admittance at the time of the Fall, which was four hahrtee old. The age of which one began in a Guild must have been different at that time. - J.D.
+&lt;font style=n&gt;[1] This comment indicates that the author is young. However, his command of language indicates he's quite a bit older than the age of admittance at the time of the Fall, which was four hahrtee old. The age of which one began in a Guild must have been different at that time. - J.D.
 
 [2] In this translation, decimal numbers have been used instead of D'ni base-25 numbers, for ease of reading. - J.D.
 
-[3] After careful consideration I have determined that this is the D'ni equivalent of the Pythagorean Theorem. At first the number 15,625 seems a bizarre choice, even if it does become 1,000 in the D'ni number system. However, we can see that 15,625 is exactly one quarter of 62,500 which corresponds to 4,000 in the D'ni number system. So one quarter of 62,500 torans is equivalent to one quarter of 360 degrees. Since it is obvious that the author is talking about a right triangle because of the use of the right angle, we can see that the technique described here is fairly similar to one of the many proofs that we have for the Pythagorean Theorem. - tobyas.
+[3] After careful consideration I have determined that this is the D'ni equivalent of the Pythagorean Theorem. At first the number 15,625 seems a bizarre choice, even if it does become 1,000 in the D'ni number system. However, we can see that 15,625 is exactly one quarter of 62,500 which corresponds to 4,000 in the D'ni number system. So one quarter of 62,500 torans is equivalent to one quarter of 360 degrees. Since it is obvious that the author is talking about a right triangle because of the use of the right angle, we can see that the technique described here is fairly similar to one of the many proofs that we have for the Pythagorean Theorem. - tobyas.&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 001.002: Translated by tobyas
 
-
-Lara 001.002: Translated by tobyas
-
-Cahy'leh
+&lt;font size=10&gt;&lt;p align=left&gt;Cahy'leh
 
 Your letter intrigued me to do some research. I talked to members of several guilds to try to determine what people thought of the idea. Apparently this is known fairly well and appears in many Guild training courses. It is fairly well accepted that, although we cannot know these numbers exactly, we do not really need to. However, there are more of these numbers than just "square side" 2. A member of the Guild of Stone Masons proposed this problem. I take a cube of stone and measure its volume to be 2 units by sinking it in water. What is the length of the side? Something that, when multiplied by itself twice, equals 2? A "cube side" 2. These strange numbers are simply that: strange. There are as many of them as there are branches on the Tree. (Translator Note: I believe he is talking about the Great Tree of Possibility which is a concept based around the writing of Ages.) Normally I would be tempted to agree with most others and say that it is an error in measurement. There are, after all, limits to how well we can measure. However, we are assuming conditions to the 25. Generally I was told that people tend to use estimations when building something, but when planning it out it is almost as if they are using several different types of measurements: one for 1 span, one for "square side" 2, one for "square side" 3, and so on.
 
@@ -158,10 +165,9 @@ Keep exploring but always do your research,
 Ardis
 
 
+&lt;font style=b&gt;Translator's Notes
 
-Translator's Notes:
-
-This document contains a lot of mathematical notation and seems to provide a lot of insight as to how the D'ni wrote and thought about mathematics. This might be a veritable Rosetta Stone of information. I have put all of the things I believe to be mathematical terms in quotes in the main body of the letter. I will now go through them and explain how I came to discern their meaning and translation. - tobyas
+&lt;font style=n&gt;This document contains a lot of mathematical notation and seems to provide a lot of insight as to how the D'ni wrote and thought about mathematics. This might be a veritable Rosetta Stone of information. I have put all of the things I believe to be mathematical terms in quotes in the main body of the letter. I will now go through them and explain how I came to discern their meaning and translation. - tobyas
 
 "Square side" - This appears to be the D'ni form of the square root. Not surprisingly, the D'ni seem to have kept their tie between geometry/design/engineering and the abstract mathematical concept of numbers by permanently paying homage to the relation between the radical and the side of the square.
 
@@ -179,15 +185,13 @@ The number that would be calculated using Koh'shee's method is pi/2. This is an 
 
 As for the equation itself, the D'ni numerical system is rather unique in that all the numbers have boxes around them. As a result when writing a number with multiple digits the whole number is written inside of a long rectangle. This has been seen in many places all around D'ni and their ages. Here it seems that D'ni extended this to their equations. The same long rectangles are written around whole expressions seeming to indicate, truthfully, that an expression is actually just a different way to write a number. Incidentally, this may explain why we have never see equations anywhere as the D'ni simply treated them as numbers and found little use for the equations themselves in formal letters. Additionally the D'ni have a unique way of writing an equation. The advantage of their system is that it allows us to write expressions without the use of order of operations or parenthesis. So, an expression like 2 * (3 + 4) would be written 2 3 4 + * all in a large rectangle with double lines separating the different numbers. At the very least, this particular D'ni man had this habit. As we discussed, it is possible that not all of D'ni shared this notation.
 
--tobyas
+-tobyas&lt;PB&gt;
 
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 002: D'ni Parables
 
+&lt;font style=n&gt;Lara 002.001: Translated by Whilyam
 
-Lara 002: D'ni Parables
-
-Lara 002.001: Translated by Whilyam
-
-A young D'ni man was walking through a park in J'taeri when he spotted an old man painting. The old man sat facing a wall which encircled the park. The young man shrugged at the strange old painter and went about his job. He returned later to find the painter still there. Again he shrugged and left. The next day, the young man did not have to work and so went to the park. There he found the old man still painting.
+&lt;font size=10&gt;&lt;p align=left&gt;A young D'ni man was walking through a park in J'taeri when he spotted an old man painting. The old man sat facing a wall which encircled the park. The young man shrugged at the strange old painter and went about his job. He returned later to find the painter still there. Again he shrugged and left. The next day, the young man did not have to work and so went to the park. There he found the old man still painting.
 
 "What do you paint, diligent one?" He asked as he approached the old man from behind.
 
@@ -199,17 +203,16 @@ The old man continued smiling. "I paint what inspires me. It moves me. It gives 
 
 And so it continued until the old man died and the paintings went to the Guild and eventually to the King when he saw them. And the young man continued until he died and neither God nor the King knew of him.
 
-Footnotes:
 
-[1] Literally it is the abstract noun-forming suffix -tahv attached to the verb "to view" not "to see" but view so it literally is the noun that views. It seemed, in the context, that it was like the painter had a portal or a viewer to look at the King the detail was so fine but no it didn't specify an imaging device. - Whilyam
+&lt;font style=b&gt;Footnotes
 
-[2] The works all said "Yahvo". However as Yahvo is the D'ni's god, it seemed like the translation would be incomplete if it were left. - Whilyam
+&lt;font style=n&gt;[1] Literally it is the abstract noun-forming suffix -tahv attached to the verb "to view" not "to see" but view so it literally is the noun that views. It seemed, in the context, that it was like the painter had a portal or a viewer to look at the King the detail was so fine but no it didn't specify an imaging device. - Whilyam
 
+[2] The works all said "Yahvo". However as Yahvo is the D'ni's god, it seemed like the translation would be incomplete if it were left. - Whilyam&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.002: Translated by Whilyam
 
-Lara 002.002: Translated by Whilyam
-
-One day an adventurous D'ni man went to the king[1] and declared he wanted to go on a grand voyage on the sea of a dangerous age to prove his love and faith in his king, his wife, and God. The king was hesitant and told the man of his foolishness.
+&lt;font size=10&gt;&lt;p align=left&gt;One day an adventurous D'ni man went to the king[1] and declared he wanted to go on a grand voyage on the sea of a dangerous age to prove his love and faith in his king, his wife, and God. The king was hesitant and told the man of his foolishness.
 
 "Go away. You will die on that journey and would serve me, your wife, and God better by living and helping D'ni to prosper."
 
@@ -219,17 +222,16 @@ The king frowned now as well. "You have a twisted view of faith. You may not go.
 
 And so the man left. However, by the night, God visited the king and told him to allow the voyage. And so it was. And the adventurer's crew saw with him many wondrous things and learned much. And on the last day a storm too the adventurer and the crew returned minus only him. And though all of D'ni was sad, it was the strong opinion of all that no one had greater faith.[2]
 
-Footnotes:
 
-[1] The king in this piece seems to be Shomat. Though it's unclear. It could also be Aylesh or Ja'kreen. - Whilyam
+&lt;font style=b&gt;Footnotes
 
-[2] When it reads "it was the strong opinion of all that no one had greater faith." "strong" would be directly translated as "hard" or "hardest" in terms of density. I felt strong would be the more accurate translation. - Whilyam
+&lt;font style=n&gt;[1] The king in this piece seems to be Shomat. Though it's unclear. It could also be Aylesh or Ja'kreen. - Whilyam
 
+[2] When it reads "it was the strong opinion of all that no one had greater faith." "strong" would be directly translated as "hard" or "hardest" in terms of density. I felt strong would be the more accurate translation. - Whilyam&lt;PB&gt;&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.003: Translated by Whilyam
 
-Lara 002.003: Translated by Whilyam
-
-A D'ni man was travelling through another Age. He was a famous explorer and had enjoyed visiting other Ages. This Age had many offworlders who lived on a flood plain. One day, the man was exploring with his offworlders when the Age began to flood. It flooded so quickly that he could not get out and he did not have a Book so he was trapped. The waters continued to rise and soon the man would be washed away. The offworlders cowered and did nothing so the man prayed and God appeared before him.
+&lt;font size=10&gt;&lt;p align=left&gt;A D'ni man was travelling through another Age. He was a famous explorer and had enjoyed visiting other Ages. This Age had many offworlders who lived on a flood plain. One day, the man was exploring with his offworlders when the Age began to flood. It flooded so quickly that he could not get out and he did not have a Book so he was trapped. The waters continued to rise and soon the man would be washed away. The offworlders cowered and did nothing so the man prayed and God appeared before him.
 
 "Please, my lord, save me from these waters." He said
 
@@ -247,17 +249,16 @@ A D'ni man was travelling through another Age. He was a famous explorer and had 
 
 And God moved the currents and the offworlders cried out as they felt they would be carried away, but the D'ni man felt the currents move around him and he stayed still in the water. And so God moved the currents more and the offworlders were swept away and died and then God let the waters recede. And so the man was saved and he returned to the off-worlder village and he told them of what had happened and the off-worlders found God and learned of his patience and wrath.
 
-Footnotes:
 
-It's difficult to pin down the time when this document was made. There are credible reasons (ink type, paper type, writing style) this could come from the times of a variety of kings. The three times I was able to narrow it down to was the reign of Yablehshan, that of Asemlef, or some point just before the Pento War. I'm leaning towards it being written and published during the time of Asemlef, though, as a paper published during the time when outside groups were perceived to have been killing D'ni would have perhaps replicated that situation more (as in, the outsiders here harming the explorer instead of merely being of "no assistance". The weak and cowardly outsider/servant model seems to match more with Asemlef's reign. - Whilyam
+&lt;font style=b&gt;Footnotes
 
-[1] The use here of referring to the Art as 'the Gift' is significant here, as it underlines the idea that the author felt that the Art was a blessing from Yahvo. - J.D.
+&lt;font style=n&gt;It's difficult to pin down the time when this document was made. There are credible reasons (ink type, paper type, writing style) this could come from the times of a variety of kings. The three times I was able to narrow it down to was the reign of Yablehshan, that of Asemlef, or some point just before the Pento War. I'm leaning towards it being written and published during the time of Asemlef, though, as a paper published during the time when outside groups were perceived to have been killing D'ni would have perhaps replicated that situation more (as in, the outsiders here harming the explorer instead of merely being of "no assistance". The weak and cowardly outsider/servant model seems to match more with Asemlef's reign. - Whilyam
 
+[1] The use here of referring to the Art as 'the Gift' is significant here, as it underlines the idea that the author felt that the Art was a blessing from Yahvo. - J.D.&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.004: Translated by Whilyam
 
-Lara 002.004: Translated by Whilyam
-
-A D'ni man was depressed. He took solace in drinks and sin and did nothing in his sadness. For many years he was like this and then God appeared before him.
+&lt;font size=10&gt;&lt;p align=left&gt;A D'ni man was depressed. He took solace in drinks and sin and did nothing in his sadness. For many years he was like this and then God appeared before him.
 
 "Why do you sit, child?" God asked him.
 
@@ -291,37 +292,35 @@ A D'ni man was depressed. He took solace in drinks and sin and did nothing in hi
 
 And so the man did with the belief that God was before him, the lighter for him. And so he rose in his power and wealth and his wife returned for she had left him for his sin. And even though he was a low one[1], he went to be influential and active and all looked up to him.
 
-Footnotes:
 
-From what I can find, this story was published with the first two I restored. They seem to be written either when the D'ni first arrived as a form of motivation to build more and glorify Yahvo (which doesn't match up with the mention of the J'taeri district in the piece about the D'ni painter, though it could have had a more modern re-writing) or it could have been created during the reign of Kedri. The paper and ink styles from Ri'neref's period seem to have had a revival during that period (the paper is more rough, as is the ink, made relatively crudely and with basic materials). - Whilyam
+&lt;font style=b&gt;Footnotes
 
-[1] It is unclear whether 'low one' here means low of class, or refers to the lowness of depression and immorality the man had sunk to. - J.D.
+&lt;font style=n&gt;From what I can find, this story was published with the first two I restored. They seem to be written either when the D'ni first arrived as a form of motivation to build more and glorify Yahvo (which doesn't match up with the mention of the J'taeri district in the piece about the D'ni painter, though it could have had a more modern re-writing) or it could have been created during the reign of Kedri. The paper and ink styles from Ri'neref's period seem to have had a revival during that period (the paper is more rough, as is the ink, made relatively crudely and with basic materials). - Whilyam
 
+[1] It is unclear whether 'low one' here means low of class, or refers to the lowness of depression and immorality the man had sunk to. - J.D.&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.005: Translated by Whilyam
 
-Lara 002.005: Translated by Whilyam
-
-In the year 3908, a man named Likahth was apprenticing with three of his friends under a wealthy shopkeeper named Te'erah. Likahth had been friends with them since first schooling[1] and they were both in the same portion[2].
+&lt;font size=10&gt;&lt;p align=left&gt;In the year 3908, a man named Likahth was apprenticing with three of his friends under a wealthy shopkeeper named Te'erah. Likahth had been friends with them since first schooling[1] and they were both in the same portion[2].
 
 While Te'erah rewarded them well for their work, Likahth found out from some older workers that Te'erah had many women and carried out relationships with them. When he learned of this, Likahth went to his friends and asked if they knew. The first friend had been here before Likahth and said that he had no knowledge of it but that something had to be done. The second friend felt it wasn't his business. The third friend said he had been the one to organize the events.
 
 So Likahth said to his first friend "how can you not know of this when it is so solid[3] with those who have been here longer?" and his friend had no answer. And to the second friend "how can it not be your business when your highest business is to honor god and this man is a dishonor?" and his friend had no answer. And to the third friend "how can you call yourself D'ni when you commit such a sin and promote it?" and his friend had no answer and Likahth never spoke to the three again for he knew that it was his connection and love of god which was most needed. And so Likahth left Te'erah's employment and Te'erah's workshop was hit by a disaster and fell apart[4] and Likahth, who had performed his talents elsewhere, become one of the wealthiest of the D'ni.
 
-Footnotes:
 
-[1] First schooling seems to mean the primary schooling all D'ni children had before choosing a Guild. Makes some sense as they all would have been from the same district, same class level, social level. - Whilyam
+&lt;font style=b&gt;Footnotes
+
+&lt;font style=n&gt;[1] First schooling seems to mean the primary schooling all D'ni children had before choosing a Guild. Makes some sense as they all would have been from the same district, same class level, social level. - Whilyam
 
 [2] Portion seems to mean something like class level. As in, they were all at Guild-level class (though, given the timeframe, I suppose they could have been beneficiaries of some of more open Guild practices. - Whilyam
 
 [3] Solid seems to be used to mean "well known" or obvious. - Whilyam
 
-[4] Really muddy here in terms of details. Probably from endless re-tellings. No idea what work Te'erah was into, what kind of a disaster (physical, moral, financial) hit it or what "fell apart" meant. - Whilyam
+[4] Really muddy here in terms of details. Probably from endless re-tellings. No idea what work Te'erah was into, what kind of a disaster (physical, moral, financial) hit it or what "fell apart" meant. - Whilyam&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.006: Translated by Whilyam
 
-
-Lara 002.006: Translated by Whilyam
-
-Two brothers, Hovir and Ti'ajev, once lived in D'ni. They were considered lucky because they had been born at the same time. Both lived identical lives: having the same styles, the same manners, going to the same school, joining the same guild and rising to the same rank. It was said that they were as impossible to separate as they were to tell apart. One day, however, a beautiful girl fell in love with Ti'ajev and they were married. Hovir found that his brother no longer had time for him as he rose steadily in the Guild ranks and Hovir became jealous. Ti'ajev, while busy, often could not find his brother when he was free and, seeing his brother's jealousy, grew sad. When his guildwork lessened, he went to a private age to think and had an idea. He called upon Hovir the evening of the next day.
+&lt;font size=10&gt;&lt;p align=left&gt;Two brothers, Hovir and Ti'ajev, once lived in D'ni. They were considered lucky because they had been born at the same time. Both lived identical lives: having the same styles, the same manners, going to the same school, joining the same guild and rising to the same rank. It was said that they were as impossible to separate as they were to tell apart. One day, however, a beautiful girl fell in love with Ti'ajev and they were married. Hovir found that his brother no longer had time for him as he rose steadily in the Guild ranks and Hovir became jealous. Ti'ajev, while busy, often could not find his brother when he was free and, seeing his brother's jealousy, grew sad. When his guildwork lessened, he went to a private age to think and had an idea. He called upon Hovir the evening of the next day.
 
 "Your jealousy and my sadness brings shame to our family and dishonor to god and we are each unhappy as we are. So let us switch places and see how the other fares."
 
@@ -333,15 +332,14 @@ As time went on, the brothers becames good in their positions. Ti'ajev was glad 
 
 His brother agreed and they switched themselves again and returned to their proper houses and fulfilled their duties on their own for one year before they felt they needed the other's help. And so, when Ti'ajev felt he had enough of his high-level tasks, he would consult with Hovir who had a tedious task he needed completed. And so the two served D'ni and god more and prospered more through each other. And, one day, god showed Hovir the path to a girl as beautiful as his brother's.
 
-Footnotes:
 
-[1] Tall smile meaning big, I'm assuming. - Whilyam
+&lt;font style=b&gt;Footnotes
 
+&lt;font style=n&gt;[1] Tall smile meaning big, I'm assuming. - Whilyam&lt;PB&gt;
 
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.007: Translated by Whilyam
 
-Lara 002.007: Translated by Whilyam
-
-In the year 6138 DE (D'ni Era) during the reign of King Asemlef, the great people of D'ni traded with the natives of the age of Ishveer. Ishveer was a grand world of sparkling salt pillars in an endless prairie and its people were a tall, powerful race who were masters of a non-cultured[1] race they referred to as the Low-speakers. The low-speakers were monsters[2] with wide, flat heads, and an eye or either side. Their black-furred skin dotted with bright orange scales. Though, by a miracle of the Art, they had an inerrant[3] mastery[4] of the D'ni language, their customs were primitive and they were unfaithful to god[5].
+&lt;font size=10&gt;&lt;p align=left&gt;In the year 6138 DE (D'ni Era) during the reign of King Asemlef, the great people of D'ni traded with the natives of the age of Ishveer. Ishveer was a grand world of sparkling salt pillars in an endless prairie and its people were a tall, powerful race who were masters of a non-cultured[1] race they referred to as the Low-speakers. The low-speakers were monsters[2] with wide, flat heads, and an eye or either side. Their black-furred skin dotted with bright orange scales. Though, by a miracle of the Art, they had an inerrant[3] mastery[4] of the D'ni language, their customs were primitive and they were unfaithful to god[5].
 
 So it was a tragedy when the low-speakers rebelled against the Ishveer people and formed their own group. The king of the Ishveer spoke to an advisor to King Asemlef and requested weapons and food to assist with the low-speaker uprising. And Asemlef's advisor took the requests to the King and he agreed. Unfortunately, while the resources helped the Ishveer, the low-speakers triumphed and the Age of Ishveer was over-run by them.
 
@@ -353,9 +351,10 @@ A prophetess stepped up amongst Asemlef's advisors. "Our duty as D'ni is to hono
 
 And so King Asemlef ordered the low-speaker's death. An order, he said, for to trade goods with them would be an insult to god. A force of our Maintainers arrived and quickly ended the low-speakers. After the battle, the prophetess told the king that god was thankful and that their souls were at rest.
 
-Footnotes:
 
-[1] Seems like a D'ni way of saying "barbaric". - Whilyam
+&lt;font style=b&gt;Footnotes
+
+&lt;font style=n&gt;[1] Seems like a D'ni way of saying "barbaric". - Whilyam
 
 [2] "bahro" literally. - Whilyam
 
@@ -363,23 +362,20 @@ Footnotes:
 
 [4] Mastery in the skilled sense, not as in master and slave. - Whilyam
 
-[5] Haven't seen many documents on this, but it seems they had a combination of more barbaric rituals from a human perspective (animal sacrifices) and newer surface ideas (females were equal to males in respect to pecking order, debate was encouraged, and it seems some more complex philosophical ideas were coming from the race). The Ishveer masters, though, also seem to have their share of moral issues that seem to have been glossed over. - Whilyam
+[5] Haven't seen many documents on this, but it seems they had a combination of more barbaric rituals from a human perspective (animal sacrifices) and newer surface ideas (females were equal to males in respect to pecking order, debate was encouraged, and it seems some more complex philosophical ideas were coming from the race). The Ishveer masters, though, also seem to have their share of moral issues that seem to have been glossed over. - Whilyam&lt;PB&gt;
+
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.008: Translated by Whilyam
+
+&lt;font size=10&gt;&lt;p align=left&gt;Our people were lowered this day. The armored men came silently. Their eyes glowing bright green. They made a long straight line along the shore they appeared from and each drew a large tube from their armor. At a command the tube produced a deadly fog. Those who returned told of a horrible sensation. On the skin it felt like fire and in the lungs felt like water. Those who burned and drowned and lived have no sense remaining in them. They say they hear their laughter in their sleep. Metallic mechanic laughter. Nothing we try stops them. They kill our negotiators[1]. They survive in all environments. Their armor repels our weapons. Some have taken refuge in our old homes and the secret caverns. The D'ni do not know of them. We can rebuild.
 
 
+&lt;font style=b&gt;Footnotes
 
-Lara 002.008: Translated by Whilyam
+&lt;font style=n&gt;[1] The word used is "shorahtahn". - Whilyam&lt;PB&gt;
 
-Our people were lowered this day. The armored men came silently. Their eyes glowing bright green. They made a long straight line along the shore they appeared from and each drew a large tube from their armor. At a command the tube produced a deadly fog. Those who returned told of a horrible sensation. On the skin it felt like fire and in the lungs felt like water. Those who burned and drowned and lived have no sense remaining in them. They say they hear their laughter in their sleep. Metallic mechanic laughter. Nothing we try stops them. They kill our negotiators[1]. They survive in all environments. Their armor repels our weapons. Some have taken refuge in our old homes and the secret caverns. The D'ni do not know of them. We can rebuild.
+&lt;font size=12&gt;&lt;p align=center&gt;Lara 002.009: Translated by Whilyam
 
-Footnotes:
-
-[1] The word used is "shorahtahn". - Whilyam
-
-
-
-Lara 002.009: Translated by Whilyam
-
-The Soul Healer (Rehveelaytayrtahn) [1]
+&lt;font size=10&gt;&lt;p align=left&gt;The Soul Healer (Rehveelaytayrtahn) [1]
 
 Long ago when Garternay was young, there lived a man in a small house known as the soul healer. The man lived alone and lived humbly as he was blind. By God's grace, however he was a master at seeing into people's souls. The man's face was slightly wrinkled, his chin was long and pointed, his eyes closed and sunk deep. One day a man came to the small house and talked to the soul healer.
 
@@ -435,17 +431,16 @@ And the man who the soul healer had turned away stopped and left returning the n
 
 And so the man left and did as the soul healer said and became one of the most revered of the Ronay. And the soul healer grew old and honored God by helping many more people. And when his days ended, the whole of Garternay was saddened.
 
-Whilyam's notes:
 
-[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam
+&lt;font style=b&gt;Whilyam's notes
 
+&lt;font style=n&gt;[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam&lt;PB&gt;
 
+&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 003: In the Chinaman's Eye
 
-Lara 003: In the Chinaman's Eye
+&lt;font style=n&gt;Lara 003.001: Translated by belford
 
-Lara 003.001: Translated by belford
-
-I walked into the Chinaman's Eye, and I saw an old man in an old army uniform. He sat at the smallest darkest table in the saloon. In front of him were a glass, a little black book, and a bottle of mezcal. The book was closed and the bottle was open.
+&lt;font size=10&gt;&lt;p align=left&gt;I walked into the Chinaman's Eye, and I saw an old man in an old army uniform. He sat at the smallest darkest table in the saloon. In front of him were a glass, a little black book, and a bottle of mezcal. The book was closed and the bottle was open.
 
 I navigate by stories; I sit and drink with the most interesting one I can see. The closed book and the open bottle were the best story in the saloon, so I sat down and asked the man which one was better.
 
@@ -686,9 +681,7 @@ I never saw the soldier again after that night. I was called away for a few days
 
 It was seven years before I returned to San Francisco. By that time, the Great Fire had struck; no trace of the saloon remained, nor anyone who remembered it. I could find no word of the the soldier, his wife, or the dusty Mexican prospector who had walked out of the desert carrying stories.
 
-I sat down in a different saloon, placed the unopened book before me, and drank a glass of the cheapest mezcal. It was harsh and strong and it stung -- like life, I might have said; but a soldier who was not a poet would have laughed at that.
-
-
+I sat down in a different saloon, placed the unopened book before me, and drank a glass of the cheapest mezcal. It was harsh and strong and it stung -- like life, I might have said; but a soldier who was not a poet would have laughed at that.&lt;PB&gt;&lt;PB&gt;
 
 Lara 004: Reghahrovaht
 
@@ -704,9 +697,7 @@ Hahno then was then filled with soft luck[1]. Her husband, Ainehm, left her and 
 
 Footnotes:
 
-[1] Seems like a D'ni phrase meaning something like bad luck, but it also seems to refer to actual imperfections in whatever would turn around that luck. Confusing. - Whilyam
-
-
+[1] Seems like a D'ni phrase meaning something like bad luck, but it also seems to refer to actual imperfections in whatever would turn around that luck. Confusing. - Whilyam&lt;PB&gt;
 
 Lara 004.003: Translated by Whilyam
 
@@ -726,9 +717,7 @@ And so Hahno left and denounced the man in public. But the man was friends with 
 
 Footnotes:
 
-[1] This being the friend's son, not Hahno's. - Whilyam
-
-
+[1] This being the friend's son, not Hahno's. - Whilyam&lt;PB&gt;
 
 Lara 004.004: Translated by Whilyam
 
@@ -756,9 +745,7 @@ Footnotes:
 
 [1] The word here is a personal noun meaning essentially "person of interest". - Whilyam
 
-[2] Love here being "taygahn" love of the mind. - Whilyam
-
-
+[2] Love here being "taygahn" love of the mind. - Whilyam&lt;PB&gt;
 
 Lara 004.005: Translated by Whilyam
 
@@ -768,9 +755,7 @@ Footnotes:
 
 [1] The word here is a personal noun for someone who charitable. - Whilyam
 
-[2] I've looked through the historical records I have, but I can't find a mention of this age. It either didn't exist or, more likely, was a gambling age running under the radar of the maintainers. - Whilyam
-
-
+[2] I've looked through the historical records I have, but I can't find a mention of this age. It either didn't exist or, more likely, was a gambling age running under the radar of the maintainers. - Whilyam&lt;PB&gt;
 
 Lara 004.006: Translated by Whilyam
 
@@ -788,15 +773,17 @@ Footnotes:
 
 [1] No records of an epidemic of D'ni. Looks like it could have been a sickness in the lower districts from bacteria in either a fishing district or a sickness from an age in one of the industrial districts as the histories have numerous mentions of both. - Whilyam
 
-Given that the plagues in D'ni history were considered significant events in D'ni history and that this story seems to refer to the sickness in an off-hand manner, I'd guess that this sickness is not one of those plagues. - J.D.
-
-
+Given that the plagues in D'ni history were considered significant events in D'ni history and that this story seems to refer to the sickness in an off-hand manner, I'd guess that this sickness is not one of those plagues. - J.D.&lt;PB&gt;&lt;PB&gt;
 
 Lara 005: Great Stair Lectures
 
 Lara 005.001: Translated by J.D. Barnes
 
 Stone is always heavier in your own hand.
+
+
+
+
 
 Lara 005.002: Translated by J.D. Barnes
 
@@ -834,9 +821,7 @@ Footnotes:
 
 [5] Literally "noble to the twenty-five". - J.D.
 
-[6] 'the positive and the negative' here is an idiom that seems to refer to sides of an debate -- the pro and con sides. - J.D.
-
-
+[6] 'the positive and the negative' here is an idiom that seems to refer to sides of an debate -- the pro and con sides. - J.D.&lt;PB&gt;
 
 Lara 005.003: Translated by J.D. Barnes
 
@@ -864,9 +849,7 @@ Footnotes:
 
 [2] The exact name of the animal wasn't used. - J.D.
 
-[3] Literally "pleasure-from-agony". I felt sadism was an appropriate translation. - J.D.
-
-
+[3] Literally "pleasure-from-agony". I felt sadism was an appropriate translation. - J.D.&lt;PB&gt;
 
 Lara 005.004: Translated by JD Barnes
 
@@ -884,9 +867,7 @@ Footnotes:
 
 [1] The D'ni equivalent of an asylum, it seems. - J.D.
 
-[2] Here, design implies an architectural design, a schematic. - J.D.
-
-
+[2] Here, design implies an architectural design, a schematic. - J.D.&lt;PB&gt;&lt;PB&gt;
 
 Lara 006: Te'nur's letters
 
@@ -916,9 +897,7 @@ Footnotes:
 
 [4] pods - This leads me to believe (due to the word Rezik) that the Guild of Maintainers were tasked with building pods in each Age, then linking to said pods in order to observe an Age until it was ready to receive a mark of approval from the Maintainers. - Marcus
 
-[5] rezeero - I assume this refers to the Great Zero and using it as a means of triangulating the location of Te'nur's letter and book. - Marcus
-
-
+[5] rezeero - I assume this refers to the Great Zero and using it as a means of triangulating the location of Te'nur's letter and book. - Marcus&lt;PB&gt;&lt;PB&gt;
 
 Lara 007: Musical scores
 
@@ -966,9 +945,7 @@ Well... If this document is a score... it is not for "performance" but for the t
 
 [picture]
 
--turjan
-
-
+-turjan&lt;PB&gt;
 
 Lara 007.001: Translated by turjan
 
@@ -982,9 +959,7 @@ For the musical performance... she is very subjective... we have, on the score t
 
 This kind of score is not for performance but more for memory (like the old "neumes" of middle age of Europe...) I think this piece is a popular tune, not classical.
 
--turjan
-
-
+-turjan&lt;PB&gt;
 
 Lara 007.002: Translated by turjan and Owehn
 
@@ -1041,12 +1016,7 @@ Translator's Comments:
 
 [6] I'm guessing that the verb rahn here is related to the adjective rahnahl "various". The common thread here seems to be the idea that the streams range over a large region. - Owehn
 
-[7] Pity there's no punctuation here - I'm reasonably certain that this last line is a question, though it's possible that it's a continuation of line 9: "I know nothing of you (e.g.) where you are." - Owehn
-
-
-
-
-
+[7] Pity there's no punctuation here - I'm reasonably certain that this last line is a question, though it's possible that it's a continuation of line 9: "I know nothing of you (e.g.) where you are." - Owehn&lt;PB&gt;&lt;PB&gt;
 
 Lara 008: Map of unknown Age
 
@@ -1060,9 +1030,7 @@ What I have done is to trace the map's features into an illustration program. Th
 
 As you know, the map is heavily annotated with labels in D'ni. I have not even tried to reproduce this in my version; the lettering is badly worn and my D'ni is terrible at best. I have hopes that another restorer will be able to decipher and translate the labels􀀀then we'll have some hope of figuring out what's going on in this Age!
 
--belford
-
-
+-belford&lt;PB&gt;&lt;PB&gt;
 
 Lara 009: D'ni games
 
@@ -1167,9 +1135,7 @@ Commentary:
 
 This is an interesting game that takes some basic concepts, but adds a very D'ni twist to it through the mechanics associated with linking books. The inclusion of a 'negotiation phase' would imply that players working together would be a central concept in the game. This seems especially so in that almost half of these link points are occupied at the beginning of the game and it's purely numbers that determine the outcome of conflict. This also opens up the very real possibility of betrayal in alliances. An experienced player would have to expect to betray and be betrayed several times in a game.
 
--Blade Lakem
-
-
+-Blade Lakem&lt;PB&gt;
 
 Lara 009.002: Translated by Blade Lakem
 
@@ -1203,9 +1169,7 @@ Also, I find the fact that the Platonic solids are called 'perfect cuts'. This s
 
 However, I wonder if the D'ni predilection for stone is not unique to the D'ni, but somehow relates to the Ronay. The Ronay, doubtlessly, knew of mathematical concepts as the Platonic solids. If the term 'perfect cut' comes from them, then the connection between the solids and the cutting of stone might also be based in the Ronay. But that's just idle speculation.
 
--Blade Lakem
-
-
+-Blade Lakem&lt;PB&gt;&lt;PB&gt;
 
 Lara 010: The Mistakes
 
@@ -1246,10 +1210,10 @@ Whilyam's notes:
 
 [1] Meaning here seems to be the Great Tree or Possibilities, implying that the entire universe runs without a grand schedule, so don't worry if you don't. - Whilyam
 
-[2] Similar saying to how we might say "fa&ccedil;ade". As in, God sees both your soul and your fa&ccedil;ade, your exterior. - Whilyam
+[2] Similar saying to how we might say "facade". As in, God sees both your soul and your facade, your exterior. - Whilyam
 
 [3] Likely meaning the cord that binds the couple on the fifth day, though it seems difficult to imagine the D'ni approving a joining ceremony without the joining bit. I think this is more an emotional point than factual, which fits the book's purpose as a spiritual "pick-me-up". - Whilyam</translation>
-            </element>
-        </set>
-    </age>
+			</element>
+		</set>
+	</age>
 </localizations>
