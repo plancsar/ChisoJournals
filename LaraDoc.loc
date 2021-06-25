@@ -7,7 +7,7 @@
 
 DRAFT
 
-The Lara Documents
+The Lara Documents I
 
 &lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
 
@@ -48,6 +48,7 @@ Thank you for your time,
 J.D. Barnes&lt;PB&gt;
 
 &lt;font size=12&gt;&lt;p align=center&gt;Frequently Asked Questions
+
 &lt;font size=10&gt;Last update: 11/30/2007
 
 &lt;p align=left&gt;The Lara Documents
@@ -177,9 +178,26 @@ The number that would be calculated using Koh'shee's method is pi/2. This is an 
 
 As for the equation itself, the D'ni numerical system is rather unique in that all the numbers have boxes around them. As a result when writing a number with multiple digits the whole number is written inside of a long rectangle. This has been seen in many places all around D'ni and their ages. Here it seems that D'ni extended this to their equations. The same long rectangles are written around whole expressions seeming to indicate, truthfully, that an expression is actually just a different way to write a number. Incidentally, this may explain why we have never see equations anywhere as the D'ni simply treated them as numbers and found little use for the equations themselves in formal letters. Additionally the D'ni have a unique way of writing an equation. The advantage of their system is that it allows us to write expressions without the use of order of operations or parenthesis. So, an expression like 2 * (3 + 4) would be written 2 3 4 + * all in a large rectangle with double lines separating the different numbers. At the very least, this particular D'ni man had this habit. As we discussed, it is possible that not all of D'ni shared this notation.
 
--tobyas&lt;PB&gt;
+-tobyas</translation>
+            </element>
+            <element name="LaraDoc2">
+                <translation language="English">&lt;cover src="LaraDoc2.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 002: D'ni Parables
+The Lara Documents II
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
+
+tobyas
+Whilyam
+belford
+J.D. Barnes
+Marcus Wheeler
+turjan
+Blade Lakem
+
+Research done in 2007-2008&lt;PB&gt;&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;Lara 002: D'ni Parables
 
 &lt;font style=n&gt;Lara 002.001: Translated by Whilyam
 
@@ -426,9 +444,26 @@ And so the man left and did as the soul healer said and became one of the most r
 
 &lt;font style=b&gt;Whilyam's notes
 
-&lt;font style=n&gt;[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam&lt;PB&gt;
+&lt;font style=n&gt;[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam&lt;PB&gt;</translation>
+            </element>
+            <element name="LaraDoc3">
+                <translation language="English">&lt;cover src="LaraDoc3.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 003: In the Chinaman's Eye
+The Lara Documents III
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
+
+tobyas
+Whilyam
+belford
+J.D. Barnes
+Marcus Wheeler
+turjan
+Blade Lakem
+
+Research done in 2007-2008&lt;PB&gt;&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;Lara 003: In the Chinaman's Eye
 
 &lt;font style=n&gt;Lara 003.001: Translated by belford
 
@@ -673,9 +708,26 @@ I never saw the soldier again after that night. I was called away for a few days
 
 It was seven years before I returned to San Francisco. By that time, the Great Fire had struck; no trace of the saloon remained, nor anyone who remembered it. I could find no word of the the soldier, his wife, or the dusty Mexican prospector who had walked out of the desert carrying stories.
 
-I sat down in a different saloon, placed the unopened book before me, and drank a glass of the cheapest mezcal. It was harsh and strong and it stung -- like life, I might have said; but a soldier who was not a poet would have laughed at that.&lt;PB&gt;&lt;PB&gt;
+I sat down in a different saloon, placed the unopened book before me, and drank a glass of the cheapest mezcal. It was harsh and strong and it stung -- like life, I might have said; but a soldier who was not a poet would have laughed at that.</translation>
+            </element>
+            <element name="LaraDoc4">
+                <translation language="English">&lt;cover src="LaraDoc4.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 004: Reghahrovaht
+The Lara Documents IV-V
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
+
+tobyas
+Whilyam
+belford
+J.D. Barnes
+Marcus Wheeler
+turjan
+Blade Lakem
+
+Research done in 2007-2008&lt;PB&gt;&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;Lara 004: Reghahrovaht
 
 &lt;font style=n&gt;Lara 004.001: Translated by Whilyam
 
@@ -865,9 +917,26 @@ And I muttered to his corpse "Yahvo does not give us a stone that we cannot carr
 
 &lt;font style=n&gt;[1] The D'ni equivalent of an asylum, it seems. - J.D.
 
-[2] Here, design implies an architectural design, a schematic. - J.D.&lt;PB&gt;&lt;PB&gt;
+[2] Here, design implies an architectural design, a schematic. - J.D.</translation>
+            </element>
+            <element name="LaraDoc5">
+                <translation language="English">&lt;cover src="LaraDoc5.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 006: Te'nur's letters
+The Lara Documents VI-VIII
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
+
+tobyas
+Whilyam
+belford
+J.D. Barnes
+Marcus Wheeler
+turjan
+Blade Lakem
+
+Research done in 2007-2008&lt;PB&gt;&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;Lara 006: Te'nur's letters
 
 &lt;font style=n&gt;Lara 006.001: Translated by Marcus Wheeler
 
@@ -1037,9 +1106,26 @@ The translation provided above is my literal translation: a more English version
 
 As you know, the map is heavily annotated with labels in D'ni. I have not even tried to reproduce this in my version; the lettering is badly worn and my D'ni is terrible at best. I have hopes that another restorer will be able to decipher and translate the labels􀀀then we'll have some hope of figuring out what's going on in this Age!
 
--belford&lt;PB&gt;&lt;PB&gt;
+-belford</translation>
+            </element>
+            <element name="LaraDoc6">
+                <translation language="English">&lt;cover src="LaraDoc6.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Lara 009: D'ni games
+The Lara Documents IX-X
+
+&lt;font size=12 style=n&gt;&lt;p align=center&gt;Translated by:
+
+tobyas
+Whilyam
+belford
+J.D. Barnes
+Marcus Wheeler
+turjan
+Blade Lakem
+
+Research done in 2007-2008&lt;PB&gt;&lt;PB&gt;
+
+&lt;font size=12 style=b&gt;Lara 009: D'ni games
 
 &lt;font style=n&gt;Lara 009.001: Translated by Blade Lakem
 
