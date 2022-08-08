@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="DniDict1">
-                <translation language="English"><![CDATA[<cover src="DniDict1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="DniDictDE1">
+                <translation language="English"><![CDATA[<cover src="DniDictDE1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 DRAFT
 
@@ -605,8 +605,14 @@ irvan, n. mineral
 
 istah, v. through(?), operate(?), control(?), use(?)
 
-isyeer, v. revere
+isyeer, v. revere]]></translation>
+            </element>
+            <element name="DniDictDE2">
+                <translation language="English"><![CDATA[<cover src="DniDictDE2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
+
+
+D'ni to English Dictionary<PB><PB>
 
 <font size=12 style=b><p align=center>J
 
@@ -1175,8 +1181,14 @@ prin, adj. small
 
 prorahn, equal to about 1.5 seconds of surface time
 
-pumi, n. an animal that can jump from tree to tree
+pumi, n. an animal that can jump from tree to tree]]></translation>
+            </element>
+            <element name="DniDictDE3">
+                <translation language="English"><![CDATA[<cover src="DniDictDE3.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
+
+
+D'ni to English Dictionary<PB><PB>
 
 <font size=12 style=b><p align=center>R
 
@@ -1748,8 +1760,8 @@ zuh, n. end
 
 zuhnuh, n. ending]]></translation>
             </element>
-            <element name="DniDict2">
-                <translation language="English"><![CDATA[<cover src="DniDict2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="DniDictED1">
+                <translation language="English"><![CDATA[<cover src="DniDictED1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -2568,8 +2580,14 @@ low (adj.): zith
 
 [lower (v.)]: zithon
 
--ly: -sh, -esh
+-ly: -sh, -esh]]></translation>
+            </element>
+            <element name="DniDictED2">
+                <translation language="English"><![CDATA[<cover src="DniDictED2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
+
+
+English to D'ni Dictionary<PB><PB>
 
 <font size=12 style=b><p align=center>M
 
