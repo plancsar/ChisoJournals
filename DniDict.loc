@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="DniDict1">
-                <translation language="English">&lt;cover src="DniDict1.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+                <translation language="English"><![CDATA[<cover src="DniDict1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 DRAFT
 
-D'ni to English Dictionary&lt;PB&gt;&lt;PB&gt;
+D'ni to English Dictionary<PB><PB>
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;AH
+<font size=12 style=b><p align=center>AH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;ah, prep. marks an object directly affected by the action of the verb
+<font size=10 style=n><p align=left>ah, prep. marks an object directly affected by the action of the verb
 
 -ah, suff. imperative mood
 
@@ -70,27 +70,27 @@ Ahvo, n. Father(?)
 ahyoheek, n. D'ni game very similar to rock-paper-scissors
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;A
+<font size=12 style=b><p align=center>A
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;advuh, n. arch
+<font size=10 style=n><p align=left>advuh, n. arch
 
 atinor, n. beauty
 
 atinoreht, adj. beautiful
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;AY
+<font size=12 style=b><p align=center>AY
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;aylah, v. (unknown)
+<font size=10 style=n><p align=left>aylah, v. (unknown)
 
 ayshoyk, v. realize
 
 ayts'day, n. retribution
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;B
+<font size=12 style=b><p align=center>B
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;b', prep. to
+<font size=10 style=n><p align=left>b', prep. to
 
 b'bree, a little (lit. "to two")
 
@@ -197,9 +197,9 @@ broon, n. tube
 buhgsho (unknown)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;CH
+<font size=12 style=b><p align=center>CH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;chahn, v. can(?), be able to(?), may(?)
+<font size=10 style=n><p align=left>chahn, v. can(?), be able to(?), may(?)
 
 chay, n. fault (geological)
 
@@ -228,9 +228,9 @@ chor bahkh, n. a type of D'ni food (meat roll?)
 choylahnay, v. complete
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;D
+<font size=12 style=b><p align=center>D
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;d', adv. again, re-
+<font size=10 style=n><p align=left>d', adv. again, re-
 
 D'nee, D'ni, lit. New Start
 
@@ -289,9 +289,9 @@ drahtol (unknown)
 du, n. food
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;DH
+<font size=12 style=b><p align=center>DH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;dhaynoy, n. setback
+<font size=10 style=n><p align=left>dhaynoy, n. setback
 
 dhehlim, n. right(?), wit(?), strength(?), numbers(?)
 
@@ -300,9 +300,9 @@ dho, adv. how
 dhozonehsh, adv. however(?)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;EH
+<font size=12 style=b><p align=center>EH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;eder, n./v. sleep, rest; station
+<font size=10 style=n><p align=left>eder, n./v. sleep, rest; station
 
 ehg (unknown)
 
@@ -359,9 +359,9 @@ ehtahf (unknown)
 -ehts, noun-adjective suffix (-y; -th)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;EE
+<font size=12 style=b><p align=center>EE
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;een, pron. det. any
+<font size=10 style=n><p align=left>een, pron. det. any
 
 eer, n. bandage (strip of cloth to cover a wound)
 
@@ -370,9 +370,9 @@ eest, pron. them; 3rd person plural object pronoun
 -eet, 3rd person plural actor suffix (they)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;F
+<font size=12 style=b><p align=center>F
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;f', prep. on
+<font size=10 style=n><p align=left>f', prep. on
 
 fah, num. 1, one; single
 
@@ -427,9 +427,9 @@ freh, prep. at the, on the
 fuhsh, v. change color(?)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;G
+<font size=12 style=b><p align=center>G
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;g', conj. and
+<font size=10 style=n><p align=left>g', conj. and
 
 g're-, conj. and the
 
@@ -538,9 +538,9 @@ greh-, conj. and the
 guhlehm, n. strait(?) channel(?)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;H
+<font size=12 style=b><p align=center>H
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;h'rot (unknown)
+<font size=10 style=n><p align=left>h'rot (unknown)
 
 hahpo, v. combine, mix
 
@@ -583,9 +583,9 @@ hootsay, adj. holy
 hootsayth, n. holiness
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;IH
+<font size=12 style=b><p align=center>IH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;idhsay, n. line
+<font size=10 style=n><p align=left>idhsay, n. line
 
 iglahrno, adj. temporary
 
@@ -608,9 +608,9 @@ istah, v. through(?), operate(?), control(?), use(?)
 isyeer, v. revere
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;J
+<font size=12 style=b><p align=center>J
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;jahgah, v. warrant(?), provide(?)
+<font size=10 style=n><p align=left>jahgah, v. warrant(?), provide(?)
 
 jeroo, adj. possible
 
@@ -621,9 +621,9 @@ jikhah, v. remain(?)
 jimah, n. prophecy
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;K
+<font size=12 style=b><p align=center>K
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;k'tehsh, v. entertain
+<font size=10 style=n><p align=left>k'tehsh, v. entertain
 
 k'tsee, adj. happy
 
@@ -742,9 +742,9 @@ krogestahn, n. dancer
 krogestoy, n. dance, the art of dancing
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;KH
+<font size=12 style=b><p align=center>KH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;kh', prep. for
+<font size=10 style=n><p align=left>kh', prep. for
 
 khah, adj. few
 
@@ -769,9 +769,9 @@ khoytahg, n. result(?), question(?)
 khreh-, prep. for the
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;L
+<font size=12 style=b><p align=center>L
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;l', present perfect tense prefix (has/have), before a vowel
+<font size=10 style=n><p align=left>l', present perfect tense prefix (has/have), before a vowel
 
 l'izchah, v. cry
 
@@ -830,9 +830,9 @@ lorahg, n. grace(?), joy(?)
 loymaht, conj. though
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;M
+<font size=12 style=b><p align=center>M
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;m'lah, n. lizard
+<font size=10 style=n><p align=left>m'lah, n. lizard
 
 m're-, prep. from the, of the
 
@@ -943,9 +943,9 @@ mreh-, prep. from the, of the
 muhkhon, adj. complex, complicated
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;N
+<font size=12 style=b><p align=center>N
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;n', prep. around
+<font size=10 style=n><p align=left>n', prep. around
 
 na'grenis, adj. brittle
 
@@ -1026,9 +1026,9 @@ nuhdahtahv, n. disaster(?)
 nuhree, n. the primary D'ni monetary unit
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;O
+<font size=12 style=b><p align=center>O
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;oehnahzo, v. hope, wish
+<font size=10 style=n><p align=left>oehnahzo, v. hope, wish
 
 ogel, v. age, get old(?)
 
@@ -1061,9 +1061,9 @@ oshahnin, adj. lost
 -ot, 1st plural possessor suff. (our)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;OO
+<font size=12 style=b><p align=center>OO
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;oochah, n. a young tarpin shal
+<font size=10 style=n><p align=left>oochah, n. a young tarpin shal
 
 oolbah, n. office
 
@@ -1080,16 +1080,16 @@ ooroo, n. large gathering, grand community
 ooshah, n. formula
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;OY
+<font size=12 style=b><p align=center>OY
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-oy, 1st singular possessor suff. (my)
+<font size=10 style=n><p align=left>-oy, 1st singular possessor suff. (my)
 
 oyn, prep. myself(?), for my sake(?), moreover(?)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;P
+<font size=12 style=b><p align=center>P
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;pahboy, v. bless
+<font size=10 style=n><p align=left>pahboy, v. bless
 
 pahl, adv?, anyway(?), must(?), please(?)
 
@@ -1178,9 +1178,9 @@ prorahn, equal to about 1.5 seconds of surface time
 pumi, n. an animal that can jump from tree to tree
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;R
+<font size=12 style=b><p align=center>R
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-rah, num. 25^2 (625), combining form
+<font size=10 style=n><p align=left>-rah, num. 25^2 (625), combining form
 
 rahm, adj. good
 
@@ -1289,9 +1289,9 @@ rotee (unknown)
 rov, n. person
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;S
+<font size=12 style=b><p align=center>S
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;sahehth, n. own (one), owned thing, property
+<font size=10 style=n><p align=left>sahehth, n. own (one), owned thing, property
 
 say, n./v. design
 
@@ -1334,9 +1334,9 @@ soygith, n. stability
 stofah, of one
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;SH
+<font size=12 style=b><p align=center>SH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-sh, suff. adjective-adverb suffix (-ly)
+<font size=10 style=n><p align=left>-sh, suff. adjective-adverb suffix (-ly)
 
 shahfee, n. span
 
@@ -1389,9 +1389,9 @@ shufay, v. finish
 shuhteejoo, n. 
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;T
+<font size=12 style=b><p align=center>T
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-t, noun-adjective suffix (-ful)
+<font size=10 style=n><p align=left>-t, noun-adjective suffix (-ful)
 
 t', prep. in, by, with
 
@@ -1566,16 +1566,16 @@ tromehts, adj. winged
 tuliema, n. a plant in the Serenol Age
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;TH
+<font size=12 style=b><p align=center>TH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-th, adjective-noun suffix (-ty/one)
+<font size=10 style=n><p align=left>-th, adjective-noun suffix (-ty/one)
 
 thirk, v. save (keep)
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;TS
+<font size=12 style=b><p align=center>TS
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;tsahn, adv. always, forever
+<font size=10 style=n><p align=left>tsahn, adv. always, forever
 
 tsahno, adj. everlasting, permanent, eternal (nonliving)
 
@@ -1616,18 +1616,18 @@ tsosahtahv, n. possession(?), treasure(?)
 tsotoy, n. child
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;UH
+<font size=12 style=b><p align=center>UH
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;uhgraht, n. pillars in the Wahrk Lake
+<font size=10 style=n><p align=left>uhgraht, n. pillars in the Wahrk Lake
 
 uhmt (unknown)
 
 urwin, n. a large bird native of Negilahn
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;V
+<font size=12 style=b><p align=center>V
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;v'ja, n. celebration
+<font size=10 style=n><p align=left>v'ja, n. celebration
 
 vah-, num. 5, five, combining form
 
@@ -1684,18 +1684,18 @@ votahnah, n. truth
 votahr, v. praise
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;W
+<font size=12 style=b><p align=center>W
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;winis, adv. together(?), forward(?)
+<font size=10 style=n><p align=left>winis, adv. together(?), forward(?)
 
 wish, v. lift (raise)
 
 wotsah, adj. harsh
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Y
+<font size=12 style=b><p align=center>Y
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;yahr, time, day
+<font size=10 style=n><p align=left>yahr, time, day
 
 Yahvo, name, Maker, God
 
@@ -1716,9 +1716,9 @@ yishah, n. planet(?)
 yootay, n. guinea pig; v. owe
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Z
+<font size=12 style=b><p align=center>Z
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;zahfay, n. fate
+<font size=10 style=n><p align=left>zahfay, n. fate
 
 zeh, pron. her, him(?)
 
@@ -1746,18 +1746,18 @@ zoodoo, v. regret
 
 zuh, n. end
 
-zuhnuh, n. ending</translation>
+zuhnuh, n. ending]]></translation>
             </element>
             <element name="DniDict2">
-                <translation language="English">&lt;cover src="DniDict2.hsm"&gt;&lt;font size=12 style=b face=courier color=000000&gt;&lt;margin right=56 left=56 top=40 bottom=40&gt;&lt;PB&gt;&lt;p align=center&gt;
+                <translation language="English"><![CDATA[<cover src="DniDict2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
-English to D'ni Dictionary&lt;PB&gt;&lt;PB&gt;
+English to D'ni Dictionary<PB><PB>
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;A
+<font size=12 style=b><p align=center>A
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;a: erth
+<font size=10 style=n><p align=left>a: erth
 
 able: shin
 
@@ -1844,9 +1844,9 @@ at the: fre-; tre-
 atmosphere: viduh
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;B
+<font size=12 style=b><p align=center>B
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;bandage (n.): eer
+<font size=10 style=n><p align=left>bandage (n.): eer
 
 basalt: ahbtsee
 
@@ -1945,9 +1945,9 @@ but: roob
 by: t', te
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;C
+<font size=12 style=b><p align=center>C
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;call (v.): foosah
+<font size=10 style=n><p align=left>call (v.): foosah
 
 call upon, invoke: khoyoo
 
@@ -2044,9 +2044,9 @@ creature: boogin
 cry (v.): l'izchah
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;D
+<font size=12 style=b><p align=center>D
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;dance (n.): krogestoy
+<font size=10 style=n><p align=left>dance (n.): krogestoy
 
 dance (v.): kroges
 
@@ -2117,9 +2117,9 @@ dry: ferem
 due: gatah
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;E
+<font size=12 style=b><p align=center>E
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;each: pod
+<font size=10 style=n><p align=left>each: pod
 
 east: vahmo
 
@@ -2194,9 +2194,9 @@ experience: fahdho
 eyeglasses: yeepay
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;F
+<font size=12 style=b><p align=center>F
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;fact: lesh
+<font size=10 style=n><p align=left>fact: lesh
 
 fair, just: oner
 
@@ -2295,9 +2295,9 @@ from the: mre-
 [fund] (v.): pazgo
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;G
+<font size=12 style=b><p align=center>G
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;gallery: timel
+<font size=10 style=n><p align=left>gallery: timel
 
 game similar to rock-paper-scissors: ahyoheek
 
@@ -2372,9 +2372,9 @@ guinea pig: yootay
 gusty: elioykhets
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;H
+<font size=12 style=b><p align=center>H
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;had ... -ed (-en): kol-
+<font size=10 style=n><p align=left>had ... -ed (-en): kol-
 
 had been ... -ing: kodol-
 
@@ -2443,9 +2443,9 @@ about 1 hour 13 minutes: pahrtahvo
 how (adv., interrogative): dho
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;I
+<font size=12 style=b><p align=center>I
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;I: (no verb suffix)
+<font size=10 style=n><p align=left>I: (no verb suffix)
 
 idiot: lenitah
 
@@ -2486,9 +2486,9 @@ it: -en; tah
 its: -on
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;J
+<font size=12 style=b><p align=center>J
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;journey: lenah
+<font size=10 style=n><p align=left>journey: lenah
 
 judge (n.): golantan
 
@@ -2497,9 +2497,9 @@ just, fair: oner
 just (adv.): kat
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;K
+<font size=12 style=b><p align=center>K
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;keep: beerah
+<font size=10 style=n><p align=left>keep: beerah
 
 keep, save: thirk
 
@@ -2510,9 +2510,9 @@ know: tahgahm
 [krill fly]: kiri
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;L
+<font size=12 style=b><p align=center>L
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;labyrinth: dayjee fahlah'ahl
+<font size=10 style=n><p align=left>labyrinth: dayjee fahlah'ahl
 
 large: pahrah
 
@@ -2571,9 +2571,9 @@ low (adj.): zith
 -ly: -sh, -esh
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;M
+<font size=12 style=b><p align=center>M
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;machine: doyhah
+<font size=10 style=n><p align=left>machine: doyhah
 
 mad, insane: zeeglah
 
@@ -2680,9 +2680,9 @@ my: -oy
 mystery: deseekay
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;N
+<font size=12 style=b><p align=center>N
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;name: foosahtahv
+<font size=10 style=n><p align=left>name: foosahtahv
 
 natural: vogets
 
@@ -2731,9 +2731,9 @@ nothing: rildil
 number: her
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;O
+<font size=12 style=b><p align=center>O
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;obey: keebah
+<font size=10 style=n><p align=left>obey: keebah
 
 [observatory]: Todelmer
 
@@ -2802,9 +2802,9 @@ owe: yootay
 own, have: sekh, sek
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;P
+<font size=12 style=b><p align=center>P
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;pacify: veren
+<font size=10 style=n><p align=left>pacify: veren
 
 [part]: nahsh
 
@@ -2889,14 +2889,14 @@ protector: ahreeuhtahn
 puzzle: deseekay
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Q
+<font size=12 style=b><p align=center>Q
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;queen: morpah
+<font size=10 style=n><p align=left>queen: morpah
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;R
+<font size=12 style=b><p align=center>R
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;raise, lift: wish
+<font size=10 style=n><p align=left>raise, lift: wish
 
 re-: d', de-
 
@@ -2957,9 +2957,9 @@ rule (n.): lesh
 rule (v.): poget
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;S
+<font size=12 style=b><p align=center>S
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-s (plural): -tee
+<font size=10 style=n><p align=left>-s (plural): -tee
 
 safe (adj.): gitsah
 
@@ -3128,9 +3128,9 @@ Surveyors Guild: telook
 swarm: hevo
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;T
+<font size=12 style=b><p align=center>T
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;take: shento
+<font size=10 style=n><p align=left>take: shento
 
 -teen: nay-
 
@@ -3259,9 +3259,9 @@ two: bree
 -ty (abstract): -th
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;U
+<font size=12 style=b><p align=center>U
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;universe: misho
+<font size=10 style=n><p align=left>universe: misho
 
 unknown: riltagamin
 
@@ -3276,9 +3276,9 @@ upon: fe
 us: set
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;V
+<font size=12 style=b><p align=center>V
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;vanquished: rahsoo
+<font size=10 style=n><p align=left>vanquished: rahsoo
 
 various: rahnahl
 
@@ -3287,9 +3287,9 @@ vault: tolesah
 very: b'rish
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;W
+<font size=12 style=b><p align=center>W
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;[warning]: keshtahv
+<font size=10 style=n><p align=left>[warning]: keshtahv
 
 warped: zeeglah
 
@@ -3402,9 +3402,9 @@ written: gelin
 [written work]: geltahv
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Y
+<font size=12 style=b><p align=center>Y
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;-y: -ets
+<font size=10 style=n><p align=left>-y: -ets
 
 year: hahr
 
@@ -3421,11 +3421,11 @@ your (singular): -om
 your (plural): -omee
 
 
-&lt;font size=12 style=b&gt;&lt;p align=center&gt;Z
+<font size=12 style=b><p align=center>Z
 
-&lt;font size=10 style=n&gt;&lt;p align=left&gt;zero: roon
+<font size=10 style=n><p align=left>zero: roon
 
-The Great Zero: rezeero</translation>
+The Great Zero: rezeero]]></translation>
             </element>
         </set>
     </age>
