@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="LaraDoc1">
-                <translation language="English"><![CDATA[<cover src="LaraDoc1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="LaraDoc1click">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents I
 
@@ -43,15 +43,15 @@ I will be conducting a Town Hall to discuss this project in person next week, ar
 
 Thank you for your time,
 
-J.D. Barnes<PB>
+J.D. Barnes<PB><PB>
 
-<font size=12><p align=center>Frequently Asked Questions
+<font size=12 style=b><p align=center>Frequently Asked Questions
 
-<font size=10>Last update: 11/30/2007
+<font size=10 style=n>Last update: 11/30/2007
 
-<p align=left>The Lara Documents
+<font style=b><p align=left>The Lara Documents
 
-Q. Where did these documents come from?
+<font style=n>Q. Where did these documents come from?
 A. I received these documents from an explorer by the name of Nathan Galaviz, who said that he got them from the estate of his grandfather, who in turn got them from Domasio Lara.
 
 Q. What sorts of documents are there in this collection?
@@ -70,9 +70,9 @@ Q. Can I use information from the Lara documents for this other project I am wor
 A. I plan to make all of the restorations publicly available. However, I would strongly suggest that you not use the information from this restoration effort unless you are prepared to deal with the possibility that the information will be shown to be erroneous or, worse, forgeries.
 
 
-Domasio Lara
+<font style=b>Domasio Lara
 
-Q. What do we know about Mr. Lara?
+<font style=n>Q. What do we know about Mr. Lara?
 A. According to his descendant, Mr. Galaviz, Domasio was a prospector from Mexico who became lost in caverns he discovered in northern Mexico. Beyond that, we know very little. I have been able to find a marriage license from 1893 in New Mexico that lists a marriage between a Domasio Lara and a Meliana Galindo. The name Meliana appears in some the correspondence of Mr. Lara's found in the trunk.
 
 Q. Do we have any definitive evidence supporting the veracity of this expedition?
@@ -85,9 +85,9 @@ Q. What did Mr. Lara find out about D'ni?
 A. As far as I can tell, he had no idea that he'd discovered D'ni. He seems to have thought D'ni was actually the source of the myths surrounding El Dorado, apparently due to the fact that the lake gave off a dim orange light.
 
 
-The Restoration Process
+<font style=b>The Restoration Process
 
-Q. Who is involved in this restoration?
+<font style=n>Q. Who is involved in this restoration?
 A. I am heading up the efforts, though it will involve the efforts of many explorers. The good people at Subterranean Restorations have agreed to apply their expertise. The Guild of Messengers has agreed to help distribute information and the D'ni Network has agreed to provide an Internet location to place restorations for public perusal.
 
 Q. Is the DRC involved? Dr. Watson? The Guilds?
@@ -106,7 +106,7 @@ Q. Do you want a 'snapshot' of the restored document itself, or just a translati
 A. While snapshots of restored documents are welcome, they are not necessary at this stage of the restoration. Rather, I am most interested in cataloging and recording the information in the documents. English reproductions of the document or just the information therein are sufficient, much like the DRC notebooks you find in the Cavern. Restored images from documents can be submitted individually or in the context of the page on which they reside.
 
 Q. I do not know the D'ni language. How can I assist in restoring these documents?
-A. There are a number of linguists in our community who might be willing to help. However, at this stage, you do not need to show the linguistic intricacies of the document in your submission, unless you are so inclined. An English version of the document will be sufficient at this point.<PB>
+A. There are a number of linguists in our community who might be willing to help. However, at this stage, you do not need to show the linguistic intricacies of the document in your submission, unless you are so inclined. An English version of the document will be sufficient at this point.<PB><PB>
 
 <font size=12 style=b><p align=center>Lara 001: Cahy'leh's letters
 
@@ -178,8 +178,8 @@ As for the equation itself, the D'ni numerical system is rather unique in that a
 
 -tobyas]]></translation>
             </element>
-            <element name="LaraDoc2">
-                <translation language="English"><![CDATA[<cover src="LaraDoc2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="LaraDoc2Click">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents II
 
@@ -235,7 +235,7 @@ And so the man left. However, by the night, God visited the king and told him to
 
 <font style=n>[1] The king in this piece seems to be Shomat. Though it's unclear. It could also be Aylesh or Ja'kreen. - Whilyam
 
-[2] When it reads "it was the strong opinion of all that no one had greater faith." "strong" would be directly translated as "hard" or "hardest" in terms of density. I felt strong would be the more accurate translation. - Whilyam<PB><PB>
+[2] When it reads "it was the strong opinion of all that no one had greater faith." "strong" would be directly translated as "hard" or "hardest" in terms of density. I felt strong would be the more accurate translation. - Whilyam<PB>
 
 <font size=12><p align=center>Lara 002.003: Translated by Whilyam
 
@@ -442,10 +442,10 @@ And so the man left and did as the soul healer said and became one of the most r
 
 <font style=b>Whilyam's notes
 
-<font style=n>[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam<PB>]]></translation>
+<font style=n>[1] The direct translation is "the soul helper". We don't have "helpers" in our culture, though. The man in the story seems more like a doctor or a healer, though I suppose it depends on which you prefer. - Whilyam]]></translation>
             </element>
-            <element name="LaraDoc3">
-                <translation language="English"><![CDATA[<cover src="LaraDoc3.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="laradoc3click">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents III
 
@@ -708,8 +708,8 @@ It was seven years before I returned to San Francisco. By that time, the Great F
 
 I sat down in a different saloon, placed the unopened book before me, and drank a glass of the cheapest mezcal. It was harsh and strong and it stung -- like life, I might have said; but a soldier who was not a poet would have laughed at that.]]></translation>
             </element>
-            <element name="LaraDoc4">
-                <translation language="English"><![CDATA[<cover src="LaraDoc4.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="laradoc4click">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents IV-V
 
@@ -917,8 +917,8 @@ And I muttered to his corpse "Yahvo does not give us a stone that we cannot carr
 
 [2] Here, design implies an architectural design, a schematic. - J.D.]]></translation>
             </element>
-            <element name="LaraDoc5">
-                <translation language="English"><![CDATA[<cover src="LaraDoc5.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="laradoc5">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents VI-VIII
 
@@ -963,7 +963,7 @@ Your Fellow Guildsman, Te'nur.
 
 [4] pods - This leads me to believe (due to the word Rezik) that the Guild of Maintainers were tasked with building pods in each Age, then linking to said pods in order to observe an Age until it was ready to receive a mark of approval from the Maintainers. - Marcus
 
-[5] rezeero - I assume this refers to the Great Zero and using it as a means of triangulating the location of Te'nur's letter and book. - Marcus<PB><PB>
+[5] rezeero - I assume this refers to the Great Zero and using it as a means of triangulating the location of Te'nur's letter and book. - Marcus<PB>
 
 <font size=12 style=b><p align=center>Lara 007: Musical scores
 
@@ -1016,10 +1016,7 @@ Well... If this document is a score... it is not for "performance" but for the t
 <font size=12><p align=center>Lara 007.001: Translated by turjan
 
 <font size=10><p align=left>Reboogin Tromex Ederen, "The Winged Creature Rests"
-
 <img src="LaraPict2.hsm" align=center blend=alpha resize=no>
-
-
 <font style=b>Translator's Comments
 
 <font style=n>For the musical performance... she is very subjective... we have, on the score there are two measures. On the recording I have made 3 measures (it's an improvisation for give a sense to the melody... It's probable that this document is the first page of a tune...)
@@ -1028,12 +1025,11 @@ This kind of score is not for performance but more for memory (like the old "neu
 
 -turjan<PB>
 
-<font size=12><p align=center>Lara 007.002: Translated by turjan and Owehn
+<font size=12><p align=center>Lara 007.002: Translated by turjan
+and Owehn
 
 <font size=10><p align=left>
-
 <img src="LaraPict3.hsm" align=center blend=alpha resize=no>
-
 Kodotaygahnij, "I Was Loved"
 
 1. remin dotaygahn[1,2] kenen m'zoo[3] fahm b'rish
@@ -1075,39 +1071,36 @@ The translation provided above is my literal translation: a more English version
 
 <font style=b>Translator's Comments
 
-<font style=n>[1] The central vowel in dot?gahn is a bit unreadable, but ay seems to fit rather nicely in context. - Owehn
+<font style=n>[1] The central vowel in dot?gahn is a bit unreadable, but ay seems to fit rather nicely in context. --Owehn
 
-[2] Here, a conjunction such as mot seems to have been omitted. The presence of doseems to be consistent with other examples of this phenomenon, though we can't be sure when the omission is allowed or if it indicates a slightly different meaning. A similar construction appears in line 5, though mot is used in line 3. - Owehn
+[2] Here, a conjunction such as mot seems to have been omitted. The presence of do- seems to be consistent with other examples of this phenomenon, though we can't be sure when the omission is allowed or if it indicates a slightly different meaning. A similar construction appears in line 5, though mot is used in line 3. --Owehn
 
-[3] In the text, this problematic word appears as m'zuh instead of m'zoo. Since there's no quantifier in front of zuh, and zoo fits better in context, I assume it was a typo. - Owehn
+[3] In the text, this problematic word appears as m'zuh instead of m'zoo. Since there's no quantifier in front of zuh, and zoo fits better in context, I assume it was a typo. --Owehn
 
-[4] The verb leeahnion seems to be related to the noun leeahnith from the Kenen Gor manifesto: in translating I assumed that both words had been derived from an adjective leeahnih, meaning something like "separate" or "divided". - Owehn
+[4] The verb leeahnion seems to be related to the noun leeahnith from the Kenen Gor manifesto: in translating I assumed that both words had been derived from an adjective leeahnih, meaning something like "separate" or "divided". --Owehn
 
-[5] I assume that this line is an abbreviation of the sentence [keneet] dovahtee rish [mot leeahnioneet] ah [set], by analogy to line 3. That pesky ah might be there to warn us that the direct object set "us" should be remembered in this line as well, and appears the same way at the end of line 5. - Owehn
+[5] I assume that this line is an abbreviation of the sentence [keneet] dovahtee rish [mot leeahnioneet] ah [set], by analogy to line 3. That pesky ah might be there to warn us that the direct object set "us" should be remembered in this line as well, and appears the same way at the end of line 5. --Owehn
 
-[6] I'm guessing that the verb rahn here is related to the adjective rahnahl "various". The common thread here seems to be the idea that the streams range over a large region. - Owehn
+[6] I'm guessing that the verb rahn here is related to the adjective rahnahl "various". The common thread here seems to be the idea that the streams range over a large region. --Owehn
 
-[7] Pity there's no punctuation here - I'm reasonably certain that this last line is a question, though it's possible that it's a continuation of line 9: "I know nothing of you (e.g.) where you are." - Owehn<PB><PB>
+[7] Pity there's no punctuation here - I'm reasonably certain that this last line is a question, though it's possible that it's a continuation of line 9: "I know nothing of you (e.g.) where you are." --Owehn<PB>
+
+<img src="LaraPict4.hsm" align=center blend=alpha resize=no><PB>
 
 <font size=12 style=b><p align=center>Lara 008: Map of unknown Age
 
 <font style=n>Lara 008.001: Translated by belford
 
-<font size=10><p align=left>
-
-<img src="LaraPict4.hsm" align=center blend=alpha resize=no>
-
-
-<font style=b>Translator's Comments
+<font size=10 style=b><p align=left>Translator's Comments
 
 <font style=n>What I have done is to trace the map's features into an illustration program. This does nothing to convey the beauty of the original work, of course, but I'm hoping that it will be of help to other restorers.
 
-As you know, the map is heavily annotated with labels in D'ni. I have not even tried to reproduce this in my version; the lettering is badly worn and my D'ni is terrible at best. I have hopes that another restorer will be able to decipher and translate the labels􀀀then we'll have some hope of figuring out what's going on in this Age!
+As you know, the map is heavily annotated with labels in D'ni. I have not even tried to reproduce this in my version; the lettering is badly worn and my D'ni is terrible at best. I have hopes that another restorer will be able to decipher and translate the labels then we'll have some hope of figuring out what's going on in this Age!
 
 -belford]]></translation>
             </element>
-            <element name="LaraDoc6">
-                <translation language="English"><![CDATA[<cover src="LaraDoc6.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="laradoc6click">
+                <translation language="English"><![CDATA[<cover src="LaraCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 The Lara Documents IX-X
 
@@ -1135,40 +1128,34 @@ The board is a map that shows a series of areas referred to as Ages. There are 8
 
 There are three types of counters: units, link points and linking books. Units come in 5 different colors, denoting different players, each unit token has a unique symbol on it. Link points have a unique symbol on them. There is one linking book token for each link point token and for each link-in point on the map, and the linking book has the appropriate symbol for its corresponding link point.
 
+<font style=b>Winning
 
-Winning
-
-There are two victory conditions for the game -- either controlling three fourths of the link in points (permanent and link point markers) or controlling three fourths of the linking books.
+<font style=n>There are two victory conditions for the game -- either controlling three fourths of the link in points (permanent and link point markers) or controlling three fourths of the linking books.
 
 A link-in point is considered controlled by the player to last have a unit occupying the region it is in. Even if they move out, they control it until someone else moves in. If no unit has occupied that region yet, it is considered uncontrolled.
 
 A linking book is considered controlled when in the same region as a unit. A linking book in a region with no unit is considered uncontrolled.
 
+<font style=b>Setup
 
-Setup
+<font style=n>To set up the game, you place the linking books for the permanent link points on the board in predetermined places (these are not in the same age at the link point for the book). Then each player places two units on two of the linking points in the same age. This means that each player starts off controlling two link points.
 
-To set up the game, you place the linking books for the permanent link points on the board in predetermined places (these are not in the same age at the link point for the book). Then each player places two units on two of the linking points in the same age. This means that each player starts off controlling two link points.
+<font style=b>Gameplay
 
-
-Gameplay
-
-Gameplay goes by turns. Each turn is made up of the following phases:
+<font style=n>Gameplay goes by turns. Each turn is made up of the following phases:
 
 * Negotiation
 * Orders
 * Resolution
 * Supply
 
+<font style=b>Negotiation
 
-Negotiation
+<font style=n>The negotiation phase is a time for players to talk amongst themselves and negotiate. There is no set time for this, though one document suggested that players agree to a limited time interval.
 
-The negotiation phase is a time for players to talk amongst themselves and negotiate. There is no set time for this, though one document suggested that players agree to a limited time interval.
+<font style=b>Orders
 
-
-Orders
-
-The orders phase consists of each player writing down orders on a piece of paper, then giving them to a judge (who may or may not be a player). Orders can be given to each unit.
-
+<font style=n>The orders phase consists of each player writing down orders on a piece of paper, then giving them to a judge (who may or may not be a player). Orders can be given to each unit.
 
 Valid orders are:
 
@@ -1186,10 +1173,9 @@ Transfer - If there is a linking book in the region a unit is in, the unit can p
 
 Reinforce - This is a special order. Then a unit reinforces, the player specifies another unit that it is reinforcing. So if a unit is moving from one region to another, you can specify that the second unit reinforces that move. The more units that reinforce the move, the more units that are required to counter it. A unit can reinforce a move or link into a region that it is already adjacent to. A unit can also reinforce a Stay order, if it is adjacent to the region the unit is 'Staying' in. Reinforcement does not move the assisting unit, and has no effect on the Carry aspect of an order. A unit can only reinforce one specific order at a time. If the reinforce order does not match the action that the unit is actually doing, the reinforcement does not take effect. Note that any unit can reinforce any other unit, including those of other players.
 
+<font style=b>Resolution
 
-Resolution
-
-In the resolution phase, all orders are considered to take place simultaneously. The judge resolves the effects of the orders according to specific rules.
+<font style=n>In the resolution phase, all orders are considered to take place simultaneously. The judge resolves the effects of the orders according to specific rules.
 
 No region can have more than one unit in it at any time.
 
@@ -1211,10 +1197,9 @@ If there is no place to flee, the unit is removed from the game.
 
 Linking adds a wrinkle to this. Generally speaking it's the same as a move. However, the linking unit does go through the linking book. If they would normally not be allowed into the space, they actually must 'flee' the occupied destination space as if they'd been pushed out (including leaving a linking book they might be carrying behind). If they have no place to flee, they are removed from the game.
 
+<font style=b>Supply
 
-Supply
-
-After the resolution phase comes the supply phase. If a player controls the requisite number of link points or linking books at this point, they win.
+<font style=n>After the resolution phase comes the supply phase. If a player controls the requisite number of link points or linking books at this point, they win.
 
 A player gets one supply action for each link point that they have taken during the resolution phase. For each action they can add a unit, or write a linking book.
 
@@ -1222,10 +1207,9 @@ If they add a unit, it is added to one of the regions that has a link point they
 
 If a linking book is written, the player places a link point token and its corresponding linking book in a region that is currently occupied by one of their units. The link point cannot move at any point, but the book can be moved normally from then on.
 
+<font style=b>Variations
 
-Variations
-
-I found several variations.
+<font style=n>I found several variations.
 
 * The number of books or link-in points required often varied less than or more than 5 players
 * One variation forbid the creation of new link points and books.
@@ -1321,3 +1305,4 @@ The Maker rewards those who need no cord[3].
         </set>
     </age>
 </localizations>
+
