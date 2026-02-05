@@ -12,8 +12,8 @@ Vidkid (2008). *The Restoration So Far* ([Forum thread](https://mystonline.com/f
 
 Tobyas, Whilyam, Belford, J.D. Barnes, Marcus Wheeler, Turjan, Blade Lakem (2008). *The Lara Documents* ([PDF](http://www.allthingsuru.com/AllThingsUru/pdf/The%20Lara%20Documents.pdf))
 
-## Drafts
-
 Max (2012). *A Journey Without An Ending* ([Archived link](https://web.archive.org/web/20160505160452/http://www.guildofmessengers.com/en/magazine/journey-without-ending-part-1-where-it-all-started))
+
+## Drafts
 
 Kh’reestrefah (2022). *A Dictionary of the Language of D’ni* ([Link](http://www.eldalamberon.com/dni_dict.htm)) (entries only)
