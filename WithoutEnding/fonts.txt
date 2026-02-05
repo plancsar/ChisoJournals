@@ -1,0 +1,2 @@
+Copperplate Gothic Bold, #610000
+Shade: #FFEA9E, Gaussian blur radius 5
