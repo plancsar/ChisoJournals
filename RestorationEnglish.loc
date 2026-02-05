@@ -2,8 +2,8 @@
 <localizations>
     <age name="ChisoPreniv">
         <set name="Journals">
-            <element name="Restoration1">
-                <translation language="English"><![CDATA[<cover src="Restoration1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vid1click">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -15,9 +15,9 @@ vidkid
 
 December 2007<PB><PB>
 
-<font size=10 style=n>Forewords
+<font size=12 style=n>Forewords
 
-<p align=left>A little over a year ago, I wrote a series of posts for the purpose of filling people in on what had happened over the past few years of the restoration, as a means of recapping events for new explorers, as well as those of us who just needed a reminder. Unfortunately, that information is now out of date and quite behind, and so, I now being posting once more, rewriting the previous information, and adding anything I missed, as well as preparing to write up the events of the past year.
+<font size=10><p align=left>A little over a year ago, I wrote a series of posts for the purpose of filling people in on what had happened over the past few years of the restoration, as a means of recapping events for new explorers, as well as those of us who just needed a reminder. Unfortunately, that information is now out of date and quite behind, and so, I now being posting once more, rewriting the previous information, and adding anything I missed, as well as preparing to write up the events of the past year.
 
 This is all written from my personal view of events... if there are any mistakes or things that you feel are wrong... feel free to point them out.<PB><PB>
 
@@ -27,7 +27,7 @@ This is all written from my personal view of events... if there are any mistakes
 
 Over five years have passed since the reality of D'ni became public, and it's been a lengthy and perilous journey so far. We've been called, kicked out, had a returning, new hope, tragedy, incredible revelations, and that's just to put it lightly.
 
-However, as more and more explorers enter the cavern every day, it continues to become apparent that very few of us actually know the whole story of how we got to where we are today... this is being written in response to this situation. I'm not a D'ni historian, I can't tell you about all the great kings, or who wrote the ages we visit, or even what year the fall of D'ni occured. But I can tell you about the restoration, and almost everything leading up to this point. So let's start with the basics.
+However, as more and more explorers enter the cavern every day, it continues to become apparent that very few of us actually know the whole story of how we got to where we are today... this is being written in response to this situation. I'm not a D'ni historian, I can't tell you about all the great kings, or who wrote the ages we visit, or even what year the fall of D'ni occurred. But I can tell you about the restoration, and almost everything leading up to this point. So let's start with the basics.
 
 
 <font style=b>A very brief history of the modern rediscovery of D'ni
@@ -64,8 +64,7 @@ In May 2002, Zandi started communicating with the explorers on the surface via t
 
 I'd like to go on to write about everything that occurred, but the cited "Zandi Facts" website has already done an excellent job of it. For those who don't want to dig that deeply, however, here are the basic points....
 
-1. Zandi had been at Mysterium 2001 in Carlsbad, New Mexico.
-(Mysterium is a yearly conference for fans of all things Myst, D'ni, and Cyan.)
+1. Zandi had been at Mysterium 2001 in Carlsbad, New Mexico. (Mysterium is a yearly conference for fans of all things Myst, D'ni, and Cyan.)
 
 2. He had also purchased a billboard, at a location very near the location of Mysterium 2001. This sign featured a very unusual spiral symbol, and GPS coordinates. Unfortunately, by the time the community had discovered the existance of said billboard, it had been long removed, and it took a great deal of negotiating and hoop jumping with the owner of the land and the billboard to find out what was on it.
 
@@ -81,7 +80,7 @@ Zandi's final task had become clear. It was now up to us to "make the journey", 
 
 People questioned it, and received explanations. Some didn't get it, some didn't believe, and some felt the call. Those who felt the call make up most of the ones who now join us in the cavern... the "Uru Explorers".
 
-Uru explorers were granted access to the cavern by Zandi and presumably Yeesha. They weren't authorized by the DRC, they were given books that the DRC definitely didn't approve of (Relto books), and were generally "tolerated" more than "accepted" by the DRC.<PB><PB>
+Uru explorers were granted access to the cavern by Zandi and presumably Yeesha. They weren't authorized by the DRC, they were given books that the DRC definitely didn't approve of (Relto books), and were generally "tolerated" more than "accepted" by the DRC.<PB>
 
 <font size=12 style=n><p align=center>Part III: The Fall of the Restoration
 
@@ -109,12 +108,11 @@ Ae'gura was quickly evacuated, and a thorough search for Phil began, but a body 
 
 Shortly after Phil Henderson's alleged death, Dr. Watson returned to the surface to grieve and rethink the restoration. He cut off communications with the DRC and explorers, and disappeared to unknown regions. Victor Laxman, Dr. Kodama, Dr. Sutherland, and Michael Engberg continued on in Dr. Watson's absence... Victor opened up the Great Zero at the very tip of Ae'gura and gave the explorers the tools needed to work together re-calibrate it, but this project wasn't completed before the next big surprise. Funding had dried up. Possibly because of Phil's accident, or maybe the investors simply weren't getting the returns that they were looking for.
 
-In February 2004, the restoration was officially cancelled, and all Restoration Engineers, Authorized Explorers, and even the Uru Explorers were escorted to the surface, and the caverns were locked off. For the first time in over ten years, D'ni was empty again.<PB><PB>
-
-<font size=12 style=n><p align=center>]]></translation>
+In February 2004, the restoration was officially cancelled, and all Restoration Engineers, Authorized Explorers, and even the Uru Explorers were escorted to the surface, and the caverns were locked off. For the first time in over ten years, D'ni was empty again.
+]]></translation>
             </element>
-            <element name="Restoration2">
-                <translation language="English"><![CDATA[<cover src="Restoration2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vid2click">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -164,10 +162,10 @@ In May, a huge announcement was made. The DRC had been given proper funding, and
 
 Six months after the first election was had, it was time to choose a second group of DRC liaisons. This time, basing the process in the same way as the previous election, everything moved a lot more quickly and smoothly, with the final result being a return of Gadren, Eleri, Tweek, CAGreyWolf, and Vortmax. It was a pretty wide agreement that they had done an excellent job so far, and would certainly be welcomed back.
 
-On December 19th, a Town Hall was scheduled in which to air any questions, comments, or news regarding the restoration starting up again in earnest. Dr. Kodama and Marie Sutherland took the stage and addressed the crowd, congratulating everyone on sticking together through so much, and answering a few questions. The event had barely even started when a sudden interruption put everything to a halt. Dr. Kodama noticed something unusual on his KI, and as he paused to look at it, a deafening scream was heard from the bahro... a sound that was heard cavernwide. Everyone in D'ni and in any of the various ages suddenly found themselves forcibly linked back to their own Reltos by an unknown power. Something was terribly wrong.]]></p></translation>
+On December 19th, a Town Hall was scheduled in which to air any questions, comments, or news regarding the restoration starting up again in earnest. Dr. Kodama and Marie Sutherland took the stage and addressed the crowd, congratulating everyone on sticking together through so much, and answering a few questions. The event had barely even started when a sudden interruption put everything to a halt. Dr. Kodama noticed something unusual on his KI, and as he paused to look at it, a deafening scream was heard from the bahro... a sound that was heard cavernwide. Everyone in D'ni and in any of the various ages suddenly found themselves forcibly linked back to their own Reltos by an unknown power. Something was terribly wrong.]]></translation>
             </element>
-            <element name="Restoration3">
-                <translation language="English"><![CDATA[<cover src="Restoration2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vidclick3">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -183,9 +181,9 @@ December 2007<PB><PB>
 
 <font size=10 style=n><p align=left>Last Updated: December 19, 2007
 
-The first obvious thing was that everything that an explorer might have found to add to their Relto was now missing. All of their Relto pages, anything special that was stored in the closet, and all of their gathered books, save for a solitary neighborhood book, was now gone. Perhaps it was a new Relto entirely. In addition, the four pillars that used to grace the center of the island were also gone, replaced by one single pillar containing a book that linked back to the cleft on the surface, and a thin stone ring had been embedded into the ground near the lowest end of the island. Additionally, all functioning KIs were no longer active, and had shut themselves down completely, so a new KI would need to be picked up from Gahreesen.
+The first obvious thing was that everything that an explorer might have found to add to their Relto was now missing. All of their Relto pages, anything special that was stored in the closet, and all of their gathered books, save for a solitary neighborhood book, was now gone. Perhaps it was a new Relto entirely. In addition, the four pillars that used to grace the center of the island were also gone, replaced by one single pillar containing a book that linked back to the Cleft on the surface, and a thin stone ring had been embedded into the ground near the lowest end of the island. Additionally, all functioning KIs were no longer active, and had shut themselves down completely, so a new KI would need to be picked up from Gahreesen.
 
-The cleft seemed to be pretty much the same as always, except for a couple of things. There was now a second firepit near Zandi's trailer, with a Relto page sitting amongst the coals and ash. This Relto page added a dais to one of the smaller islands in Relto, depicting a sun and moon on it's surface, as well as bridges to let you walk across to this surface. The other change was that any explorer who found the cloths and made their way into the tree would no longer find a Relto book waiting for them, but instead, a Relto page. Claiming this page would return the four pillars to their Relto, and remove the one leading to the cleft.
+The Cleft seemed to be pretty much the same as always, except for a couple of things. There was now a second firepit near Zandi's trailer, with a Relto page sitting amongst the coals and ash. This Relto page added a dais to one of the smaller islands in Relto, depicting a sun and moon on it's surface, as well as bridges to let you walk across to this surface. The other change was that any explorer who found the cloths and made their way into the tree would no longer find a Relto book waiting for them, but instead, a Relto page. Claiming this page would return the four pillars to their Relto, and remove the one leading to the Cleft.
 
 The true shock came upon linking to D'ni via the neighborhood book. The fountains were jammed, the imagers were missing, community rooms were being blocked off, the privacy rooms were off limits, and much more. Ae'gura was in the same state... there had been collapses all across the city, and as a result, barriers had been erected to prevent anyone from going beyond the Great Stair. In the Nexus, all of the registered neighborhoods were gone, and of course since all of the KIs had ceased to function, all private links and city links were now gone as well. A complete lattice reset. The cavern was torn apart, almost to the same state as it was at the end of 2003, before proper clean up of the public areas had started.
 
@@ -213,10 +211,10 @@ Now there were two potential sets of wedges in Relto, each one forming a slowly 
 
 February 20th, soon after the release of Eder Tsogal, revealed two big surprises. First, it turns out that a snowstorm had swept over Eder Delin, covering the age in frost and snow. Almost simultaneously, a group had formed in a neighborhood, standing in spiral formations and calling out to Yeesha... and after some time had passed, she appeared to them. On top of the neighborhood fountain, Yeesha stood in the form of a silent flickering ghost-like image... looking around at the gathered explorers for a moment, then disappearing as quickly as she came. The next day, Dr. Kodama thoroughly inspected the area, in search of any information as to the occurance, but seemed to find nothing.
 
-And so, the DRC and the explorers continued to rebuild, and the cavern continued to grow.]]></p></translation>
+And so, the DRC and the explorers continued to rebuild, and the cavern continued to grow.]]></translation>
             </element>
-            <element name="Restoration4">
-                <translation language="English"><![CDATA[<cover src="Restoration2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vidclick4">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -266,10 +264,10 @@ Almost as if in response to us completing another ring, it was only a few days b
 
 Meanwhile, through all of these events, Nick White had been spending his spare time with the explorers, occasionally leaking information, and sometimes flirting with girls or just joking around in general. It wasn't too long before a few people started taking things too far out of context and complaining about Nick's "professionalism". By the start of May, things had gotten bad enough that Cate Alexander had decided that he was causing more trouble than he was worth, on purpose or not, and chose to remove him from his position at the DRC.
 
-A sense of unease was settling across D'ni. A fear was growing. But the uru continued.]]></p></translation>
+A sense of unease was settling across D'ni. A fear was growing. But the uru continued.]]></translation>
             </element>
-            <element name="Restoration5">
-                <translation language="English"><![CDATA[<cover src="Restoration2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vidclick5">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -341,10 +339,10 @@ If an explorer was brave enough to touch the symbol, they'd soon realize that ti
 
 Anyone who passed through this symbol would once again find themselves in the familiar bahro cave, and once again be faced with a floating ring. This time, however, the ring was only one large piece, instead of being divided into smaller chunks. Claiming the ring would add a full fourth layer to the stack on Relto, which many months after some explorers had started to build it, was still steadily turning and gently wobbling.
 
-The restoration and the families of those involved had both suffered a great loss, and in the end no amount of explorers could prevent the tragedies that occured. In this respect, the uru had failed... but even so, the journey continued. And the hardships, while threatening to break some, were able to to strengthen many more. And so the community came together, and grew stronger.]]></p></translation>
+The restoration and the families of those involved had both suffered a great loss, and in the end no amount of explorers could prevent the tragedies that occured. In this respect, the uru had failed... but even so, the journey continued. And the hardships, while threatening to break some, were able to to strengthen many more. And so the community came together, and grew stronger.]]></translation>
             </element>
-            <element name="Restoration6">
-                <translation language="English"><![CDATA[<cover src="Restoration2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="vidclick6">
+                <translation language="English"><![CDATA[<cover src="RestorationCoverFront.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
 
 
 
@@ -400,8 +398,9 @@ Er'cana to make and release pellets that would help improve the condition of the
 
 Late in the evening, Sharper linked into a neighborhood to speak with explorers a bit, and then made his way to the Watcher's Sanctuary. He was passing through to say his goodbyes before he headed off on his long expedition to Noloben, and to speak with some of the people who had resulted in at least two angry meetings with Cate regarding his plans for the bahro.
 
-As Douglas bid his last farewells and linked away, explorers were left with a sense of unease. There had already been enough death in the cavern, and now one of their own was preparing to bring more.]]></p></translation>
+As Douglas bid his last farewells and linked away, explorers were left with a sense of unease. There had already been enough death in the cavern, and now one of their own was preparing to bring more.]]></translation>
             </element>
         </set>
     </age>
 </localizations>
+
