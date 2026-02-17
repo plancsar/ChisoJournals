@@ -14,6 +14,8 @@ Tobyas, Whilyam, Belford, J.D. Barnes, Marcus Wheeler, Turjan, Blade Lakem (2008
 
 Max (2012). *A Journey Without An Ending* ([Archived link](https://web.archive.org/web/20160505160452/http://www.guildofmessengers.com/en/magazine/journey-without-ending-part-1-where-it-all-started))
 
-## Drafts
+Kh’reestrefah (2025). *A Dictionary of the Language of D’ni* ([Link](http://www.eldalamberon.com/dni_dict.htm)) (entries only)
 
-Kh’reestrefah (2022). *A Dictionary of the Language of D’ni* ([Link](http://www.eldalamberon.com/dni_dict.htm)) (entries only)
+## Archived
+
+Dot Macchi, Quinquifid Oddenfen, Nalates Urriah, Andy Legate, et al. (2011). *The Devokan Story* ([Link](https://mystonline.com/forums/viewtopic.php?f=41&t=17633)).
