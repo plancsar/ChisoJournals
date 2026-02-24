@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
-    
+    <age name="ChisoPreniv">
         <set name="Journals">
             <element name="DniDictDE1">
                 <translation language="English"><![CDATA[<cover src="DniDictDE1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -5010,3 +5010,4 @@ your: havahni.]]></translation>
         </set>
     </age>
 </localizations>
+
