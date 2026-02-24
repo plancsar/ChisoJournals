@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <localizations>
-    <age name="ChisoPreniv">
+    
         <set name="Journals">
             <element name="DniDictDE1">
                 <translation language="English"><![CDATA[<cover src="DniDictDE1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -9,15 +9,15 @@ D'ni to English Dictionary: A-I
 
 
 
-<font size=12 style=n>Compiled by
+<font style=n>Compiled by
 Kh'reestrefah
 
 Edited by
-Korov'ev<PB><PB>
+Korov'ev<PB>
 
-<font size=12 style=b><p align=center>Abbreviations<font size=10 style=n><p align=left>
+<font style=b><p align=center>Abbreviations
 
-                   adj: adjective
+<font size=10 style=n><p align=left>                   adj: adjective
                    adv: adverb
                    art: article
                    aux: auxiliary
@@ -38,671 +38,692 @@ Korov'ev<PB><PB>
                quantif: quantifier
                   sing: singular
                   suff: suffix
-                     v: verb<PB><PB>
+                     v: verb
+<font size=12><PB>
+
+<font style=b><p align=center>Sorting
+
+<font size=10 style=n><p align=left>The traditional D'ni alphabetical order is the following:
+
+               V   B   T   S   SH
+               J   G   Y   KH  K
+               AH  AI  F   P   I
+               EE  E   AY  R   M
+               TH  DH  D   H   O
+               OY  CH  W   UH  OO
+               TS  L   A   Z   N
+
+However, to make looking for terms easier, in this dictionary we adopted the common alphabetical order:
+
+<font size=12 style=b>     A  B  C  D  E  F  G  H  I
+
+<font size=10 style=n>Dnifont spellings are given in brackets: [Sora]. Tentative translations are marked with: (?).<PB><PB>
 
 <font size=12 style=b><p align=center>A
 
-<font size=10 style=n><p align=left>advuh [åDvu] n., arch.
+<font size=10 style=n><p align=left>advuh [åDvu] (n.) arch.
 
--ah [-a] suff., imperative.
+-ah [-a] (suff.) imperative. Possibly also a superlative suff. (cf. elahth). 
 
-ah [a] prep., marks an object directly affected by the action of the verb. Uses:
-* in contrast with the recipient or goal marked by b';
+ah [a] (prep.) marks an object directly affected by the action of the verb. Uses:
+* in contrast with the recipient or goal
+  marked by b';
 * in contrast with the purpose marked by khe;
-* when direct object is the subject of a subordinate clause.
+* when direct object is the subject of a
+  subordinate clause.
 
-ahbtsee [abxE] n., basalt.
+ahbtsee [abxE] (n.) basalt.
 
-ahbtseeets [abxEex] adj., basaltic.
+ahbtsee-ets [abxEex] (adj.) basaltic.
 
-ahchah [aca] n., sun(?), air(?), climate(?).
+ahchah [aca] (n.) sun(?), air(?), climate(?).
 
-ahgo [ago] adj./adv., well.
+ahgo [ago] (adj./adv.) well.
 
--ahl [-al] suff., verb to adjective ("-ing", "-ed").
+-ahl [-al] (suff.) verb to adjective ("-ing", "-ed").
 
-ahl [al] n., branch(?), leaf(?), blossom(?), flower(?).
+ahl [al] (n.) branch(?), leaf(?), blossom(?), flower(?).
 
--ahloth [-aloT] suff., verb to noun (one who endures an action or state).
+-ahloth [-aloT] (suff.) verb to noun (one who endures an action or state).
 
--ahm [-am] suff., man(?), member(?). Telookahm "Surveyor".
+-ahm [-am] (suff.) man(?), member(?). Telookahm "Surveyor".
 
--ahn [-an] suff., augmentative or intensive ending in certain nouns, verbs, and adjectives describing extensive, thorough, or deep states or processes.
+-ahn [-an] (suff.) augmentative or intensive ending in certain nouns, verbs, and adjectives describing extensive, thorough, or deep states or processes.
 
-ahn [an] n., body of water(?).
+ahn [an] (n.) body of water(?).
 
-ahnee [anE] v., become, get.
+ahnee [anE] (v.) become, get.
 
-ahneem [anEm] adj., fluid.
+ahneem [anEm] (adj.) fluid.
 
-ahno [ano] n., water.
+ahno [ano] (n.) water.
 
-ahnoets [anoex] adj., watery, wet.
+ahnoets [anoex] (adj.) watery, wet.
 
-Ahnonay [anonA], lit. "Water Root".
+Ahno-nay [anonA] (n.) lit. "Water Root".
 
-ahnotahm [anotam] n., lava; magma-based.
+ahnotahm [anotam] (n.) lava; magma-based.
 
-ahreeuh [arEu] v., protect.
+ahreeuh [arEu] (v.) protect.
 
-ahreeuhtahn [arEutan] n., protector.
+ahreeuh-tahn [arEutan] (n.) protector.
 
-ahreeuhtahv [arEutav] n., protection.
+ahreeuh-tahv [arEutav] (n.) protection.
 
-ahro [aro] adj., other, different.
+ahro [aro] (adj.) other, different.
 
-ahrotahn [arotan] n., outsider, outworlder.
+ahro-tahn [arotan] (n.) outsider, outworlder.
 
-ahroy [arO] v., attend(?).
+ahroy [arO] (v.) attend(?).
 
-ahrtah [arta] v., allow(?), permit(?), let(?), do(?), cause(?).
+ahrtah [arta] (v.) allow(?), permit(?), let(?), do(?), cause(?).
 
-ahtmay [atmA] v., stop(?), remove(?).
+ahtmay [atmA] (v.) stop(?), remove(?).
 
-ahtsoo [axU] adj., ready.
+ahtsoo [axU] (adj.) ready.
 
-ahve [ave] n., error.
+ahve [ave] (n.) error.
 
-ahyo [ayo] n., icon, symbol.
+ahyo [ayo] (n.) icon, symbol.
 
-ahyoheek [ayohEK], D'ni game very similar to rock-paper-scissors.
+ahyoheek [ayohEK] (n.) D'ni game very similar to rock-paper-scissors. Historically the game was played with cane sticks marked with symbols.
 
-Aitrus [Atrus], a D'ni name, actually spelled the same as Atrus.
+Aitrus [Atrus] a D'ni name, actually spelled the same as Atrus.
 
-al [ål] n., branch.
+al [ål] (n.) branch.
 
-altee [åltE] n., branches.
+altee [åltE] (n.) branches.
 
-altee rilerilonin [åltE rilerilonin] n., unexplored branches.
+altee rilerilonin [åltE rilerilonin] (n.) unexplored branches (cf. rilerilonin).
 
-atinor [åtinor] n., beauty.
+atinor [åtinor] (n.) beauty.
 
-atinoret [åtinoret] adj., beautiful.
+atinor-et [åtinoret] (adj.) beautiful.
 
-Atrus [Atrus], a D'ni name, actually spelled the same as Aitrus.
+Atrus [Atrus] a D'ni name, actually spelled the same as Aitrus.
 
-ayshoyk [ASOK] v., realize.
+ayshoyk [ASOK] (v.) realize.
 
-ayts'day [Ax'DA] n., retribution.
+ayts'day [Ax'DA] (n.) retribution.
 
-<PB><font size=12 style=b><p align=center>B
+<font size=12 style=b><p align=center>B
 
-<font size=10 style=n><p align=left>b [b-] prep., to.
+<font size=10 style=n><p align=left>b [b-] (prep.) to.
 
-bah [ba] n., beast.
+bah [ba] (n.) beast.
 
-bahkh [bak] adj., baked(?) (see chor bahkh).
+bahkh [bak] (adj.) baked(?) (cf. chor bahkh).
 
-bahn [ban] n., land(?) (see bahntahno).
+bahn [ban] (n.) land(?).
 
-bahntahno [bantano] n., island.
+bahntahno [bantano] (n.) island.
 
-bahr [bar], craft(?), strength(?), energy(?).
+bahr [bar] craft(?), strength(?), energy(?).
 
-bahrel [barel] v., make.
+bahrel [barel] (v.) make.
 
-bahreltahn [bareltan] n., Maker, God.
+bahrel-tahn [bareltan] (n.) Maker, God.
 
-bahreltahv [bareltav] n., (something) made.
+bahrel-tahv [bareltav] (n.) (something) made.
 
-bahro [baro] n., bahro; beast-people, enslaved ahrotahntee. Rarely spelled bah'ro.
+bah'ro/bahro [ba'ro] (n.) bahro; beast-people, enslaved ahrotahntee.
 
-bahronet [baronet] adj., phosphorescent.
+bahron-et [baronet] (adj.) phosphorescent.
 
-bahrtah [barta] v., accomplish(?).
+bahrtah [barta] (v.) accomplish(?).
 
-bahsh/bash [baS/båS] v., sense(?).
+bahsh/bash [baS/båS] (v.) sense(?).
 
-bahtsahnah [baxana] n., map.
+bahtsahnah [baxana] (n.) map.
 
-bahtsen [baxen] v., map.
+bahtsen [baxen] (v.) map.
 
-bahtsentahn [baxentan] n., cartographer.
+bahtsen-tahn [baxentan] (n.) cartographer.
 
-bahvahnin [bavanin] adj., hidden.
+bahvahn-in [bavanin] (adj.) hidden.
 
-bantee [båntE] n., series (seemingly always plural).
+bantee [båntE] (n.) series (seemingly always plural).
 
-baykh [bAk] v., link, use a book to travel between Ages.
+baykh [bAk] (v.) link, use a book to travel between Ages.
 
-b'bree [b'brE] quantif., a little (lit. "to two").
+b'bree [b'brE] (quantif.) a little (lit. "to two").
 
-be [be] prep., to.
+be [be] (prep.) to.
 
-beerah [bEra] v., keep, stay, remain.
+beerah [bEra] (v.) keep, stay, remain.
 
-beeree [bErE] v., maintain.
+beeree [bErE] (v.) maintain.
 
-beereetahn [bErEtan] n., Maintainer.
+beeree-tahn [bErEtan] (n.) Maintainer.
 
-bek [beK] n., game.
+bek [beK] (n.) game.
 
-bekhe [beke] v., compel, force.
+bekhe [beke] (v.) compel, force.
 
-bel [bel] v., claim.
+bel [bel] (v.) claim.
 
-beletsahrah [belexara] n., plant similar to a lechuguilla agave.
+beletsahrah [belexara] (n.) plant similar to a lechuguilla agave.
 
-bel'khah [bel'ka] adj., strange.
+bel'khah [bel'ka] (adj.) strange.
 
-behn [ben] prep., for (exchange or duration).
+behn [ben] (prep.) for (exchange or duration).
 
-bezol [bezol] v., trap.
+bezol [bezol] (v.) trap.
 
-bezol pumi [bezol pumE?] n., a carnivorous plant clinging on trees, native to Negilahn. Its preys are the pumi.
+bezol pumi [bezol pumE?] (n.) a carnivorous plant clinging on trees, native to Negilahn. Its preys are the pumi.
 
-b'fahsee [b'fasE] quantif., as much as possible (lit. "to twenty-five").
+b'fahsee [b'fasE] (quantif.) as much as possible (lit. "to twenty-five").
 
-bigto [bigto] n., blessing.
+bigto [bigto] (n.) blessing.
 
-bintah [binta] n., law, ordinance.
+bintah [binta] (n.) law, ordinance.
 
-birahno [birano] n., sea. Birahnokh Rintotee "Sea of Dreams".
+birahno [birano] (n.) sea (cf. ahno). Birahnokh Rintotee "Sea of Dreams".
 
-bishtah [biSta] n., tunnel.
+bishtah [biSta] (n.) tunnel.
 
-biv [biv] determ., all, every.
+biv [biv] (determ.) all, every.
 
-bivdil [bivDil] pron., everything.
+biv-dil [bivDil] (pron.) everything.
 
-bivrov [bivrov] pron., everyone.
+biv-rov [bivrov] (pron.) everyone.
 
--blo [-blo] num., 25^5 (=9,765,625), combining form.
+-blo [-blo] (num.) 25^5 (=9,765,625), combining form.
 
-blo [blo] prep., about.
+blo [blo] (prep.) about.
 
-bo- [bo-] pref., simple fut. tense ("will write").
+bo- [bo-] (pref.) simple fut. tense ("will write").
 
-bodo- [boDo-] pref., fut. prog. tense ("will be writing").
+bodo- [boDo-] (pref.) fut. prog. tense ("will be writing").
 
-bodol- [boDol-] pref., fut. perf. prog. tense ("will have been writing").
+bodol- [boDol-] (pref.) fut. perf. prog. tense ("will have been writing").
 
-boko- [boKo-] pref., fut. perf. tense ("will have written") (see bol-). Perhaps intentional rather than predictive of a future state.
+boko- [boKo-] (pref.) fut. perf. tense ("will have written") (see bol-). Perhaps intentional rather than predictive of a future state.
 
-bol [bol] n., brother.
+bol [bol] (n.) brother.
 
-bol- [bol-] pref., fut. perf. tense ("will have written").
+bol- [bol-] (pref.) fut. perf. tense ("will have written").
 
-bonoo [bonU] n., acid.
+bonoo [bonU] (n.) acid.
 
-bonooets [bonUex] adj., acidic.
+bonoo-ets [bonUex] (adj.) acidic.
 
-boogin [bUgin] n., creature.
+boogin [bUgin] (n.) creature.
 
-bor [bor] n., page, specifically of the special paper used in Linking Books.
+bor [bor] (n.) page, specifically of the special paper used in Linking Books.
 
-borin [borin] adj., tired.
+borin [borin] (adj.) tired.
 
-bortah [borta] n., purpose(?).
+bortah [borta] (n.) purpose(?).
 
-bre- [bre-] prep., to the (b' + re-).
+bre- [bre-] (prep.) to the (b' + re-).
 
-bree [brE] num., 2, two.
+bree [brE] (num.) 2, two.
 
-bren [bren] n., millennium.
+bren [bren] (n.) millennium.
 
-b'rigahsen [b'rigasen] quantif., highly (lit. "to twenty-three").
+b'rigahsen [b'rigasen] (quantif.) highly (lit. "to twenty-three").
 
-b'rish [b'riS] quantif., so, very (lit. "to twenty").
+b'rish [b'riS] (quantif.) so, very (lit. "to twenty").
 
-broon [brUn] n., tube.
+broon [brUn] (n.) tube.
 
 
 <font size=12 style=b><p align=center>C
 
-<font size=10 style=n><p align=left>cannen [Kånen?] n., a device for playing recorded music.
+<font size=10 style=n><p align=left>cannen [Kånen?] (n.) a device for playing recorded music.
 
-chahg [cag] v., add.
+chahg [cag] (v.) add.
 
-chahn [can] v., can, be able to, may.
+chahn [can] (v.) can, be able to, may.
 
-chay [cA] n., fault (geological).
+chay [cA] (n.) fault (geological).
 
-cheecho [cEco] n., temperate grassland biome.
+cheecho [cEco] (n.) temperate grassland biome.
 
-cheereetahn [cErEtan] n., animal native to Sameehn, undomesticated.
+cheeree-tahn [cErEtan] (n.) animal native to Sameehn, undomesticated.
 
-cheereelay [cErElA] n., animal native to Sameehn, domesticated.
+cheereelay [cErElA] (n.) animal native to Sameehn, domesticated.
 
-cheto [ceto] n., disposition.
+cheto [ceto] (n.) disposition.
 
-chev [cev] n./v., thank.
+chev [cev] (n./v.) thank.
 
-chevet [cevet] adj., thankful.
+chev-et [cevet] (adj.) thankful.
 
-chevtahvtee [cevtavtE] n., thanks.
+chev-tahv-tee [cevtavtE] (n.) thanks.
 
-chil [cil] adj., main.
+chil [cil] (adj.) main.
 
-chilesh [cileS] adv., mainly.
+chilesh [cileS] (adv.) mainly.
 
-chir [cir] n., organism.
+chir [cir] (n.) organism.
 
-chiso [ciso] v., archive.
+chiso [ciso] (v.) archive.
 
-Chiso Preniv [ciso preniv], lit. "Another Archive".
+Chiso Preniv [ciso preniv] lit. "Another Archive".
 
-chisotahn [cisotan] n., archivist.
+chiso-tahn [cisotan] (n.) archivist.
 
-choohah [cUha] v., catch.
+choohah [cUha] (v.) catch.
 
-choor [cUr] v., learn.
+choor [cUr] (v.) learn.
 
-chor bahkh [cor bak] n., baked roll, a type of D'ni food.
+chor bahkh [cor bak] (n.) baked roll, a type of D'ni food.
 
-choylahnay [cOlanA] v., complete.
+choylahnay [cOlanA] (v.) complete.
 
 
 <font size=12 style=b><p align=center>D
 
-<font size=10 style=n><p align=left>d'/de- [D'/De-] adv., again, re-.
+<font size=10 style=n><p align=left>d'/de- [D'/De-] (adv.) again, re-.
 
-dahbah [Daba] v., tell.
+dahbah [Daba] (v.) tell.
 
-dahbahn [Daban] n., cannister(?), alembic(?); a device used by Gehn to lit up his pipe.
+dahbahn [Daban] (n.) cannister(?), alembic(?); a device used by Gehn to lit up his pipe.
 
-dahg [Dag] v., strike.
+dahg [Dag] (v.) strike.
 
-dahgo [Dago] n., hammer.
+dahgo [Dago] (n.) hammer.
 
-dah'ko, dahko [DaKo] n., marble.
+dah'ko, dahko [DaKo] (n.) marble.
 
-dahsh [DaS] n., dome towers in Riven.
+dahsh [DaS] (n.) dome towers in Riven.
 
-dahtahm [Datam] n., firemarble.
+dahtahm [Datam] (n.) firemarble.
 
-Dahtahmnay [DatamnA], lit. "Firemarble Root" (dah'ko + tahm + nay).
+Dahtahmnay [DatamnA] lit. "Firemarble Root" (dah'ko + tahm + nay).
 
 Dakotah, misspelling of Tokotah.
 
-dayjee [DAjE] n., path.
+dayjee [DAjE] (n.) path.
 
-dayjee fahlah'ahl [DAjE fala'al] n., labyrinth (unicursal); lit. "folded path".
+dayjee fahlah'ahl [DAjE fala'al] (n.) labyrinth (unicursal); lit. "folded path".
 
-de- [De-] adv., again, re-.
+de- [De-] (adv.) again, re-.
 
-delahn [Delan] n., sky.
+delahn [Delan] (n.) sky.
 
-delin [Delin] adj./n., misty; mist.
+delin [Delin] (adj./n.) misty; mist.
 
-Demath [DimaT] n., a D'ni name.
+Demath [DimaT] (n.) a D'ni name.
 
-dereno [Dereno] n., ice, tundra.
+dereno [Dereno] (n.) ice, tundra.
 
-deretheni [DereTenE] n., a jet black, light weight, artificial stone.
+deretheni [DereTenE?] (n.) a jet black, light weight, artificial stone.
 
-deseekay [DesEKA] n., puzzle, enigma.
+deseekay [DesEKA] (n.) puzzle, enigma.
 
-devokan [DevoKån] n., hope.
+de-vokan [DevoKån] (n.) hope.
 
-dhaynoy [dAnO] n., setback.
+dhaynoy [dAnO] (n.) setback.
 
-dhelim [delim] n., right, legal claim.
+dhelim [delim] (n.) right, legal claim.
 
-dho [do] adv., how.
+dho [do] (adv.) how.
 
-dhozonesh [dozoneS] adv., however(?).
+dhozonesh [dozoneS] (adv.) however(?).
 
-dil [Dil] n., thing.
+dil [Dil] (n.) thing.
 
-direbo [Direbo] n., wheel.
+direbo [Direbo] (n.) wheel.
 
-D'ni [D'nE], lit. "New Start".
+D'ni [D'nE] lit. "New Start".
 
-do- [Do-] pref., pres. prog. tense
-(_ing; am/is/are _ing).
+do- [Do-] (pref.) pres. prog. tense
+("...ing"; "am/is/are ...ing").
 
-dol- [Dol-] pref., pres. perf. prog. tense
-(have been _/has been _).
+dol- [Dol-] (pref.) pres. perf. prog. tense
+("have been ..."/"has been ...").
 
-don [Don] adv., like, as if it were.
+don [Don] (adv.) like, as if it were.
 
-doo [DU] n., food.
+doo [DU] (n.) food.
 
-doo'shol [DU'Sol] n., cater.
+doo'shol [DU'Sol] (n.) cater.
 
-doo'sholtahn [DU'Soltan] n., caterer.
+doo'shol-tahn [DU'Soltan] (n.) caterer.
 
-doren [Doren] n., dug out structure(?).
+doren [Doren] (n.) dug out structure(?).
 
-dormahdh [Dormad] v., defeat.
+dormahdh [Dormad] (v.) defeat.
 
-dovah [Dova] n., world.
+dovah [Dova] (n.) world.
 
-doyhah [DOha] n., machine.
+doyhah [DOha] (n.) machine.
 
-drahtol [Dratol] n., guest.
+drahtol [Dratol] (n.) guest.
 
-duh [Du] n., food.
+duh [Du] (n.) food.
 
 <PB><font size=12 style=b><p align=center>E
 
-<font size=10 style=n><p align=left>eder [eDer] n./v., sleep, rest. In Age names, identifies Garden Ages.
+<font size=10 style=n><p align=left>eder [eDer] (n./v.) sleep, rest. In Age names, identifies Garden Ages.
 
-eder tomahn [eDer toman] n., way station, rest house.
+eder tomahn [eDer toman] (n.) way station, rest house.
 
-een [En] pron./det., any.
+-eeahn [Ean] possibly a comparative suff. (cf. eleeahn).
 
-eer [Er] n., bandage (strip of cloth to cover a wound).
+een [En] (pron./det.) any.
 
-eest [Est] pron., them; 3rd pers. plur. object pronoun.
+eer [Er] (n.) bandage (strip of cloth to cover a wound).
 
--eet [-Et] suff., 3rd pers. plur. actor ("they").
+eest [Est] (pron.) them; 3rd pers. plur. object pronoun.
 
-el [el] adj., high (see Relto).
+-eet [-Et] (suff.) 3rd pers. plur. actor ("they").
 
-elahth [elaT] n., highest one(?), proud one(?), elite(?).
+el [el] (adj.) high (see Relto).
 
-eleeahn [elEan] n., upper class(?).
+elahth [elaT] (n.) highest one(?), proud one(?), elite(?) (possibly el-ah-th).
 
-eleeahnith [elEaniT] n., upper class member(?), refugee(?), exile(?).
+eleeahn [elEan] (n.) upper class(?).
 
-elemahr [elemar] n., spore.
+eleeahnith [elEaniT] (n.) upper class member(?), refugee(?), exile(?).
 
-elioykh [eliOk] n., gust.
+elemahr [elemar] (n.) spore.
 
-elioykhets [eliOkex] adj., gusty.
+elioykh [eliOk] (n.) gust.
 
-elon [elon] v., raise(?), uplift(?), elevate(?).
+elioykhets [eliOkex] (adj.) gusty.
 
-elonet [elonet] adj., uplifting(?), elevated(?).
+elon [elon] (v.) raise(?), uplift(?), elevate(?).
 
--em [-em] suff., 2nd pers. sing. actor ("you").
+elonet [elonet] (adj.) uplifting(?), elevated(?).
 
-emee [emE] v., win.
+-em [-em] (suff.) 2nd pers. sing. actor ("you").
 
--en [-en] suff., 3rd pers. sing. actor ("he", "she", "it").
+emee [emE] (v.) win.
 
-enday [enDA] v., build.
+-en [-en] (suff.) 3rd pers. sing. actor ("he", "she", "it").
 
-endaytahn [enDAtan] n., builder.
+enday [enDA] (v.) build.
 
-entahn(?) [entan] n., honesty(?), worth(?).
-This word is only known through an unclear audio recording, the spelling is uncertain.
+enday-tahn [enDAtan] (n.) builder.
 
-enyahlo [enyalo] adj., sick.
+entahn(?) [entan] (n.) honesty(?), worth(?). This word is only known through an unclear audio recording, the spelling is uncertain.
 
-enyahloth [enyaloT] n., sickly one.
+enyahlo [enyalo] (adj.) sick.
 
-er' [er'], a common prefix for Ages used by the Guild of Caterers for harvesting food (e.g. Er'cana, Er'duna, Er'jera).
+enyahloth [enyaloT] (n.) sickly one.
 
-erem [erem] n., skill.
+er' [er'] a common prefix for Ages used by the Guild of Caterers for harvesting food (e.g. Er'cana, Er'duna, Er'jera).
 
-erth [erT] art., a, an.
+erem [erem] (n.) skill.
 
--esh [-eS] suff., adjective to adverb ("-ly").
+erth [erT] (art.) a, an.
 
--et [-et] suff., 1st pers. plur. actor ("we").
+-esh [-eS] (suff.) adjective to adverb ("-ly").
 
--et [-et] suff., noun to adjective ("-ful") (cf. -ets, -t).
+-et [-et] (suff.) 1st pers. plur. actor ("we").
 
-etahf [etaf] n., seed.
+-et [-et] (suff.) noun to adjective ("-ful") (cf. -ets, -t).
 
--eth [-eT] suff., adjective to noun ("-ty", "_ one") (cf. -th).
+etahf [etaf] (n.) seed.
 
--ets [-ex] suff., noun to adjective ("-y", "-th") (cf. -et, -t).
+-eth [-eT] (suff.) adjective to noun ("-ty", "... one") (cf. -th).
+
+-ets [-ex] (suff.) noun to adjective ("-y", "-th") (cf. -et, -t).
 
 
 <font size=12 style=b><p align=center>F
 
-<font size=10 style=n><p align=left>f' [f'] prep., on (cf. fe-, fre-).
+<font size=10 style=n><p align=left>f' [f'] (prep.) on (cf. fe-, fre-).
 
-fah [fa] num., 1, one; single.
+fah [fa] (num.) 1, one; single.
 
-fahdho [fado] n., experience.
+fahdho [fado] (n.) experience.
 
-fahets [faex] adj., first.
+fah-ets [faex] (adj.) first.
 
-fahlah [fala] v., fold.
+fahlah [fala] (v.) fold.
 
-fahm [fam] adj./adv., far.
+fahm [fam] (adj./adv.) far.
 
-fahmon [famon] v., push back, oppose.
+fahmon [famon] (v.) push back, oppose.
 
-fahsee [fasE] num., 25, twenty-five.
+fah-see [fasE] (num.) 25, twenty-five.
 
-fahsh [faS] adj., near.
+fahsh [faS] (adj.) near.
 
-fe- [fe-] prep., on, upon.
+fe- [fe-] (prep.) on, upon.
 
-fel [fel] n., paddle, oar.
+fel [fel] (n.) paddle, oar.
 
-fel [fel] v., row.
+fel [fel] (v.) row.
 
-feltahn [feltan] n., rower, one who rows a boat.
+fel-tahn [feltan] (n.) rower, one who rows a boat.
 
-fenah [fena] n., story.
+fenah [fena] (n.) story.
 
-fenges [fenges] v., act, playing a role.
+fenges [fenges] (v.) act, playing a role.
 
-fengestahn [fengestan] n., actor, a person who plays a role.
+fenges-tahn [fengestan] (n.) actor, a person who plays a role.
 
-fengestoy [fengestO] n., acting, the art of playing a role.
+fengestoy [fengestO] (n.) acting, the art of playing a role.
 
-fentahsentah [fentasenta] n., historian.
+fentahsentah [fentasenta] (n.) historian.
 
-ferem [ferem] adj., dry.
+ferem [ferem] (adj.) dry.
 
-feshkin [feSKin] v., guide.
+feshkin [feSKin] (v.) guide.
 
-feshkintahn [feSKintan] n., one who guides.
+feshkin-tahn [feSKintan] (n.) one who guides.
 
-filahdh [filad] n., top.
+filahdh [filad] (n.) top.
 
-fitay [fitA] v., look.
+fitay [fitA] (v.) look.
 
-flin [flin] n., order, condition.
+flin [flin] (n.) order, condition.
 
-foles [foles] v., wait.
+foles [foles] (v.) wait.
 
-fooruh [fUru] adj., sufficient.
+fooruh [fUru] (adj.) sufficient.
 
-foosah [fUsa] v., call.
+foosah [fUsa] (v.) call.
 
-foosahtahv [fUsatav] n., name.
+foosah-tahv [fUsatav] (n.) name.
 
-fre [fre] prep., at the, on the.
+fre [fre] (prep.) at the, on the.
 
-fuhsh [fuS], switch(?); choice(?); crystal(?).
-
-
+fuhsh [fuS] switch(?); choice(?); crystal(?).
 
 
 <font size=12 style=b><p align=center>G
 
-<font size=10 style=n><p align=left>g'/gah [g'/ga] conj., and (cf. gre-).
+<font size=10 style=n><p align=left>g'/gah [g'/ga] (conj.) and (cf. gre-).
 
-gahlon [galon] n., ground.
+gahlon [galon] (n.) ground.
 
-gahlpo [galpo] n., cave.
+gahlpo [galpo] (n.) cave.
 
-gahn [gan] n., empire.
+gahn [gan] (n.) empire.
 
-gahrahno [garano] n., ocean.
+gahr-ahno [garano] (n.) ocean.
 
-Gahreesen [garEsen], lit. "Mighty Protective Structure" (gahro-ahreeuh-senaren).
+Gahreesen [garEsen] (n.) lit. "Mighty Protective Structure" (gahro + ahreeuh + senaren).
 
-gahrkahl [garKal] n., storm.
+gahrkahl [garKal] (n.) storm.
 
-gahrkahlets [garKalex] adj., stormy.
+gahrkahl-ets [garKalex] (adj.) stormy.
 
-gahro [garo] adj., great, in might or importance.
+gahro [garo] (adj.) great, in might or importance.
 
-gahrohevtee [garohevtE] n., Great Words, a special set of words for writing Ages.
+<PB>gahro-hev-tee [garohevtE] (n.) Great Words, a special set of words for writing Ages.
 
-gahrosh [garoS] adv., mightily, greatly.
+gahro-sh [garoS] (adv.) mightily, greatly.
 
-gahroth [garoT] n., greatness, great one.
+gahro-th [garoT] (n.) greatness, great one.
 
-gahrtahvo [gartavo] n., equal to ~6 hr 3 min. Divided into 25 tahvotee.
+gahr-tahvo [gartavo] (n.) equal to ~6 hr 3 min. Divided into 25 tahvotee.
 
-Gahrternay [garternA], lit. "Root of the Great Tree".
+Gahrternay [garternA] (n.) lit. "Root of the Great Tree".
 
-gahth [gaT] adv., still, yet.
+gahth [gaT] (adv.) still, yet.
 
-gahtsai [gaxA?] n., tiger-bat, an animal native to Negilahn. The tarpin shal lifecycle is connected to the gahtsai.
+gahtsai [gaxA?] (n.) tiger-bat, an animal native to Negilahn. The tarpin shal lifecycle is connected to the gahtsai.
 
-gatah [gåta] adj., due.
+gatah [gåta] (adj.) due.
 
-ge'dahn [ge'Dan] n., wisdom.
+ge'dahn [ge'Dan] (n.) wisdom.
 
-gedee [geDE] n., surprise(?), setback(?).
+gedee [geDE] (n.) surprise(?), setback(?).
 
-gel [gel] v., write (ordinary) (cf. rilgelin "unwritten").
+gel [gel] (v.) write (ordinary) (cf. rilgelin "unwritten").
 
-geltahn [geltan] n., writer (cf. seltahn "Writer").
+gel-tahn [geltan] (n.) writer (cf. seltahn "Writer").
 
-geltahv [geltav] n., written work, prophetic book or writings.
+gel-tahv [geltav] (n.) written work, prophetic book or writings.
 
-Geltovokum [geltovoKum] n., the Temple to Yahvo.
+Geltovokum [geltovoKum] (n.) the Temple to Yahvo.
 
-gemedet [gemeDet] n., six-in-a-line, a D'ni game played on a 3D grid.
+gemedet [gemeDet] (n.) six-in-a-line, a D'ni game played on a 3D grid.
 
-Gehn [gen] n., a D'ni name.
+Gehn [gen] (n.) a D'ni name.
 
-gerah [gera] n., sun.
+gerah [gera] (n.) sun.
 
-gerahn(o) [gerano] n., foundation(?), strength(?), nourishment(?).
+gerahn(o) [gerano] (n.) foundation(?), strength(?), nourishment(?).
 
-gestoy [gestO] n., the Art.
+gestoy [gestO] (n.) the Art.
 
 Ghen, misspelling of Gehn.
 
-gid [giD] v., excavate.
+gid [giD] (v.) excavate.
 
-gidtahv [giDtav] n., excavation.
+gid-tahv [giDtav] (n.) excavation.
 
-gilo [gilo] n., plant.
+gilo [gilo] (n.) plant.
 
-gimit [gimit] adj., immediate.
+gimit [gimit] (adj.) immediate.
 
-gipeli [gipelE?] n., jelly-fly, a small, colorful animal native to Negilahn.
+gipeli [gipelE?] (n.) jelly-fly, a small, colorful animal native to Negilahn.
 
-girah [gira] n., steam(?).
+girah [gira] (n.) steam(?).
 
-gitsah [gixa] adj., safe.
+gitsah [gixa] (adj.) safe.
 
-gitsahth [gixaT] n., safety.
+gitsah-th [gixaT] (n.) safety.
 
-glahs [glas] v., drink.
+glahs [glas] (v.) drink.
 
-glo [glo] v., begin.
+glo [glo] (v.) begin.
 
-go [go] n., soup.
+go [go] (n.) soup.
 
-gol [gol] n., arm (body part).
+gol [gol] (n.) arm (body part).
 
-golah [gola] n., justice(?).
+golah [gola] (n.) justice(?).
 
-golahntahn [golantan] n., judge. Regolahntahnteeokh Yahvo, the Judges of Yahvo.
+golahn-tahn [golantan] (n.) judge. Regolahntahnteeokh Yahvo, the Judges of Yahvo.
 
-gonahth [gonaT] n., poor one(?), servant(?), slave(?).
+gonahth [gonaT] (n.) poor one(?), servant(?), slave(?).
 
-gopah [gopa] conj., because.
+gopah [gopa] (conj.) because.
 
-gor [gor] n., time.
+gor [gor] (n.) time.
 
-gorahn [goran] n., unit of time equal to ~35 sec. Divided into 25 prorahntee.
+gorahn [goran] (n.) unit of time equal to ~35 sec. Divided into 25 prorahntee.
 
-gorahyan [gorayån] n., clock.
+gorahyan [gorayån] (n.) clock.
 
-gormet [gormet] adv., now (lit. "this time").
+gor-met [gormet] (adv.) now (lit. "this time").
 
-gormot [gormot] adv., then (lit. "that time").
+gor-mot [gormot] (adv.) then (lit. "that time").
 
-gorven [gorven] adv., soon.
+gorven [gorven] (adv.) soon.
 
-goyray [gOrA] adv., straight.
+goyray [gOrA] (adv.) straight.
 
-grahner [graner] n., path.
+grahner [graner] (n.) path.
 
-g're-/gre- [g're-/gre-] conj., and the (cf. gah "and").
+g're-/gre- [g're-/gre-] (conj.) and the
+(cf. gah).
 
-guhlem [gulem] n., strait.
+guhlem [gulem] (n.) strait.
 
-Guhlem Shahveroo n., Dire Strait.
+Guhlem Shahveroo [gulem SaverU] (n.) Dire Strait.
 
 
 <font size=12 style=b><p align=center>H
 
-<font size=10 style=n><p align=left>hahpo [hapo] v., combine, mix.
+<font size=10 style=n><p align=left>hahpo [hapo] (v.) combine, mix.
 
-hahr [har] n., equal to one mean solar year. Divided into 10 vaileetee.
+hahr [har] (n.) equal to one mean solar year. Divided into 10 vaileetee.
 
-hahrtah [harta] n., cycle.
+hahrtah [harta] (n.) cycle.
 
-hahrtah choylahnaytahv [harta cOlanAtav] n., anniversary (lit. "complete cycle").
+hahrtah choylahnaytahv [harta cOlanAtav] (n.) anniversary (lit. "complete cycle").
 
-hahrten [harten] v., circle.
+hahrten [harten] (v.) circle.
 
-hahzah [haza] adj., white.
+hahzah [haza] (adj.) white.
 
-hayvuh [hAvu] n., savanna, tropical grassland.
+hayvuh [hAvu] (n.) savanna, tropical grassland.
 
-hee- [hE-] num., 15, fifteen, combining form.
+hee- [hE-] (num.) 15, fifteen, combining form.
 
-heebor [hEbor] num., 15, fifteen.
+heebor [hEbor] (num.) 15, fifteen.
 
-heegahbree [hEgabrE] num., 17, seventeen.
+heegahbree [hEgabrE] (num.) 17, seventeen.
 
-heegahfah [hEgafa] num., 16, sixteen.
+heegahfah [hEgafa] (num.) 16, sixteen.
 
-heegahsen [hEgasen] num., 18, eighteen.
+heegahsen [hEgasen] (num.) 18, eighteen.
 
-heegahtor [hEgator] num., 19, nineteen.
+heegahtor [hEgator] (num.) 19, nineteen.
 
-heek [hEK] n., cane; Gehn's rifle.
+heek [hEK] (n.) cane; Gehn's rifle.
 
-her [her] n., number.
+her [her] (n.) number.
 
-hern [hern] n., room.
+hern [hern] (n.) room.
 
-hev [hev] n., word.
+hev [hev] (n.) word.
 
-hevkor [hevKor] n., lexicon, dictionary (lit. "word-book").
+hev-kor [hevKor] (n.) lexicon, dictionary (lit. "word-book").
 
-hevo [hevo] n., swarm.
+hevo [hevo] (n.) swarm.
 
-hoor [hUr] v., find.
+hoor [hUr] (v.) find.
 
-hoosahtay [hUsatA] adj., difficult(?), satisfied(?), successful(?).
+hoosahtay [hUsatA] (adj.) difficult(?), satisfied(?), successful(?).
 
-hootsay [hUxA] adj., holy.
+hootsay [hUxA] (adj.) holy.
 
-hootsayth [hUxAT] n., holiness.
+hootsay-th [hUxAT] (n.) holiness.
 
-hoshah [hoSa] n., cowardice.
+hoshah [hoSa] (n.) cowardice.
 
-h'rot [h'rot] n., tower.
+h'rot [h'rot] (n.) tower.
 
 
 <font size=12 style=b><p align=center>I
 
-<font size=10 style=n><p align=left>idhsay [idsA] n., line.
+<font size=10 style=n><p align=left>idhsay [idsA] (n.) line.
 
-iglahrno [iglarno] adj., temporary.
+iglahrno [iglarno] (adj.) temporary.
 
--ij [-ij] suff., passive voice.
+-ij [-ij] (suff.) passive voice.
 
-ikhah [ika] n., meat.
+ikhah [ika] (n.) meat.
 
-ikhah naijuhets [ika nIjuex] n., smoked meat.
+ikhah naijuhets [ika nIjuex] (n.) smoked meat.
 
-ilaïs [ilåis] v., power, charge.
+ilaïs [ilåis] (v.) power, charge.
 
--in [-in] suff., passive participle ("-en", "-ed", "-t").
+-in [-in] (suff.) passive participle ("-en", "-ed", "-t").
 
-inaltahv [inåltav] n., opportunity(?), privilege(?).
+inaltahv [inåltav] (n.) opportunity(?), privilege(?).
 
-inay [inA], more than.
+inay [inA] more than.
 
-irah [ira] n., darling, honey; endearment used with spouse or close friend.
+irah [ira] (n.) darling, honey; endearment used with spouse or close friend.
 
-irvan [irvån] n., mineral.
+irvan [irvån] (n.) mineral.
 
-istah [ista] prep., through.
+istah [ista] (prep.) through.
 
-isyeer [isyEr] v., revere.]]></translation>
+isyeer [isyEr] (v.) revere.]]></translation>
             </element>
             <element name="DniDictDE2">
                 <translation language="English"><![CDATA[<cover src="DniDictDE2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -715,11 +736,11 @@ D'ni to English Dictionary: J-P
 Kh'reestrefah
 
 Edited by
-Korov'ev<PB><PB>
+Korov'ev<PB>
 
-<font size=12 style=b><p align=center>Abbreviations<font size=10 style=n><p align=left>
+<font style=b><p align=center>Abbreviations
 
-                   adj: adjective
+<font size=10 style=n><p align=left>                   adj: adjective
                    adv: adverb
                    art: article
                    aux: auxiliary
@@ -740,614 +761,636 @@ Korov'ev<PB><PB>
                quantif: quantifier
                   sing: singular
                   suff: suffix
-                     v: verb<PB><PB>
+                     v: verb
+<font size=12><PB>
+
+<font style=b><p align=center>Sorting
+
+<font size=10 style=n><p align=left>The traditional D'ni alphabetical order is the following:
+
+               V   B   T   S   SH
+               J   G   Y   KH  K
+               AH  AI  F   P   I
+               EE  E   AY  R   M
+               TH  DH  D   H   O
+               OY  CH  W   UH  OO
+               TS  L   A   Z   N
+
+However, to make looking for terms easier, in this dictionary we adopted the common alphabetical order:
+
+<font size=12 style=b>        J  K  L  M  N  O  P
+
+<font size=10 style=n>Dnifont spellings are given in brackets: [Sora]. Tentative translations are marked with: (?).<PB><PB>
 
 <font size=12 style=b><p align=center>J
 
-<font size=10 style=n><p align=left>jahgah [jaga] v., warrant(?), provide(?).
+<font size=10 style=n><p align=left>jahgah [jaga] (v.) warrant(?), provide(?).
 
-Jahkooth [jåKUT] n., the D'ni Devil.
+Jahkooth [jåKUT] (n.) the D'ni Devil.
 
-jahlahk [jalaK] n., pillar, column.
+jahlahk [jalaK] (n.) pillar, column.
 
-jayl [jAl] adj., equal.
+jayl [jAl] (adj.) equal.
 
-Jenahkai [jenaKI] n., neighborhood in D'ni.
+Jenahkai [jenaKI] (n.) neighborhood in D'ni.
 
-jeroo [jerU] adj., possible.
+jeroo [jerU] (adj.) possible.
 
-jerooth [jerUT] n., possibility.
+jerooth [jerUT] (n.) possibility.
 
-jikhah [jika] v., remain.
+jikhah [jika] (v.) remain.
 
-jimah [jima] n., prophecy.
+jimah [jima] (n.) prophecy.
 
 
 <font size=12 style=b><p align=center>K
 
-<font size=10 style=n><p align=left>Kadish [KADiS] n., a D'ni name.
+<font size=10 style=n><p align=left>Kadish [KADiS] (n.) a D'ni name.
 
-kahg [Kag] adj., original.
+kahg [Kag] (adj.) original.
 
-kahgesh [KageS] adv., originally.
+kahg-esh [KageS] (adv.) originally.
 
-kahlo [Kalo] n., wind, breeze.
+kahlo [Kalo] (n.) wind, breeze.
 
-kahnrad [KanråD] v., think.
+kahnrad [KanråD] (v.) think.
 
-kahntin [Kantin] v., oppress.
+kahntin [Kantin] (v.) oppress.
 
-kahntinahloth [KantinaloT] n., oppressed one.
+kahntin-ahloth [KantinaloT] (n.) oppressed one.
 
-kahntintahn [Kantintan] n., oppressor.
+kahntin-tahn [Kantintan] (n.) oppressor.
 
-kahzee [KazE] v., detour.
+kahzee [KazE] (v.) detour.
 
-kailo [KIlo] v., bring.
+kailo [KIlo] (v.) bring.
 
-kaligo [Kåligo] n., council.
+kaligo [Kåligo] (n.) council.
 
-kam [Kåm] pron., what.
+kam [Kåm] (pron.) what.
 
-kamdol [KåmDol] adv., why.
+kamdol [KåmDol] (adv.) why.
 
-kamfah [Kåmfa] pron., which (lit. "what one").
+kamfah [Kåmfa] (pron.) which (lit. "what one").
 
-kamrov [Kåmrov] pron., who, whom (lit. "what person").
+kam-rov [Kåmrov] (pron.) who, whom (lit. "what person").
 
-kamto [Kåmto] adv./conj., where (lit. "what place").
+kam-to [Kåmto] (adv./conj.) where (lit. "what place").
 
-kanen [Kånen] n., cannen, a device for playing recorded music.
+cannen [Kånen?] (n.) a device for playing recorded music.
 
-kat [Kåt] adv., only, just.
+kat [Kåt] (adv.) only, just.
 
-Kadish [KADiS], a D'ni name.
+Kadish [KADiS] (n.) a D'ni name.
 
-keebah [KEba] v., obey.
+keebah [KEba] (v.) obey.
 
-keelah [KEla] v., spend(?), pass(?), endure(?).
+keelah [KEla] (v.) spend(?), pass(?), endure(?).
 
-keelen [KElen] n., step.
+keelen [KElen] (n.) step.
 
-keemo [KEmo] n., a kind of fish native to Eder Kemo.
+kelahnee [KelanE] (n.) antelope.
 
-kelahnee [KelanE] n., antelope.
+kemo [KEmo] (n.) a kind of fish native to Eder Kemo.
 
-ken [Ken] v., be.
+ken [Ken] (v.) be.
 
-kerah [Kera] adj., brave.
+kerah [Kera] (adj.) brave.
 
-kerahth [KeraT] n., brave one.
+kerah-th [KeraT] (n.) brave one.
 
-keshtahv [KeStav] n., caution, warning.
+keshtahv [KeStav] (n.) caution, warning.
 
-keso [Keso] v., change.
+keso [Keso] (v.) change.
 
-kesotahn [Kesotan] n., changer.
+keso-tahn [Kesotan] (n.) changer.
 
-kesotahv [Kesotav] n., change.
+keso-tahv [Kesotav] (n.) change.
 
-kevo [Kevo] adj., another, in addition to.
+kevo [Kevo] (adj.) another, in addition to.
 
-kevoth [KevoT] n., another, one who is another.
+kevo-th [KevoT] (n.) another, one who is another.
 
-kh' [k'] prep., for (cf. khe-).
+kh' [k'] (prep.) for (cf. khe-).
 
-khah [ka] adj., few.
+khah [ka] (adj.) few.
 
-khahg [kag] v., choose.
+khahg [kag] (v.) choose.
 
-khahntor/khantor [kantor/kåntor] v., reflect(?), contemplate(?), concentrate(?).
+khahntor/khantor [kantor/kåntor] (v.) reflect(?), contemplate(?), concentrate(?).
 
-khahpo [kapo] adv., perhaps.
+khahpo [kapo] (adv.) perhaps.
 
-khe- [ke-] prep., for (cf. kh').
+khe- [ke-] (prep.) for (cf. kh').
 
-khlay/klay [klA/KlA] n., example.
+khlay/klay [klA/KlA] (n.) example.
 
-khoy [kO] conj., if.
+khoy [kO] (conj.) if.
 
-khoyoo [koyU] v., invoke.
+khoyoo [koyU] (v.) invoke.
 
-khoytahg/khoytag [kOtag/kOtåg] n., result(?), lesson(?), topic(?).
+khoytahg/khoytag [kOtag/kOtåg] (n.) result(?), lesson(?), topic(?).
 
-khre- [kre-] prep., for the (cf. khe-).
+khre- [kre-] (prep.) for the (cf. khe-).
 
-kino [Kino] v., fail.
+kino [Kino] (v.) fail.
 
-kiri [Kiri?] n., krill fly or krill stag, an animal native to Negilahn. Urwins filter them from the air with their beaks.
+kiri [Kiri?] (n.) krill fly or krill stag, an animal native to Negilahn. Urwins filter them from the air with their beaks.
 
-kirin [Kirin] n., desert sand.
+kirin [Kirin] (n.) desert sand.
 
-k'lahd [K'laD] n., sword.
+k'lahd [K'laD] (n.) sword.
 
-klay [KlA] n., example.
+klay [KlA] (n.) example.
 
-ko- [Ko-] pref., simple past tense (did/-ed).
+ko- [Ko-] (pref.) simple past tense ("did"/"-ed").
 
-kobol- [Kobol-] pref., fut. past tense (would have).
+kobol- [Kobol-] (pref.) fut. past tense ("would have").
 
-kodo- [KoDo-] pref., past prog. (or passive) tense (was/were).
+kodo- [KoDo-] (pref.) past prog. (or passive) tense ("was"/"were").
 
-kodol- [KoDol-] pref., past perf. prog. tense (had been).
+kodol- [KoDol-] (pref.) past perf. prog. tense ("had been").
 
-kol- [Kol-] pref., past perf. tense (had).
+kol- [Kol-] (pref.) past perf. tense ("had").
 
-kooahn [KUan] n., stream.
+kooahn [KUan] (n.) stream.
 
-koozah [KUza] v., surrender.
+koozah [KUza] (v.) surrender.
 
-kor [Kor] n., book.
+kor [Kor] (n.) book.
 
-korbah [Korba] n., book-making.
+korbah [Korba] (n.) book-making.
 
-korchis [Korcis] n., notebook.
+kor-chis [Korcis] (n.) notebook.
 
-korfah [Korfa] n., first book.
+kor-fah [Korfa] (n.) first book.
 
-Korfah V'jah [Korfa v'ja] n., First Book Celebration.
+Korfah V'jah [Korfa v'ja] (n.) First Book Celebration.
 
-korfeshkin [KorfeSKin] n., guidebook.
+kor-feshkin [KorfeSKin] (n.) guidebook.
 
-kormahn [Korman] n., descriptive book.
+kor-mahn [Korman] (n.) descriptive book.
 
-kor'neeah [Kor'nEa] n., blank book.
+kor'neeah [Kor'nEa] (n.) blank book.
 
-korvahkh [Korvak] n., linking book.
+kor-vahkh [Korvak] (n.) linking book.
 
-kosuh [Kosu] adj., many.
+kosuh [Kosu] (adj.) many.
 
-kotah [Kota] n./adj., locked door or having locked door(s).
+kotah [Kota] (n./adj.) locked door or having locked door(s).
 
-kotsah [Koxa] n., gate.
+kotsah [Koxa] (n.) gate.
 
-kro [Kro] v., move.
+kro [Kro] (v.) move.
 
-kroges [Kroges] v., dance.
+kroges [Kroges] (v.) dance.
 
-krogestahn [Krogestan] n., dancer.
+kroges-tahn [Krogestan] (n.) dancer.
 
-krogestoy [KrogestO] n., dance, the art of dancing.
+kro-gestoy [KrogestO] (n.) dance, the art of dancing.
 
-k'tesh [K'teS] v., entertain.
+k'tesh [K'teS] (v.) entertain.
 
-k'tsee [K'xE] adj., happy.
+k'tsee [K'xE] (adj.) happy.
 
 
 <font size=12 style=b><p align=center>L
 
-<font size=10 style=n><p align=left>l' [l'] pref., present perf. tense (has/have) before a vowel (see le-).
+<font size=10 style=n><p align=left>l' [l'] (pref.) present perf. tense (has/have) before a vowel (cf. le-).
 
-lahn [lan] adj., only.
+lahn [lan] (adj.) only.
 
--lahn [-lan] num., 25^3 (15,625), combining form.
+-lahn [-lan] (num.) 25^3 (15,625), combining form.
 
-lahsah [lasa] v., seal, close.
+lahsah [lasa] (v.) seal, close.
 
-lahth [laT] n., highest ones(?), proud ones(?), elite(?) (see elahth).
+lahth [laT] (n.) highest ones(?), proud ones(?), elite(?) (see elahth).
 
-laki [laKE] n., large aquatic animal native to Laki'ahn. They bear red gemstones in their bodies, which the Kresh harvested by fighting them in an arena before an audience of D'ni.
+laki [laKE?] (n.) large aquatic animal native to Laki'ahn. They bear red gemstones in their bodies, which the Kresh harvested by fighting them in an arena before an audience of D'ni.
 
-lan [lån] v., wear(?), gain(?).
+lan [lån] (v.) wear(?), gain(?).
 
-laysoo [lAsU] v., carry.
+laysoo [lAsU] (v.) carry.
 
-laysootahn [lAsUtan] n., carrier, courier.
+laysoo-tahn [lAsUtan] (n.) carrier, courier.
 
-le- [le-] pref., present perf. tense (has/have). Loses the 'e' before a vowel (see l').
+le- [le-] (pref.) present perf. tense (has/have). Loses the 'e' before a vowel (cf. l').
 
-lee- [lE-] n., combining form of vailee in D'ni month names.
+lee- [lE-] (n.) combining form of vailee in D'ni month names.
 
-leeahm [lEam] n., question.
+leeahm [lEam] (n.) question.
 
-leekrotahn [lEKrotan] n., ferry boat.
+leekrotahn [lEKrotan] (n.) ferry boat.
 
-leeshah [lESa], much(?), majority(?), most(?).
+leeshah [lESa] much(?), majority(?), most(?).
 
-leeshahn [lESan] n., whole.
+leeshahn [lESan] (n.) whole.
 
-lelahm [lelåm] n., a plant "expanding in size but lessening in thickness" while it grows (Words).
+lelahm [lelåm] (n.) a plant "expanding in size but lessening in thickness" while it grows (Words).
 
-lem [lem] n., ink used in Books (cf. tem "ordinary ink").
+lem [lem] (n.) ink used in Books (cf. tem "ordinary ink").
 
--len [-len] num., 25^3 (15,625), combining form, alternate (cf. -lahn).
+-len [-len] (num.) 25^3 (15,625), combining form, alternate (cf. -lahn).
 
-lenah [lena] n., journey.
+lenah [lena] (n.) journey.
 
-lenitah [lenita] n., idiot.
+lenitah [lenita] (n.) idiot.
 
-lensho [lenSo] v., tour.
+lensho [lenSo] (v.) tour.
 
-lenshokintahn [lenSoKintan] n., tour guide.
+lenshokintahn [lenSoKintan] (n.) tour guide.
 
-lenshotahn [lenSotan] n., tourist.
+lensho-tahn [lenSotan] (n.) tourist.
 
-lerilon [lerilon] v., explore.
+lerilon [lerilon] (v.) explore.
 
-lesah [lesa] adj., sealed.
+lesah [lesa] (adj.) sealed.
 
-lesh [leS] n., rule, fact.
+lesh [leS] (n.) rule, fact.
 
-lis [lis] v., arrive, get.
+lis [lis] (v.) arrive, get.
 
-l'izchah [l'izca] v., cry.
+l'izchah [l'izca] (v.) cry.
 
-lon [lon] v., discover.
+lon [lon] (v.) discover.
 
-lonep [lonep] n., discovery(?).
+lonep [lonep] (n.) discovery(?).
 
-look [lUK] n., survey.
+look [lUK] (n.) survey.
 
-loopah [lUpa] n., risk(?), trip(?).
+loopah [lUpa] (n.) risk(?), trip(?).
 
-lorahg/lorag [lorag/loråg] n., grace(?), joy(?).
+lorahg/lorag [lorag/loråg] (n.) grace(?), joy(?).
 
-loymaht [lOmat] conj., though.
+loymaht [lOmat] (conj.) though.
 
 
 <font size=12 style=b><p align=center>M
 
-<font size=10 style=n><p align=left>mahdho/madho [mado/mådo] v., succeed(?), join(?), participate(?).
+<font size=10 style=n><p align=left>mahdho/madho [mado/mådo] (v.) succeed(?), join(?), participate(?).
 
-mahgen/magen [magen/mågen] n., powers(?), wonders(?).
+mahgen/magen [magen/mågen] (n.) powers(?), wonders(?).
 
-mahlah [mala] v., come.
+mahlah [mala] (v.) come.
 
-mahn [man] n., existence (cf. kormahn "descriptive book").
+mahn [man] (n.) existence (cf. kormahn "descriptive book").
 
-mahnshoo [manSU] v., die.
+mahnshoo [manSU] (v.) die.
 
-mahnshootahv [manSUtav] n., death.
+mahnshoo-tahv [manSUtav] (n.) death.
 
-mahnshootahvting [manSUtavting] n., death, mortality.
+mahnshootahvting [manSUtavting] (n.) death, mortality.
 
-mahnshooth [manSUT] n., Death Bringer.
+mahnshoo-th [manSUT] (n.) Death Bringer.
 
-mahrah [mara] n. music(?), concert(?) (cf. tomahrah "concert hall").
+mahrah [mara] (n.) music(?), concert(?)
+(cf. tomahrah "concert hall").
 
-mahrahnah [marana] n., concert.
+mahrahnah [marana] (n.) concert.
 
-mahrent [marent] v., follow.
+mahrent [marent] (v.) follow.
 
-mahrg [marg] n., layer.
+mahrg [marg] (n.) layer.
 
-mahrn [marn] v., create.
+mahrn [marn] (v.) create.
 
-mahrntahn [marntan] n., creator.
+mahrn-tahn [marntan] (n.) creator.
 
-mahrntahv [marntav] n., creation.
+mahrn-tahv [marntav] (n.) creation.
 
-mahryayshah [maryASa] n., fan(?), devotee(?) (cf. yayshah "joy").
+mahryayshah [maryASa] (n.) fan(?), devotee(?) (cf. yayshah "joy").
 
-mahtahn [matan] v., leave(?), put aside(?), dismiss(?).
+mahtahn [matan] (v.) leave(?), put aside(?), dismiss(?).
 
-maiood [mIUD] n., means(?), tool(?), ability(?).
+maiood [mIUD] (n.) means(?), tool(?), ability(?).
 
-mairuh [mIru] v., own.
+mairuh [mIru] (v.) own.
 
-malo [målo] v., forget.
+malo [målo] (v.) forget.
 
-maral-obe [maral-obe] n., a woodwind musical instrument.
+maral-obe [maral-obe] (n.) a woodwind musical instrument.
 
-me [me] prep., from, of, made from.
+me [me] (prep.) from, of, made from.
 
-mees [mEs] v., speak.
+mees [mEs] (v.) speak.
 
-meestahn [mEstan] n., speaker.
+mees-tahn [mEstan] (n.) speaker.
 
-meestahnyah [mEstanya] n., prophet.
+meestahnyah [mEstanya] (n.) prophet.
 
-meestahv [mEstav] n., speech.
+mees-tahv [mEstav] (n.) speech.
 
-meet [mEt] adv., there.
+meet [mEt] (adv.) there.
 
-mefel [mefel] n., night.
+mefel [mefel] (n.) night.
 
-megormot [megormot] adv., since (lit. from that time).
+me-gor-mot [megormot] (adv.) since (lit. from that time).
 
-megoyray [megOrA] adv., straight out.
+megoyray [megOrA] (adv.) straight out.
 
--mel [-mel] num., 25^4 (390,625), combining form.
+-mel [-mel] (num.) 25^4 (390,625), combining form.
 
-melin [melin] adj., outer.
+melin [melin] (adj.) outer.
 
-meoor [meUr] n., pleasure, (idiom) you're welcome.
+meoor [meUr] (n.) pleasure, (idiom) you're welcome.
 
-mepord [meporD] n., prince(?).
+mepord [meporD] (n.) prince(?).
 
-mer [mer] v., watch (cf. todelmer "planetarium").
+mer [mer] (v.) watch (cf. todelmer "planetarium").
 
-merk [merK] n., poisoned water.
+merk [merK] (n.) poisoned water.
 
-merkchir [merKcir] n., disinfectant.
+merk-chir [merKcir] (n.) disinfectant.
 
-mes [mes] v., require.
+mes [mes] (v.) require.
 
-met [met] pron., this, these; determ. this.
+met [met] (pron.) this, these; determ. this.
 
-metee [metE] determ., these.
+metee [metE] (determ.) these.
 
-milesh [mileS] v., hug, embrace.
+milesh [mileS] (v.) hug, embrace.
 
-mileshtahv [mileStav] n., hug, embrace.
+milesh-tahv [mileStav] (n.) hug, embrace.
 
-min [min] n., woman.
+min [min] (n.) woman.
 
-minkata [minKata] adj./n., heavily scarred.
+minkata [minKata] (adj./n.) heavily scarred.
 
-miro [miro] adj., toxic.
+miro [miro] (adj.) toxic.
 
-misho [miSo] n., universe.
+misho [miSo] (n.) universe.
 
-mishtah [miSta] v., construct.
+mishtah [miSta] (v.) construct.
 
-mishtahtahv [miStatav] n., construction.
+mishtah-tahv [miStatav] (n.) construction.
 
-m'lah [m'la] n., lizard.
+m'lah [m'la] (n.) lizard.
 
-mo [mo] conj., that(?), the fact that(?).
+mo [mo] (conj.) that(?), the fact that(?).
 
-mooden [mUDen] n., fortune.
+mooden [mUDen] (n.) fortune.
 
-mooshee [mUSE] n., communication(?), enthusiasm(?), terrain(?).
+mooshee [mUSE] (n.) communication(?), enthusiasm(?), terrain(?).
 
-mor [mor] n., mother.
+mor [mor] (n.) mother.
 
-mor'okh'mor [mor'ok'mor] n., grandmother(?).
+mor'okh'mor [mor'ok'mor] (n.) grandmother(?).
 
-morokhpor [morokpor] n., paternal grandmother(?).
+morokhpor [morokpor] (n.) paternal grandmother(?).
 
-morpah [morpa] n., queen (cf. porpah "king").
+morpah [morpa] (n.) queen (cf. porpah "king").
 
-mot [mot] pron., which, that; determ. that.
+mot [mot] (pron.) which, that; determ. that.
 
-motee [motE] determ., those.
+motee [motE] (determ.) those.
 
-m're-/mre- [m're-/mre-] prep., from the, of the.
+m're-/mre- [m're-/mre-] (prep.) from the, of the.
 
-muhkhon [mukon] adj., complex, complicated.
+muhkhon [mukon] (adj.) complex, complicated.
 
 
 <font size=12 style=b><p align=center>N
 
-<font size=10 style=n><p align=left>n' [n'] prep., around.
+<font size=10 style=n><p align=left>n' [n'] (prep.) around.
 
-na'grenis [nå'grenis] adj., brittle.
+na'grenis [nå'grenis] (adj.) brittle.
 
-nahdahn [naDan] n., mushroom.
+nahdahn [naDan] (n.) mushroom.
 
-nahdahnets [naDanex] adj., mushroomy (cf. Teledahn).
+nahdahn-ets [naDanex] (adj.) mushroomy (cf. Teledahn).
 
-nahgah [naga] v., reward.
+nahgah [naga] (v.) reward.
 
-nahn [nan] v., act, perform an action.
+nahn [nan] (v.) act, perform an action.
 
-nahntahv [nantav] n., action.
+nahn-tahv [nantav] (n.) action.
 
-nahr [nar] adj., significant.
+nahr [nar] (adj.) significant.
 
-nahrah [nara] n., nara, the hardest of substances manufactured by the D'ni.
+nahrah [nara] (n.) nara, the hardest of substances manufactured by the D'ni.
 
-nahsh [naS] n., part(?).
+nahsh [naS] (n.) part(?).
 
-nahvah [nava] n., master.
+nahvah [nava] (n.) master.
 
-naijuh [nIju] n., smoke.
+naijuh [nIju] (n.) smoke.
 
-naijuhets [nIjuex] adj., smoked (cf. ikhah naijuhets "smoked meat").
+naijuh-ets [nIjuex] (adj.) smoked (cf. ikhah naijuhets "smoked meat").
 
-nay [nA] n., root.
+nay [nA] (n.) root.
 
-nay- [nA-] num., 10, ten, combining form.
+nay- [nA-] (num.) 10, ten, combining form.
 
-naygahbree [nAgabrE] num., 12, twelve.
+nay-gah-bree [nAgabrE] (num.) 12, twelve.
 
-naygahfah [nAgafa] num., 11, eleven.
+nay-gah-fah [nAgafa] (num.) 11, eleven.
 
-naygahsen [nAgasen] num., 13, thirteen.
+nay-gah-sen [nAgasen] (num.) 13, thirteen.
 
-naygahtor [nAgator] num., 14, fourteen.
+nay-gah-tor [nAgator] (num.) 14, fourteen.
 
-nayvoo [nAvU] num., 10, ten.
+nayvoo [nAvU] (num.) 10, ten.
 
-ne [ne] prep., around.
+ne [ne] (prep.) around.
 
-nee [nE] adj., new, fresh, clean.
+nee [nE] (adj.) new, fresh, clean.
 
-neeah [nEa] adj., new, blank.
+neeah [nEa] (adj.) new, blank.
 
-neeg [nEg] adj., mere.
+neeg [nEg] (adj.) mere.
 
-neegesh [nEgeS] adv., merely.
+neeg-esh [nEgeS] (adv.) merely.
 
-neemah [nEma] v., annoy, pester.
+neemah [nEma] (v.) annoy, pester.
 
-neetsahvay [nExavA] v., suffer.
+neetsahvay [nExavA] (v.) suffer.
 
-negilahn [negilan] n., jungle, rainforest.
+negilahn [negilan] (n.) jungle, rainforest.
 
-nekis [neKis] v., bend, twist, distort.
+nekis [neKis] (v.) bend, twist, distort.
 
-nekisahl [neKisal] adj., bent, twisted, distorted.
+nekis-ahl [neKisal] (adj.) bent, twisted, distorted.
 
-nekisahloth [neKisaloT] n., bent, twisted, distorted one.
+nekis-ahloth [neKisaloT] (n.) bent, twisted, distorted one.
 
-nem [nem] v., form (make or create).
+nem [nem] (v.) form (make or create).
 
-nerim [nerim] n., colorpillar, a caterpillar-like animal native to Negilahn. They are eaten by reepah.
+nerim [nerim] (n.) colorpillar, a caterpillar-like animal native to Negilahn. They are eaten by reepah.
 
-neseet [nesEt] adv., almost(?).
+neseet [nesEt] (adv.) almost(?).
 
-netso [nexo] v., produce, make.
+netso [nexo] (v.) produce, make.
 
-neze [neze] v., read.
+neze [neze] (v.) read.
 
-nezetahn [nezetan] n., reader.
+neze-tahn [nezetan] (n.) reader.
 
-nogin [nogin] v., scatter(?), separate(?), ignore(?).
+nogin [nogin] (v.) scatter(?), separate(?), ignore(?).
 
-noref [noref] adj., final.
+noref [noref] (adj.) final.
 
-nuhdah [nuDa] v., hinder(?), obstruct(?).
+nuhdah [nuDa] (v.) hinder(?), obstruct(?).
 
-nuhdahtahv [nuDatav] n., hindrance(?), obstruction(?), disaster(?).
+nuhdah-tahv [nuDatav] (n.) hindrance(?), obstruction(?), disaster(?).
 
-nuhree [nurE] n., nure, the primary D'ni monetary unit (cf. pradnuhreetee).
+nuhree [nurE] (n.) nure, the primary D'ni monetary unit (cf. pradnuhreetee).
 
 
 <font size=12 style=b><p align=center>O
 
-<font size=10 style=n><p align=left>oenahzo [oenazo] v., hope, wish.
+<font size=10 style=n><p align=left>oenahzo [oenazo] (v.) hope, wish.
 
-ogel [ogel] v., age, get old(?).
+ogel [ogel] (v.) age, get old(?).
 
-oglahn [oglan] adj., ancient.
+oglahn [oglan] (adj.) ancient.
 
--okh [-ok] prep., of, belonging to. Used as a separate word when the thing possessed is a phrase.
+-okh [-ok] (prep.) of, belonging to. Used as a separate word when the thing possessed is a phrase.
 
-oko [oKo] adj., black.
+oko [oKo] (adj.) black.
 
--om [-om] suff., 2nd sing. possessor ("your").
+-om [-om] (suff.) 2nd sing. possessor ("your").
 
--omee [-omE] suff., 2nd plur. possessor ("your").
+-omee [-omE] (suff.) 2nd plur. possessor ("your").
 
-omsheeno [omSEno] n., rails, track.
+omsheeno [omSEno] (n.) rails, track.
 
--on [-on] suff., 3rd sing. possessor
-("his", "her", "its").
 
-oner [oner] adj., just, fair.
+-on [-on] (suff.) 3rd sing. possessor ("his", "her", "its").
 
-oochah [Uca] n., worm.
+oner [oner] (adj.) just, fair.
 
-oochah pahrah [Uca para] n., a young tarpin shal.
+oochah [Uca] (n.) worm.
 
-oolbah [Ulba] n., office.
+oochah pahrah [Uca para] (n.) a young tarpin shal.
 
-oolin [Ulin] v., control(?), govern(?), master(?).
+oolbah [Ulba] (n.) office.
 
-oolintahv [Ulintav] n., control(?), mastery(?).
+oolin [Ulin] (v.) control(?), govern(?), master(?).
 
-ooloy [UlO] adj., tall.
+oolin-tahv [Ulintav] (n.) control(?), mastery(?).
 
-oonahn [Unan] adj., hostile.
+ooloy [UlO] (adj.) tall.
 
-oonray [UnrA] n., lord.
+oonahn [Unan] (adj.) hostile.
 
-ooshah [USa] n., formula.
+oonray [UnrA] (n.) lord.
 
--os [-os] suff., 3rd plur. possessor ("their").
+ooshah [USa] (n.) formula.
 
-oshahn [oSan] v., lose.
+-os [-os] (suff.) 3rd plur. possessor ("their").
 
-oshahnin [oSanin] adj., lost.
+oshahn [oSan] (v.) lose.
 
--ot [-ot] suff., 1st plur. possessor ("our").
+oshahn-in [oSanin] (adj.) lost.
 
--oy [-O] suff., 1st sing. possessor ("my").
+-ot [-ot] (suff.) 1st plur. possessor ("our").
 
-oyn [On] prep., myself(?), for my sake(?), moreover(?).
+-oy [-O] (suff.) 1st sing. possessor ("my").
 
-oytahg [Otag] v., teach.
+oyn [On] (prep.) myself(?), for my sake(?), moreover(?).
+
+oytahg [Otag] (v.) teach.
 
 
 <font size=12 style=b><p align=center>P
 
-<font size=10 style=n><p align=left>p' [p'] prep., above.
+<font size=10 style=n><p align=left>p' [p'] (prep.) above.
 
-pahboy [pabO] v., bless.
+pahboy [pabO] (v.) bless.
 
-pahl [pal] adv., ever.
+pahl [pal] (adv.) ever.
 
-pahm [pam] conj., or.
+pahm [pam] (conj.) or.
 
-pahn [pan] v., trust.
+pahn [pan] (v.) trust.
 
-pahrah [para] adj., great,  in size or strength.
+pahrah [para] (adj.) great,  in size or strength.
 
-pahrahno [parano] n., sea(?) (lit. "large water").
+pahr-ahno [parano] (n.) sea(?) (lit. "large water").
 
-pahrahth [paraT] n., greatness, largeness.
+pahrah-th [paraT] (n.) greatness, largeness.
 
-pahrkh [park] v., pray(?).
+pahrkh [park] (v.) pray(?).
 
-pahrtahvo [partavo], equal to ~1 hour 13 mins. Also known as "bell".
+pahrtahvo [partavo] (n.) equal to ~1 hour 13 mins. Also known as "bell".
 
-pahts [pax] n., city.
+pahts [pax] (n.) city.
 
-palmen [pålmen] n., magnet.
+palmen [pålmen] (n.) magnet.
 
-palmenets [pålmenex] adj., magnetic.
+palmen-ets [pålmenex] (adj.) magnetic.
 
-panuhdoy [pånuDO] n., an animal native to Negilahn, almost twice the height of an urwin. Also known as "big leg".
+panuhdoy [pånuDO] (n.) an animal native to Negilahn, almost twice the height of an urwin. Also known as "big leg".
 
-paychahvo [pAcavo] n., danger.
+paychahvo [pAcavo] (n.) danger.
 
-payiferen [pAiferen] n., desert (cf. paychahvo "danger", ferem "dry").
+payiferen [pAiferen] (n.) desert (cf. paychahvo "danger", ferem "dry").
 
-paypeel [pApEl] v., be upset(?), be distracted(?), anticipate(?).
+paypeel [pApEl] (v.) be upset(?), be distracted(?), anticipate(?).
 
-pazgo [påzgo] v., [fund (by a grant)].
+pazgo [påzgo] (v.) fund (by a grant)(?).
 
-pe [pe] prep., above.
+pe [pe] (prep.) above.
 
-pekay [peKA] adj., insidious.
+pekay [peKA] (adj.) insidious.
 
--per [-per] suff., "-ple", "-fold" (cf. senper "triple").
+-per [-per] (suff.) "-ple", "-fold" (cf. senper "triple").
 
-perah [pera] n., cacophony.
+perah [pera] (n.) cacophony.
 
-peray [perA] adj., silly.
+peray [perA] (adj.) silly.
 
-pilel [pilel] v., receive.
+pilel [pilel] (v.) receive.
 
-pirelin [pirelin] n., village.
+pirelin [pirelin] (n.) village.
 
-pirin [pirin] n., color.
+pirin [pirin] (n.) color.
 
-pisho [piSo] v., belong.
+pisho [piSo] (v.) belong.
 
-po [po] n., mouth(?).
+po [po] (n.) mouth(?).
 
-poahnt [poant] n., saliva.
+poahnt [poant] (n.) saliva.
 
-po'aht [po'at] n., mouthful(?).
+po'aht [po'at] (n.) mouthful(?).
 
-pod [poD] determ., each.
+pod [poD] (determ.) each.
 
-poget [poget] v., rule, reign.
+poget [poget] (v.) rule, reign.
 
-poog [pUg] v., prove(?).
+poog [pUg] (v.) prove(?).
 
-por [por] n., father.
+por [por] (n.) father.
 
-porpah [porpa] n., king.
+porpah [porpa] (n.) king.
 
-poy [pO] n., bulb.
+poy [pO] (n.) bulb.
 
-prachiz [praciz/pråciz] v., amaze(?), astound(?).
+prachiz [praciz/pråciz] (v.) amaze(?), astound(?).
 
-prad [pråD] n., rock.
+prad [pråD] (n.) rock.
 
-pradets [pråDex] adj., rocky.
+prad-ets [pråDex] (adj.) rocky.
 
-pradges [pråDges] v., sculpt.
+pradges [pråDges] (v.) sculpt.
 
-pradgestahn [pråDgestan] n., sculptor.
+pradges-tahn [pråDgestan] (n.) sculptor.
 
-pradgestoy [pråDgestO] n., sculpture.
+pradgestoy [pråDgestO] (n.) sculpture.
 
-pradnuhreetee [pråDnurEtE] n., money stone, "in essence like a modern smart card" (cf. nuhree).
+prad-nuhree-tee [pråDnurEtE] (n.) money stone, "in essence like a modern smart card"
+(cf. nuhree).
 
-pradteegahl [pråDtEgal] adj., rock-working.
+prad-teeg-ahl [pråDtEgal] (adj.) rock-working.
 
-preniv [preniv] adv., once again.
+preniv [preniv] (adv.) once again.
 
-prin [prin] adj., small.
+prin [prin] (adj.) small.
 
-prorahn [proran] n., unit of time equal to ~1.5 seconds.
+prorahn [proran] (n.) unit of time equal to
+~1.5 seconds.
 
-pumi [pumE?] n., a monkey-like animal native to Negilahn, usually jumping from tree to tree. Also known as "two tails monkey".]]></translation>
+pumi [pumE?] (n.) a monkey-like animal native to Negilahn, usually jumping from tree to tree. Also known as "two tails monkey".]]></translation>
             </element>
             <element name="DniDictDE3">
                 <translation language="English"><![CDATA[<cover src="DniDictDE3.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -1356,15 +1399,15 @@ D'ni to English Dictionary: R-Z
 
 
 
-<font size=12 style=n>Compiled by
+<font style=n>Compiled by
 Kh'reestrefah
 
 Edited by
-Korov'ev<PB><PB>
+Korov'ev<PB>
 
-<font size=12 style=b><p align=center>Abbreviations<font size=10 style=n><p align=left>
+<font style=b><p align=center>Abbreviations
 
-                   adj: adjective
+<font size=10 style=n><p align=left>                   adj: adjective
                    adv: adverb
                    art: article
                    aux: auxiliary
@@ -1385,693 +1428,715 @@ Korov'ev<PB><PB>
                quantif: quantifier
                   sing: singular
                   suff: suffix
-                     v: verb<PB><PB>
+                     v: verb
+<font size=12><PB>
+
+<font style=b><p align=center>Sorting
+
+<font size=10 style=n><p align=left>The traditional D'ni alphabetical order is the following:
+
+               V   B   T   S   SH
+               J   G   Y   KH  K
+               AH  AI  F   P   I
+               EE  E   AY  R   M
+               TH  DH  D   H   O
+               OY  CH  W   UH  OO
+               TS  L   A   Z   N
+
+However, to make looking for terms easier, in this dictionary we adopted the common alphabetical order:
+
+<font size=12 style=b>        R  S  T  U  V  W  X  Y  Z
+
+<font size=10 style=n>Dnifont spellings are given in brackets: [Sora]. Tentative translations are marked with: (?).<PB><PB>
 
 <font size=12 style=b><p align=center>R
 
-<font size=10 style=n><p align=left>r' [r'] art., the.
+<font size=10 style=n><p align=left>r' [r'] (art.) the.
 
--rah [-ra] num., 25^2 (625), combining form.
+-rah [-ra] (num.) 25^2 (625), combining form.
 
-rahm [ram] adj., good.
+rahm [ram] (adj.) good.
 
-rahn [ran] v., [vary].
+rahn [ran] (v.) vary(?).
 
-rahnahl [ranal] adj., various.
+rahnahl [ranal] (adj.) various.
 
-rahshah [raSa] adj., [dark].
+rahshah [raSa] (adj.) dark(?).
 
-rahshahth [raSaT] n., dark, darkness.
+rahshah-th [raSaT] (n.) dark, darkness.
 
-rahsoo [rasU] adj., vanquished.
+rahsoo [rasU] (adj.) vanquished.
 
-rahwah [rawa] adj., meaningful, rich :)
+rahwah [rawa] (adj.) meaningful, rich :)
 
-raiway [rIwA] n., procedure.
+raiway [rIwA] (n.) procedure.
 
-Rakeri [raKerE], a D'ni name.
+Rakeri [raKerE] (n.) a D'ni name.
 
-ran [rån] v., measure.
+ran [rån] (v.) measure.
 
-re- [re-] art., the/that.
+re- [re-] (art.) the/that.
 
-Rebek [rebeK], lit. "The Game".
+Rebek [rebeK] (n.) lit. "The Game".
 
-re'dahntee [re'DantE] n., long tweezers.
+re'dahn-tee [re'DantE] (n.) long tweezers.
 
-reekoo [rEKU] n., a small animal native to Ader Jamat.
+reekoo [rEKU] (n.) a small animal native to Ader Jamat.
 
-reepah [rEpa] n., a timid, gorilla-like animal native to Negilahn, with a tail resembling a scorpion's. They eat nerim, gipeli and other plants and animals.
+reepah [rEpa] (n.) a timid, gorilla-like animal native to Negilahn, with a tail resembling a scorpion's. They eat nerim, gipeli and other plants and animals.
 
-rees [rEs] v., eat.
+rees [rEs] (v.) eat.
 
-reeslo [rEslo] v., dissolve.
+reeslo [rEslo] (v.) dissolve.
 
-reetahn [rEtan] n., survivor(?).
+reetahn [rEtan] (n.) survivor(?).
 
-reethai [rETI] prep., during(?).
+reethai [rETI] (prep.) during(?).
 
-rek/rahk [reK/raK] n., class(?).
+rek/rahk [reK/raK] (n.) class(?).
 
-Relto [relto], lit. "the High Place" (re-el-to).
+Relto [relto] (n.) lit. "the High Place" (re + el + to).
 
-Relyimah [relyima] n./adj., Unseen, Terahnee slaves (cf. rilyimah).
+Relyimah [relyima] (n./adj.) Unseen, Terahnee slaves (cf. rilyimah, yimah).
 
-rem [rem] v., flow.
+rem [rem] (v.) flow.
 
-remah [rema] n., north.
+remah [rema] (n.) north.
 
-remesfet [remesfet] adj., diligent.
+remesfet [remesfet] (adj.) diligent.
 
-remesfeteth [remesfeteT] n., diligence.
+remesfet-eth [remesfeteT] (n.) diligence.
 
-rev [rev] n., right (direction).
+rev [rev] (n.) right (direction).
 
-ri- [ri-] num., 20, twenty, combining form.
+ri- [ri-] (num.) 20, twenty, combining form.
 
-rifeen [rifEn] v., torment.
+rifeen [rifEn] (v.) torment.
 
-rifoon [rifUn] v., remember.
+rifoon [rifUn] (v.) remember.
 
-rigahbree [rigabrE] num., 22, twenty-two.
+ri-gah-bree [rigabrE] (num.) 22, twenty-two.
 
-rigahfah [rigafa] num., 21, twenty-one.
+ri-gah-fah [rigafa] (num.) 21, twenty-one.
 
-rigahsen [rigasen] num., 23, twenty-three.
+ri-gah-sen [rigasen] (num.) 23, twenty-three.
 
-rigahtor [rigator] num., 24, twenty-four.
+ri-gah-tor [rigator] (num.) 24, twenty-four.
 
-rigilahs [rigilas] n., taiga, boreal forest.
+rigilahs [rigilas] (n.) taiga, boreal forest.
 
-ril [ril] determ., no, not.
+ril [ril] (determ.) no, not.
 
-rilahsah [rilasa] v., unseal.
+rilahsah [rilasa] (v.) unseal.
 
-rildil [rilDil] pron., nothing.
+ril-dil [rilDil] (pron.) nothing.
 
-rilerilonin [rilerilonin] adj., unexplored (cf. lon "discover"). Altee Rilerilonin "Unexplored Branches".
+rilerilonin [rilerilonin] (adj.) unexplored (cf. lon "discover"). Altee Rilerilonin "Unexplored Branches".
 
-rilgelin [rilgelin] adj., unwritten (cf. gel).
+ril-gel-in [rilgelin] (adj.) unwritten.
 
-rilnahr [rilnar] adj., insignificant.
+ril-nahr [rilnar] (adj.) insignificant.
 
-rilrov [rilrov] pron., nobody.
+ril-rov [rilrov] (pron.) nobody.
 
-riltahgahmin [riltagamin] adj., unknown.
+ril-tahgahm-in [riltagamin] (adj.) unknown.
 
-rilte [rilte] prep., without.
 
-rilyimah [rilyima] adj., unseen (cf. Relyimah).
+ril-te [rilte] (prep.) without.
 
-rinal [rinål] v., honor, venerate.
+rilyimah [rilyima] (adj.) unseen (cf. Relyimah, yimah).
 
-rinaltahv [rinåltav] n., [honor, veneration].
+rinal [rinål] (v.) honor, venerate.
 
-rinto [rinto] n., dream. Birahnokh Rintotee "Sea of Dreams".
+rinal-tahv (n.,) honor, veneration(?). [rinåltav] 
 
-rish [riS] num., 20, twenty.
+rinto [rinto] (n.) dream. Birahnokh Rintotee "Sea of Dreams".
 
-riway [rIwA] n., procedure.
+rish [riS] (num.) 20, twenty.
 
-ro [ro] n. (Terahnee), people group, household, or family (e.g. Hadre Ro'Jethhe).
+riway [rIwA] (n.) procedure.
 
-robot [robot] adj., actual.
+ro' [ro'] (n., Terahnee) people group, household, or family (e.g. Hadre Ro'Jethhe).
 
-rochay [rocA] v., reach.
+robot [robot] (adj.) actual.
 
-Ronay [ronA], lit. "People of the Root".
+rochay [rocA] (v.) reach.
 
-roo [rU] conj., that.
+Ro-nay [ronA] (n.) lit. "People of the Root".
 
-rooay [rUA] n., route.
+roo [rU] (conj.) that.
 
-rooayk [rUAK] v., destroy.
+rooay [rUA] (n.) route.
 
-rooayktahv [rUAKtav] n., destruction.
+rooayk [rUAK] (v.) destroy.
 
-roob [rUb] conj., but.
+rooayk-tahv [rUAKtav] (n.) destruction.
 
-roodsh [rUDS] adj., red.
+roob [rUb] (conj.) but.
 
-roomay [rUmA] v., ignore(?), circumvent(?), alter(?).
+roodsh [rUDS] (adj.) red.
 
-roon [rUn] num., 0, zero.
+roomay [rUmA] (v.) ignore(?), circumvent(?), alter(?).
 
-roshee [roSE] n., crater.
+roon [rUn] (num.) 0, zero.
 
-rotee [rotE] n., peoples(?).
+roshee [roSE] (n.) crater.
 
-rov [rov] n., person.
+rotee [rotE] (n.) peoples(?).
 
-rovhoo [rovhU] n., holy person, saint (cf. hootsay "holy").
+rov [rov] (n.) person.
+
+rov-hoo [rovhU] (n.) holy person, saint (cf. hootsay "holy").
 
 
 <font size=12 style=b><p align=center>S
 
-<font size=10 style=n><p align=left>saheth [saeT] n., sleep.
+<font size=10 style=n><p align=left>saheth [saeT] (n.) sleep.
 
-say [sA] n./v., design.
+say [sA] (n./v.) design.
 
-sayrah [sAra] n., west.
+sayrah [sAra] (n.) west.
 
-se [se] prep., at.
+se [se] (prep.) at.
 
--see [-sE] num., 25, combining form.
+-see [-sE] (num.) 25, combining form.
 
-seen [sEn] v., get, acquire.
+seen [sEn] (v.) get, acquire.
 
-sek/sekh [seK/sek] v., have, own.
+sek/sekh [seK/sek] (v.) have, own.
 
-sel [sel] v., Write (Ages).
+sel [sel] (v.) Write (Ages).
 
-seltahn [seltan] n., Writer, one who writes Ages.
+sel-tahn [seltan] (n.) Writer, one who writes Ages.
 
-sen [sen] num., 3, three.
+sen [sen] (num.) 3, three.
 
-senahren [senaren] n., building, structure.
+senahren [senaren] (n.) building, structure.
 
-senper [senper] adj., triple, threefold.
+senper [senper] (adj.) triple, threefold.
 
-seraht [serat] v., light up, brighten.
+seraht [serat] (v.) light up, brighten.
 
-seren [seren] n., light.
+seren [seren] (n.) light.
 
-Serenol [serenol] n., Age where tuliema grow, written by Atrus.
+Serenol [serenol] (n.) Age where tuliema grow, written by Atrus.
 
-set [set] pron., us.
+set [set] (pron.) us.
 
-sev [sev] n., Age.
+sev [sev] (n.) Age.
 
--sh [-S] suff., adjective to adverb ("-ly").
+-sh [-S] (suff.) adjective to adverb ("-ly").
 
-shahfee [SafE] n., span, equal to 15.8 ft or 4.82 m. Twice the length of a pendulum with a period of 5 prorahntee is 5 spans.
+shahfee [SafE] (n.) span, equal to 15.8 ft or
+4.82 m. Twice the length of a pendulum with a period of 5 prorahntee is 5 spans.
 
-shahl [Sal?] drop(?), extended below(?). Tarpin shal, an animal native to Negilahn, preying by dropping down from high branches on unsuspecting victims.
+shahl [Sal?] drop(?), extended below(?). Tarpin shal, an animal native to Negilahn that preys by dropping down from high branches on unsuspecting victims.
 
-shahmlis [Samlis] adj., perfect.
+shahmlis [Samlis] (adj.) perfect.
 
-shahn [San] v., connect, piece together (as in a puzzle).
+shahn [San] (v.) connect, piece together (as in a puzzle).
 
-shahveroo [SaverU] adj., dire. Guhlem Shahveroo "Dire Strait".
+shahveroo [SaverU] (adj.) dire. Guhlem Shahveroo "Dire Strait".
 
-sheegah [SEga] n., way(?), path(?), passage(?).
+sheegah [SEga] (n.) way(?), path(?), passage(?).
 
-sheemah [SEma] adj., okay, alright.
+sheemah [SEma] (adj.) okay, alright.
 
-sheetem [SEtem] n., message.
+sheetem [SEtem] (n.) message.
 
-sheetemsootahn [SEtemsUtan] n., messenger.
+sheetemsoo-tahn [SEtemsUtan] (n.) messenger (sheetem + laysoo "carry").
 
-sheeyah [SEya] n., angel.
+sheeyah [SEya] (n.) angel.
 
-Shegahdah [SegaDa] n., neighborhood in D'ni.
+Shegahdah [SegaDa] (n.) neighborhood in D'ni.
 
-shelah [Sela] v., (tran)scribe(?).
+shelah [Sela] (v.) (tran)scribe(?).
 
-shelahtahn [Selatan] n., scribe.
+shelah-tahn [Selatan] (n.) scribe.
 
-shem [Sem] pron., you.
+shem [Sem] (pron.) you.
 
-shento [Sento] v., take.
+shento [Sento] (v.) take.
 
-sheten [Seten] v., cherish.
+sheten [Seten] (v.) cherish.
 
-shin [Sin] adj., able.
+shin [Sin] (adj.) able.
 
-sho [So] n., dirt, soil.
+sho [So] (n.) dirt, soil.
 
-shokhoo [SokU] v., instruct.
+shokhoo [SokU] (v.) instruct.
 
-shokrotahn [SoKrotan] n., bulldozer (lit. "dirt-mover").
+shokro-tahn [SoKrotan] (n.) bulldozer (lit. "dirt-mover").
 
-shol [Sol] v., prepare.
+shol [Sol] (v.) prepare.
 
-sholen [Solen] adj., drawn.
+sholen [Solen] (adj.) drawn.
 
-shooth [SUT] n., death.
+shooth [SUT] (n.) death.
 
-shorah [Sora] n./interj., peace; hello, farewell.
+shorah [Sora] (n./interj.) peace; hello, farewell.
 
-shoraht [Sorat] adj., peaceful.
-Hahr rahm gah shoraht "happy new year" (lit. "good and peaceful year").
+shorah-t [Sorat] (adj.) peaceful.
+Hahr rahm gah shoraht "happy new year"
+(lit. "good and peaceful year").
 
-shuhfay [SufA] v., finish.
+shuhfay [SufA] (v.) finish.
 
-shuhteejoo [SutEjU] n., rocksalt.
+shuhteejoo [SutEjU] (n.) rocksalt.
 
-sifay [sifA] adj., wired.
+sifay [sifA] (adj.) wired.
 
-sofeguh [sofegu] v., fear.
+sofeguh [sofegu] (v.) fear.
 
-sol [sol] n., sister.
+sol [sol] (n.) sister.
 
-somah [soma] n., seal, signet.
+somah [soma] (n.) seal, signet.
 
-soygi [sOgi] adj., stable.
+soygi [sOgi] (adj.) stable.
 
-soygish [sOgiS], mispelling of soygith.
+soygish [sOgiS] mispelling of soygith.
 
-soygith [sOgiT] n., stability.
+soygi-th [sOgiT] (n.) stability.
 
-stofah [stofa], of one.
+stofah [stofa] of one.
 
 
 <font size=12 style=b><p align=center>T
 
-<font size=10 style=n><p align=left>-t [-t] suff., noun to adjective ("-ful") (cf. -et, -ets).
+<font size=10 style=n><p align=left>-t [-t] (suff.) noun to adjective ("-ful") (cf. -et, -ets).
 
-t' [t'] prep., in, by, with (cf. te, terth-, tre-).
+t' [t'] (prep.) in, by, with (cf. te, terth-,
+tre-).
 
-tah [ta] pron., it.
+tah [ta] (pron.) it.
 
-tahg [tag] v., give.
+tahg [tag] (v.) give.
 
-tahgahm [tagam] v., know.
+tahgahm [tagam] (v.) know.
 
-tahgayr [tagAr] v., learn.
+tahgayr [tagAr] (v.) learn.
 
-tahgil [tagil] v., understand.
+tahgil [tagil] (v.) understand.
 
-Tahgirah [tagira] n., a prison Age (possibly tahg + girah).
+Tahgirah [tagira] (n.) a prison Age (possibly tahg + girah).
 
-tahleeo [talEo] n., surface.
+tahleeo [talEo] (n.) surface.
 
-tahm [tam] n., fire.
+tahm [tam] (n.) fire.
 
--tahn [-tan] suff., verb to noun ("-er", "-or", "-tor").
+-tahn [-tan] (suff.) verb to noun ("-er", "-or", "-tor").
 
-tahroo [tarU] v., die (by accident or murder).
+tahroo [tarU] (v.) die (by accident or murder).
 
-tarpin shal [tarpin Sal?] n., drop claw, an animal native to Negilahn, preying by dropping down from high branches on unsuspecting victims. Oocha para is a young tarpin shal. The tarpin shal life cycle is connected to the gahtsai.
+tarpin shal [tarpin Sal?] (n.) drop claw, an animal native to Negilahn that preys by dropping down from high branches on unsuspecting victims. Oocha para is a young tarpin shal. The tarpin shal life cycle is connected to the gahtsai.
 
-tahs [tas] v., muse, think, ponder, meditate.
+tahs [tas] (v.) muse, think, ponder, meditate.
 
--tahv [-tav] suff., verb to noun ("-ion", "-tion").
+-tahv [-tav] (suff.) verb to noun ("-ion", "-tion").
 
-tahvo [tavo] n., unit of time equal to ~14.5 min. Divided into 25 gorahntee.
+tahvo [tavo] (n.) unit of time equal to ~14.5 min. Divided into 25 gorahntee.
 
 Takotah, misspelling of Tokotah.
 
-tanuh [tånu] v., be blind(?), be injured(?).
+tanuh [tånu] (v.) be blind(?), be injured(?).
 
-tanuhth [tånuT] n., blindness(?), injury(?).
+tanuh-th [tånuT] (n.) blindness(?), injury(?).
 
-tay [tA] n., aim(?), goal(?) (cf. taykheboorkh).
+tay [tA] (n.) aim(?), goal(?) (cf. taykheboorkh).
 
-taygahn [tAgan] v., love.
+taygahn [tAgan] (v.) love.
 
-taykheboorkh [tAkebUrk] v., seek. Taykheboorkhtahn Tsahvahn, "Eternal Seeker".
+taykheboorkh [tAkebUrk] (v.) seek. Taykheboorkhtahn Tsahvahn, "Eternal Seeker".
 
-taynee [tAnE] v., welcome.
+taynee [tAnE] (v.) welcome.
 
-tayr [tAr] v., help.
+tayr [tAr] (v.) help.
 
-tayroo [tArU] adj., apparent(?), thorough(?).
+tayroo [tArU] (adj.) apparent(?), thorough(?).
 
-tayroosh [tArUS] adv., apparently(?) thoroughly(?).
+tayroo-sh [tArUS] (adv.) apparently(?) thoroughly(?).
 
-te [te] prep., by, with, in; of, among (cf. t', terth-).
+te [te] (prep.) by, with, in; of, among (cf. t', terth-).
 
--tee [-tE] suff., plural ("-s").
+-tee [-tE] (suff.) plural ("-s").
 
--tee [-tE] suff., 2nd pers. plur. actor ("you").
+-tee [-tE] (suff.) 2nd pers. plur. actor ("you").
 
-tee'ahnah [tE'ana] n., story-teller. Ti'ana, D'ni name of Anna.
+tee'ahnah [tE'ana] (n.) story-teller. Ti'ana, D'ni name of Anna.
 
-teeg [tEg] v., work.
+teeg [tEg] (v.) work.
 
-teegahl [tEgal] adj., working.
+teeg-ahl [tEgal] (adj.) working.
 
-teeget [tEget] adj., working.
+teeg-et [tEget] (adj.) working.
 
-teegtahg [tEgtag] n., study. Also used as a suffix ("-ology").
+teegtahg [tEgtag] (n.) study. Also used as a suffix ("-ology").
 
-teegtahn [tEgtan] n., worker.
+teeg-tahn [tEgtan] (n.) worker.
 
-teegtahv [tEgtav] n., work.
+teeg-tahv [tEgtav] (n.) work.
 
-teejuh [tEju] n., [squad].
+teejuh [tEju] (n.) squad(?).
 
-teemah [tEma] n., south. Kotsah Teemah, "South Gate".
+teemah [tEma] (n.) south. Kotsah Teemah, "South Gate".
 
-tefoonet [tefUnet] n., memorial (cf. rifoon).
+tefoonet [tefUnet] (n.) memorial (cf. rifoon).
 
-tel [tel] n., Guild.
+tel [tel] (n.) Guild.
 
-telbahtsen [telbaxen] n., Guild of Cartographers (telokh bahtsentahntee).
+tel-bahtsen [telbaxen] (n.) Guild of Cartographers (tel-okh bahtsen-tahn-tee).
 
-telbeeree [telbErE] n., Guild of Maintainers (telokh beereetahntee).
+tel-beeree [telbErE] (n.) Guild of Maintainers<PB>(tel-okh beeree-tahn-tee).
 
-telbetsiv [telbexiv] n., Guild of Engineers.
+tel-betsiv [telbexiv] (n.) Guild of Engineers.
 
-teldhoo'shol [telDU'Sol] n., Guild of Caterers (telokh doo'sholtahntee).
+tel-dhoo'shol [telDU'Sol] (n.) Guild of Caterers (tel-okh doo'shol-tahn-tee).
 
-Teledahn [teleDan], lit. "Place of Mushroomy Spores" (to-elemartee-nadahnets).
+Teledahn [teleDan] (n.) lit. "Place of Mushroomy Spores" (to-elemar-tee-nadahnets).
 
-telensho [telenSo] n., Guild of Tour Guides (telokh lenshotahntee).
+telensho [telenSo] (n.) Guild of Tour Guides (tel-okh lensho-tahn-tee).
 
-telkailo [telKIlo] n., Guild of Healers.
+tel-kailo [telKIlo] (n.) Guild of Healers.
 
-telnahvah [telnava] n., Guild Master.
+tel-nahvah [telnava] (n.) Guild Master.
 
-telook [telUK] n., Guild of Surveyors.
+telook [telUK] (n.) Guild of Surveyors (tel + look "survey").
 
-telookahm [telUKam] n., Surveyor.
+telookahm [telUKam] (n.) Surveyor (telook + ahm).
 
-telooknahvah [telUKnava] n., Surveyors Guild Master.
+telook-nahvah [telUKnava] (n.) Surveyors Guild Master.
 
-telrov [telrov] n., guildsman.
+tel-rov [telrov] (n.) guildsman.
 
-telshee [telSE] n., Guild of Messengers (telokh sheetemsootahntee).
+telshee [telSE] (n.) Guild of Messengers (tel-okh sheetemsootahn-tee).
 
-tem [tem] n., ordinary ink (cf. lem "ink for Linking Books").
+tem [tem] (n.) ordinary ink (cf. lem "ink for Linking Books").
 
-temah [tema] v., hear(?), heed(?).
+temah [tema] (v.) hear(?), heed(?).
 
-temo [temo] prep. after(?), since(?) (cf. te "by", mo "that").
+temo [temo] (prep.) after(?), since(?) (cf. te "by", mo "that").
 
-ten [ten] adj., simple.
+ten [ten] (adj.) simple.
 
-Te'Negamiris [te'negamiris?] n., the great burial Age.
+Te'negamiris [te'negamiris?] (n.) the great burial Age.
 
-tenesh [teneS] adv., simply.
+ten-esh [teneS] (adv.) simply.
 
-ter [ter] n., tree. Terahnee "New Tree".
+ter [ter] (n.) tree. Terahnee "New Tree".
 Terokh Jeruth "Tree of Possibility".
 Garternay "Root of the Great Tree".
 
-terelin [terelin] n., contact.
+terelin [terelin] (n.) contact.
 
-terth [terT] prep., in a, of a, as a (cf. t', ehrth-).
+terth [terT] (prep.) in a, of a, as a (cf. t', ehrth-).
 
-tes [tes] n., group.
+tes [tes] (n.) group.
 
-tetemo [tetemo] prep., onwards(?), afterwards(?) (cf. te, temo).
+tetemo [tetemo] (prep.) onwards(?), afterwards(?) (cf. te, temo).
 
-Tetsonot [texonot], lit. "in (the) abyss".
+Te-tsonot [texonot] (n.) lit. "in (the) abyss".
 
--th [-T] suff., adjective to noun ("-ty", "_ one") (cf. -eth).
+-th [-T] (suff.) adjective to noun ("-ty",
+"... one") (cf. -eth).
 
-thirk [TirK] v., save, keep.
+thirk [TirK] (v.) save, keep.
 
-thoe [Toe, ToE] adv., how?. Possibly an alternate spelling of dho.
+thoe [Toe, ToE] (adv.) how?. Possibly an alternate spelling of dho.
 
-Ti'ahnah [tE'ana] n., story-teller; Ti'ana (D'ni name of Anna).
+Ti'ana [tE'ana] (n.) story-teller; D'ni name of Anna.
 
-tik [tiK] v., deny, refuse.
+tik [tiK] (v.) deny, refuse.
 
-tikolee [tiKolE] n., [sorrow].
+tikolee [tiKolE] (n.) (sorrow).
 
-tikoleet [tiKolEt] adj., sorry.
+tikolee-t [tiKolEt] (adj.) sorry.
 
-tildah [tilDa] v., suffocate.
+tildah [tilDa] (v.) suffocate.
 
-timel [timel] n., gallery.
+timel [timel] (n.) gallery.
 Timelokh Kaydish "Kadish Gallery".
 
-tishmah [tiSma] n., friend.
+tishmah [tiSma] (n.) friend.
 
-tiwah [tiwa] n., shaft.
+tiwah [tiwa] (n.) shaft.
 
-to [to] n., place. Often used as prefix meaning "place of" (cf. following entries).
+to [to] (n.) place. Often used as prefix meaning "place of" (cf. following entries).
 
-todelmer [toDelmer] n., planetarium
-(to "place" + delahn "sky" + mer "to watch").
+to-delmer [toDelmer] (n.) planetarium (to "place" + delahn "sky" + mer "to watch").
 
-togitsah [togixa] n., haven
-(to "place" + gitsah "safe").
+to-gitsah [togixa] (n.) haven (to "place" + gitsah "safe").
 
-togo [togo] n., floor.
-Retogo kenen ahnoets "the floor is wet".
+togo [togo] (n.) floor. Retogo kenen ahnoets "the floor is wet".
 
-tokituh [toKitu] v., determine, be determined.
+tokituh [toKitu] (v.) determine, be determined.
 
-Tokotah [toKota], lit. "place of the locked door".
+To-kotah [toKota] (n.) lit. "place of the locked door".
 
-tolesah [tolesa] n., sealed place, vault.
+to-lesah [tolesa] (n.) sealed place, vault.
 
-tomahgilo [tomagilo] n., garden (cf. tomahn, gilo "plant").
+tomahgilo [tomagilo] (n.) garden (cf. tomahn, gilo "plant").
 
-tomahn [toman] n., house.
+tomahn [toman] (n.) house (possibly to + mahn "existence").
 
-tomahnah [tomana] n., home.
+tomahnah [tomana] (n.) home.
 
-tomahrah [tomara] n., concert hall (cf. mahrah).
+tomahrah [tomara] (n.) concert hall (cf. mahrah).
 
-tome [tome] adj., homesick (lit. "out of place").
+tome [tome] (adj.) homesick (lit. "out of place").
 
-tomet [tomet] adv., here (lit. "this place").
+to-met [tomet] (adv.) here (lit. "this place").
 
-tomot [tomot] adv., there (lit. "that place").
+to-mot [tomot] (adv.) there (lit. "that place").
 
-tonah [tona] adj., long.
+tonah [tona] (adj.) long.
 
-toogo [tUgo] n., foot.
+toogo [tUgo] (n.) foot.
 
-tool [tUl] v., grow.
+tool [tUl] (v.) grow.
 
-toomin [tUmin] adj., touched(?), handled(?), pressed(?).
+toomin [tUmin] (adj.) touched(?), handled(?), pressed(?).
 
-toporpah [toporpa] n., palace.
+to-porpah [toporpa] (n.) palace (cf. porpah "king").
 
-tor [tor] num., 4, four.
+tor [tor] (num.) 4, four.
 
-toran [torån] n., unit of angular elevation, equal to 0.00576°; a right angle is 15,625 (25^3) torantee.
+toran [torån] (n.) unit of angular elevation, equal to 0.00576°; a right angle is 15,625 (25^3) torantee.
 
-torekor [toreKor] n., library (lit. "place of the book").
+to-re-kor [toreKor] (n.) library (lit. "place of the book").
 
-torets [torex] num., fourth.
+tor-ets [torex] (num.) fourth.
 
-torinai [torinI] adj., cold.
+torinai [torinI] (adj.) cold.
 
-torn [torn] v., spit.
+torn [torn] (v.) spit.
 
-totel [totel] n., Guild House.
+to-tel [totel] (n.) Guild House.
 
-tre- [tre-] prep., at the, in the, near the, with the, of the (cf. t', re-).
+tre- [tre-] (prep.) at the, in the, near the, with the, of the (cf. t', re-).
 
-Tre'bivdil [tre'bivDil] n., lit. "in the everything".
+Tre'biv-dil [tre'bivDil] (n.) lit. "in the everything".
 
-trel [trel] adj., blue.
+trel [trel] (adj.) blue.
 
-tren [tren] determ., a few, some.
+tren [tren] (determ.) a few, some.
 
-trom [trom] n., wing.
+trom [trom] (n.) wing.
 
-tromets [tromex] adj., winged.
+trom-ets [tromex] (adj.) winged.
 
-trov [trov] v., spin.
+trov [trov] (v.) spin.
 
-tsahn [xan] adv., always, forever.
+tsahn [xan] (adv.) always, forever.
 
-tsahnlee [xanlE] n., mountain.
+tsahnlee [xanlE] (n.) mountain.
 
-tsahnlee yahm [xanlE yam] n., iceberg (cf. yahm).
+tsahnlee yahm [xanlE yam] (n.) iceberg.
 
-tsahno [xano] adj., everlasting, permanent, eternal (nonliving).
+tsahno [xano] (adj.) everlasting, permanent, eternal (nonliving).
 
-tsahnosh [xanoS] adv., permanently.
+tsahno-sh [xanoS] (adv.) permanently.
 
-tsahnril [xanril] adv., never (lit. "always not").
+tsahn-ril [xanril] (adv.) never (lit. "always not").
 
-tsahr [xar] v., go.
+tsahr [xar] (v.) go.
 
-tsahroo [xarU] n./adj., eye(?), full(?).
+tsahroo [xarU] (n./adj.) eye(?), full(?).
 
-tsahv [xav] v., live.
+tsahv [xav] (v.) live.
 
-tsahvahn [xavan] adj., immortal, eternal (living).
+tsahv-ahn [xavan] (adj.) immortal, eternal (living).
 
-tsahvteegtahg [xavtEgtag] n., biology.
+tsahv-teegtahg [xavtEgtag] (n.) biology.
 
-tsaydor [xADor] v., [burrow].
+tsaydor [xADor] (v.) (burrow).
 
-tsaydortahn [xADortan] n., burrower, burrowing animal.
+tsaydor-tahn [xADortan] (n.) burrower, burrowing animal.
 
-tseemah [xEma] v., need.
+tseemah [xEma] (v.) need.
 
-tseemahahl [xEmaal] adj., needed, necessary.
+tseemah-ahl [xEmaal] (adj.) needed, necessary.
 
-tso [xo] prep., of, about. Used to express non-personal relation.
+tso [xo] (prep.) of, about. Used to express non-personal relation.
 
-tsofah [xofa] n., horn (of an animal).
+tsofah [xofa] (n.) horn (of an animal).
 
-tsogahl [xogal] adj., sunny, bright. Eder Tsogal, a Garden Age.
+tsogahl [xogal] (adj.) sunny, bright. Eder Tsogal, a Garden Age.
 
-tsoid [xoiD] v., glow.
+tsoid [xoiD] (v.) glow.
 
-tsoidahl [xoiDal] adj., glowing.
+tsoid-ahl [xoiDal] (adj.) glowing.
 
-tson [xon] n., [foundation].
+tson [xon] (n.) (foundation).
 
-tsonot [xonot] n., abyss (cf. Mayan tz'onot). Tetsonot, lit. "in the abyss".
+tsonot [xonot] (n.) abyss (cf. Mayan tz'onot).
+Tetsonot, lit. "in the abyss".
 
-tsoonoo [xUnU] v., greet.
+tsoonoo [xUnU] (v.) greet.
 
-tsootay [xUtA] v., dedicate(?), owe(?).
+tsootay [xUtA] (v.) dedicate(?), owe(?).
 
-tsosahtahv [xosatav] n., possession.
+tsosah-tahv [xosatav] (n.) possession.
 
-tsotoy [xotO] n., child.
+tsotoy [xotO] (n.) child.
 
-tuliema [tuliema] n., a plant native to Serenol, with three leaves that thrust through the earth into the air and turn a bright yellow hue at dawn.
+tuliema [tuliema] (n.) a plant native to Serenol, with three leaves that thrust through the earth into the air and turn a bright yellow hue at dawn.
 
 
 <font size=12 style=b><p align=center>U
 
-<font size=10 style=n><p align=left>uhgraht [ugrat] n., pillars in the Riven wahrk lake, used to hung villagers to be fed to the wahrk as a form of punishment.
+<font size=10 style=n><p align=left>uhgraht [ugrat] (n.) pillars in the Riven wahrk lake, used to hung villagers to be fed to the wahrk as a form of punishment.
 
-uru [UrU] n., large gathering; great community.
+uru [UrU] (n.) large gathering; great community.
 
-urwin [urwin?] n., a large animal native to Negilahn. Its primary food source is the kiri. The Payiferen 'sandscrit' is generally believed to be related to the urwin.
+urwin [urwin?] (n.) a large animal native to Negilahn. Its primary food source is the kiri. The Payiferen 'sandscrit' is generally believed to be related to the urwin.
 
 
 <font size=12 style=b><p align=center>V
 
-<font size=10 style=n><p align=left>vah- [va-] num., 5, five, combining form.
+<font size=10 style=n><p align=left>vah- [va-] (num.) 5, five, combining form.
 
-vahgahbree [vagabrE] num., 7, seven.
+vah-gah-bree [vagabrE] (num.) 7, seven.
 
-vahgahfah [vagafa] num., 6, six.
+vah-gah-fah [vagafa] (num.) 6, six.
 
-vahgahsen [vagasen] num., 8, eight.
+vah-gah-sen [vagasen] (num.) 8, eight.
 
-vahgahtor [vagator] num., 9, nine.
+vah-gah-tor [vagator] (num.) 9, nine.
 
-vahkh [vak] adj., linking (cf. korvahkh "Linking Book").
+vahkh [vak] (adj.) linking (cf. korvahkh "Linking Book").
 
-vahmo [vamo] n., east.
+vahmo [vamo] (n.) east.
 
-vahmo [vamo] adj. calm.
+vahmo [vamo] (adj.) calm.
 
-vahmot [vamot] adj., eastern; pacific.
+vahmo-t [vamot] (adj.) eastern; pacific.
 
-vaht [vat] num., 5, five.
+vaht [vat] (num.) 5, five.
 
-vailee [vIlE] n., D'ni month, slightly longer than a Surface month. Divided into 29 yahrtee.
+vailee [vIlE] (n.) D'ni month, slightly longer than a Surface month. Divided into 29 yahrtee.
 
-vaiuh [vIu] n., event(?), term(?).
+vaiuh [vIu] (n.) event(?), term(?).
 
-vaynuh [vAnu] v., ask(?), explore(?).
+vaynuh [vAnu] (v.) ask(?), explore(?).
 
-vaytsoo [vAxU] n., presence.
+vaytsoo [vAxU] (n.) presence.
 
-veech [vEc] v., [scream].
+veech [vEc] (v.) (scream).
 
-veechtahv [vEctav] n., scream.
+veech-tahv [vEctav] (n.) scream.
 
-veelay [vElA] n., soul.
+veelay [vElA] (n.) soul.
 
-veewuh [vEwu] v., to deserve.
+veewuh [vEwu] (v.) to deserve.
 
-Venalem [venalem] n., ink-harvesting Age (cf. lem "ink").
+Venalem [venalem] (n.) ink-harvesting Age (cf. lem "ink").
 
-veren [veren] v., mollify, pacify.
+veren [veren] (v.) mollify, pacify.
 
-viduh [viDu] n., atmosphere.
+viduh [viDu] (n.) atmosphere.
 
-vilekh [vilek] n., misery.
+vilekh [vilek] (n.) misery.
 
-v'jah [v'ja] n., celebration (cf. Korfah V'ja "First Book Celebration").
+v'jah [v'ja] (n.) celebration (cf. Korfah V'ja "First Book Celebration").
 
-vog [vog] n., nature.
+vog [vog] (n.) nature.
 
-vogets [vogex] adj., natural.
+vog-ets [vogex] (adj.) natural.
 
-vokan [voKån] n., birth.
+vokan [voKån] (n.) birth.
 
-volah [vola] interj., yes.
+volah [vola] (interj.) yes.
 
-voohee [vUhE] aux. v., can, could. Usually following the main verb: kenen voohee shuhteejoo "it could be rocksalt".
+voohee [vUhE] (aux. v.) can, could. Usually following the main verb: kenen voohee shuhteejoo "it could be rocksalt".
 
-vor [vor] n., page (ordinary paper) (cf. bor "Linking Book page").
+vor [vor] (n.) page (ordinary paper) (cf. bor "Linking Book page").
 
-votahnah [votana] n., truth.
+votahnah [votana] (n.) truth.
 
-votahr [votar] v., praise.
+votahr [votar] (v.) praise.
 
 
 <font size=12 style=b><p align=center>W
 
-<font size=10 style=n><p align=left>winis [winis] adv., together.
+<font size=10 style=n><p align=left>winis [winis] (adv.) together.
 
-wish [wiS] v., lift, raise.
+wish [wiS] (v.) lift, raise.
 
-wotsah [woxa] adj., harsh.
+wotsah [woxa] (adj.) harsh.
 
 
 <font size=12 style=b><p align=center>Y
 
-<font size=10 style=n><p align=left>yahm [yam] n., [ice] (cf. tsahnlee yahm "iceberg").
+<font size=10 style=n><p align=left>yahm [yam] (n.) ice
 
-yahr [yar] n., D'ni day, equal to ~30 hr 14 min (1.26 Surface days). Divided into 5 gahrtahvotee.
+yahr [yar] (n.) D'ni day, equal to ~30 hr 14 min (1.26 Surface days). Divided into 5 gahrtahvotee.
 
-Yahvo [yavo] n., Maker, God.
+Yahvo [yavo] (n.) Maker, God.
 
-yayshah [yASa] n., joy.
+yayshah [yASa] (n.) joy.
 
-yeepay [yEpA] n., eyeglasses, [goggles].
+yeepay [yEpA] (n.) eyeglasses, (goggles).
 
-yeeshah [yESa] n., laughter.
+yeeshah [yESa] (n.) laughter.
 
-yeret [yeret] aux. v., may. Usually following the main verb: Yahvo pilelen yeret veelayon "may Yahvo receive her soul".
+yeret [yeret] (aux. v.) may. Usually following the main verb: Yahvo pilelen yeret veelayon "may Yahvo receive her soul".
 
-yertis [yertis] n., a small plant native to Riven. Its yellow berries contain a neurotoxin used for hunting food.
+yertis [yertis] (n.) a small plant native to Riven. Its yellow berries contain a neurotoxin used for hunting food.
 
-yim [yim] v., see.
+yim [yim] (v.) see.
 
-yimah [yima] adj., seen.
+yimah [yima] (adj.) seen.
 
-yishah [yiSa] n., [planet].
+yishah [yiSa] (n.) (planet).
 
-yoorach [yUråc] v., breathe.
+yoorach [yUråc] (v.) breathe.
 
-yootay [yUtA] n., guinea pig.
+yootay [yUtA] (n.) guinea pig.
 
-yootay [yUtA] v., owe.
+yootay [yUtA] (v.) owe.
 
 
 <font size=12 style=b><p align=center>Z
 
-<font size=10 style=n><p align=left>zahfay [zafA] n., fate.
+<font size=10 style=n><p align=left>zahfay [zafA] (n.) fate.
 
-zahg [zag] v., [prolong].
+zahg [zag] (v.) (prolong).
 
-zahgah [zaga] adj., prolonged.
+zahgah [zaga] (adj.) prolonged.
 
-zander [zånDer] n., gravity.
+zander [zånDer] (n.) gravity.
 
-zandni [zånDnE] n., Call to D'ni (zander + D'nee).
+zandni [zånDnE] (n.) Call to D'ni (zander + D'nee).
 
-ze [ze] pron., her, him.
+ze [ze] (pron.) her, him.
 
-zeeglah [zEgla] adj., mad; insane, twisted, warped.
+zeeglah [zEgla] (adj.) mad; insane, twisted, warped.
 
-zeero [zEro] n., center(?), point of origin(?). Regahro Zeero "the Great Zero".
+zeero [zEro] (n.) center(?), point of origin(?). Regahro Zeero "the Great Zero".
 
-zeeway [zEwA] n., weather.
+zeeway [zEwA] (n.) weather.
 
-zik [ziK] n., [pod].
+zik [ziK] (n.) (pod).
 
-zintsahr [zinxar] v., escape(?), leave(?); deserve(?) (perhaps from tsahr "go").
+zintsahr [zinxar] (v.) escape(?), leave(?); deserve(?) (perhaps from tsahr "go").
 
-zith [ziT] adj., low.
+zith [ziT] (adj.) low.
 
-zithah [ziTa] adj., lowest(?), less than(?).
+zith-ah [ziTa] (adj.) lowest(?), less than(?).
 
-zithahth [ziTaT] n., [low(est) one, Least].
+zith-ah-th [ziTaT] (n.) (lowest one, Least).
 
-zithon [ziTon] v., [lower].
+zithon [ziTon] (v.) (lower).
 
-zo'e [zo'e] n., loss.
+zo'e [zo'e] (n.) loss.
 
-zoo [zU] pron., me.
+zoo [zU] (pron.) me.
 
-zoodoo [zUDU] v., regret.
+zoodoo [zUDU] (v.) regret.
 
-zuh [zu] n., end.
+zuh [zu] (n.) end.
 
-zuhnuh [zunu] n., ending.]]></translation>
+zuhnuh [zunu] (n.) ending.]]></translation>
             </element>
             <element name="DniDictED1">
                 <translation language="English"><![CDATA[<cover src="DniDictED1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -2159,7 +2224,7 @@ always: tsahn [xan].
 
 am (is, are, be): ken [Ken].
 
-am (is, are) _ -ing: do- [Do-].
+am (is, are) ... -ing: do- [Do-].
 
 among: te [te].
 
@@ -2236,7 +2301,7 @@ to be: b'ken [b'Ken].
 
 have been: leken [leKen].
 
-have been _ -ing: dol- [Dol-].
+have been ... -ing: dol- [Dol-].
 
 be determined: tokituh [toKitu].
 
@@ -2572,7 +2637,7 @@ eat: rees [rEs].
 
 -ed (adj.): -in; -ahl [-in; -al].
 
-(to be, will be, has been) _ -ed (pass.): -ij [-ij].
+(to be, will be, has been) ... -ed (pass.): -ij [-ij].
 
 -ed (past): ko- [Ko-].
 
@@ -2598,7 +2663,7 @@ empire: gahn [gan].
 
 -en (adjectival): -in [-in].
 
-(to be, will be, has been) _ -ed (pass.): -ij [-ij].
+(to be, will be, has been) ... -ed (pass.): -ij [-ij].
 
 end (n.): zuh [zu].
 
@@ -2898,9 +2963,9 @@ gusty: elioykhets [eliOkex].
 
 <font size=12 style=b><p align=center>H
 
-<font size=10 style=n><p align=left>had _ -ed (-en): kol- [Kol-].
+<font size=10 style=n><p align=left>had ... -ed (-en): kol- [Kol-].
 
-had been _ -ing: kodol- [KoDol-].
+had been ... -ing: kodol- [KoDol-].
 
 concert hall: tomahrah [tomara].
 
@@ -2914,11 +2979,11 @@ harsh: wotsah [woxa].
 
 have (own): sek [seK].
 
-have/has _ -ed (-en): l', le- [l', le-].
+have/has ... -ed (-en): l', le- [l', le-].
 
 have been: leken [leKen].
 
-have been _ -ing: dol- [Dol-].
+have been ... -ing: dol- [Dol-].
 
 he: -en [-en].
 
@@ -3916,7 +3981,7 @@ thanks: chevtahvtee [cevtavtE].
 
 that (thing): mot [mot].
 
-that _ would: roo [rU].
+that ... would: roo [rU].
 
 the: r', re- [r', re-].
 
@@ -4087,7 +4152,7 @@ warped: zeeglah [zEgla].
 
 was: koken [KoKen].
 
-was (were) _ -ing: kodo- [KoDo-].
+was (were) ... -ing: kodo- [KoDo-].
 
 watch (v.): mer [mer].
 
@@ -4187,7 +4252,7 @@ world: dovah [Dova].
 
 would have: kobol- [Kobol-].
 
-that _ would: roo [rU].
+that ... would: roo [rU].
 
 write (ordinary): gel [gel].
 
@@ -4269,163 +4334,163 @@ Korov'ev<PB><PB>
                   suff: suffix
                      v: verb<PB><PB>
 
-<font size=10 style=n><p align=left>abi, v., love: abirakin "I love you".
+<font size=10 style=n><p align=left>abi (v.) love: abirakin "I love you".
 
-aimo, n., woman.
+aimo (n.) woman.
 
-ainela, n., flower; girl.
+ainela (n.) flower; girl.
 
-aki, adj., dangerous.
+aki (adj.) dangerous.
 
-Allapo, n., water pool.
+Allapo (n.) water pool.
 
-Allatwan, n., pool of stars (cf. latai "star").
+Allatwan (n.) pool of stars (cf. latai "star").
 
-anarapo, v., I praise: Gen anarapo "praise Gehn!" (lit. I praise Gehn).
+anarapo (v.) I praise: Gen anarapo "praise Gehn!" (lit. I praise Gehn).
 
-atrapa, n., arm; branch (of a tree).
+atrapa (n.) arm; branch (of a tree).
 
 
-babi, v., cry, weep.
+babi (v.) cry, weep.
 
-bela, n., [day] (cf. ohubela "celebration", vrebela "yesterday", yibela "afternoon").
+bela (n.) [day] (cf. ohubela "celebration", vrebela "yesterday", yibela "afternoon").
 
-buku, n., thing (generic).
+buku (n.) thing (generic).
 
 
-cho, suff., whoa, hey. Verbal suffix indicates speaker is surprised by the action.
+cho (suff.) whoa, hey. Verbal suffix indicates speaker is surprised by the action.
 
-choli, n., sorrow, grief.
+choli (n.) sorrow, grief.
 
 
-damai, v., laugh.
+damai (v.) laugh.
 
-droi, v., carry.
+droi (v.) carry.
 
-duna, v., dig; paddle, row.
+duna (v.) dig; paddle, row.
 
 
-edre, adj., blue or green.
+edre (adj.) blue or green.
 
-elari, adj., beautiful.
+elari (adj.) beautiful.
 
 
-fari, adj., red.
+fari (adj.) red.
 
-fraita, adj., trapped; captured.
+fraita (adj.) trapped; captured.
 
 
-kelarapo, v., "I strike it".
+kelarapo (v.) "I strike it".
 
-kevisa, n., mill stone, quern.
+kevisa (n.) mill stone, quern.
 
-kowa, adj., quiet, silent; a calm moment in the sea; a sunbreak.
+kowa (adj.) quiet, silent; a calm moment in the sea; a sunbreak.
 
 
-latai, n., star; beloved.
+latai (n.) star; beloved.
 
-lopa, v., shoot.
+lopa (v.) shoot.
 
-lopom, n., heart.
+lopom (n.) heart.
 
 
--me, suff., added to proverbial or gnomic statements ("everyone knows", "they say that").
+-me (suff.) added to proverbial or gnomic statements ("everyone knows", "they say that").
 
-mirimau, adj., joy, happiness.
+mirimau (adj.) joy, happiness.
 
-miyu, n., story (usually spoken), an account of events.
+miyu (n.) story (usually spoken), an account of events.
 
-mo, prep., one; with.
+mo (prep.) one; with.
 
 
--n, suff., [you] (cf. abirakin "I love you", torilosan "they possibly discovered you").
+-n (suff.) [you] (cf. abirakin "I love you", torilosan "they possibly discovered you").
 
-navare, n., frame, edge of an opening.
+navare (n.) frame, edge of an opening.
 
-nefatai, v., spark, ignite.
+nefatai (v.) spark, ignite.
 
-negen, v., pour (lit. "to cause [to] run").
+negen (v.) pour (lit. "to cause [to] run").
 
 
-ohubela, n., celebration (lit. "good-day").
+ohubela (n.) celebration (lit. "good-day").
 
 
-palo, v., stand; to be in a temporary state of.
+palo (v.) stand; to be in a temporary state of.
 
-poloiya, v., escape.
+poloiya (v.) escape.
 
-puba, n., lip; edge; shore.
+puba (n.) lip; edge; shore.
 
-pumeko, n., whisper.
+pumeko (n.) whisper.
 
 
-rahara, n., anger.
+rahara (n.) anger.
 
-rauno, adj., strong in sensation (bright, loud, pungent, etc.); proud.
+rauno (adj.) strong in sensation (bright, loud, pungent, etc.); proud.
 
-rekor, n., Linking book (cf. D'ni rekor "the book").
+rekor (n.) Linking book (cf. D'ni rekor "the book").
 
 
-sadago, n., hide, leather, prepared skin of an animal.
+sadago (n.) hide, leather, prepared skin of an animal.
 
-safi, n., song.
+safi (n.) song.
 
-ser, v., twist, coil.
+ser (v.) twist, coil.
 
-serea, n., grain.
+serea (n.) grain.
 
-shicho, n., flying insect.
+shicho (n.) flying insect.
 
-sraba, n., leaf; page.
+sraba (n.) leaf; page.
 
-srain, n., shadow.
+srain (n.) shadow.
 
 
-take, v., take.
+take (v.) take.
 
-tapomo, n., window; eyepiece; doorway, opening; linking panel.
+tapomo (n.) window; eyepiece; doorway, opening; linking panel.
 
-Tay, n., Age of the Moiety after escaping from Riven.
+Tay (n.) Age of the Moiety after escaping from Riven.
 
-tewan, n., clear daytime sky.
+tewan (n.) clear daytime sky.
 
-tis, v., examine; read.
+tis (v.) examine; read.
 
-torilosan, v., "they possibly discovered you".
+torilosan (v.) "they possibly discovered you".
 
-tuweda, n., memory.
+tuweda (n.) memory.
 
 
-ubin, n., knot; joint; place where paths meet.
+ubin (n.) knot; joint; place where paths meet.
 
-usoi, n., bone.
+usoi (n.) bone.
 
 
-vai, v., want, desire.
+vai (v.) want, desire.
 
-vrebela, n., yesterday.
+vrebela (n.) yesterday.
 
-vrirk, n., sliver, a small piece; a moment of time.
+vrirk (n.) sliver, a small piece; a moment of time.
 
-vuten, n., hide, skin (of an animal).
+vuten (n.) hide, skin (of an animal).
 
 
-wahrk, n., large, tusked, carnivorous animal that prowls the oceans on Riven.
+wahrk (n.) large, tusked, carnivorous animal that prowls the oceans on Riven.
 
-wan, n., sky(?); pool (?) (cf. tewan "clear daytime sky", wuwan "cloudy sky", Allatwan "pool of stars").
+wan (n.) sky(?); pool (?) (cf. tewan "clear daytime sky", wuwan "cloudy sky", Allatwan "pool of stars").
 
-wipe, n., invader, interloper, unwanted guest.
+wipe (n.) invader, interloper, unwanted guest.
 
-wubo, n., cloud.
+wubo (n.) cloud.
 
-wusifa, n., prison; confinement.
+wusifa (n.) prison; confinement.
 
-wuwan, n., cloudy sky.
+wuwan (n.) cloudy sky.
 
 
-yibela, n., uncertain period of time, approximately the length of an afternoon.
+yibela (n.) uncertain period of time, approximately the length of an afternoon.
 
-ytram, n., froglike animal on Riven; Gehn captured the Ytrams and distilled them into a purified juice which he then smoked in his fire marble pipe.]]></translation>
+ytram (n.) froglike animal on Riven; Gehn captured the Ytrams and distilled them into a purified juice which he then smoked in his fire marble pipe.]]></translation>
             </element>
             <element name="DniDictER">
                 <translation language="English"><![CDATA[<cover src="RivenDictER.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
@@ -4789,53 +4854,53 @@ Korov'ev<PB><PB>
 
 <font size=12 style=b><p align=center>Narani to English
 
-<font size=10 style=n><p align=left>alani, n., "my home".
+<font size=10 style=n><p align=left>alani (n.) "my home".
 
-amani, pron., you.
+amani (pron.) you.
 
-ami, pron., my.
+ami (pron.) my.
 
 apic'nanin, (?).
 
-azhwa, n., joy.
+azhwa (n.) joy.
 
-comensanin, v., "we begin".
+comensanin (v.) "we begin".
 
-degraça, adj., lost.
+degraça (adj.) lost.
 
-devota, n., loved ones.
+devota (n.) loved ones.
 
 ero, (?).
 
-erte, pron., (?).
+erte (pron.) (?).
 
-expidan, n., adventure.
+expidan (n.) adventure.
 
-havana, n., shelter.
+havana (n.) shelter.
 
-latiste, n., lattice.
+latiste (n.) lattice.
 
-locusani, n., breeding ground.
+locusani (n.) breeding ground.
 
-ma, pron., my.
+ma (pron.) my.
 
-malisa, v., avenge.
+malisa (v.) avenge.
 
-memondama, v., remember.
+memondama (v.) remember.
 
-nah, prep., with.
+nah (prep.) with.
 
-Naray, n., Narayan Age.
+Naray (n.) Narayan Age.
 
-nilashahn, n., annihilation.
+nilashahn (n.) annihilation.
 
-nosis, v., "I think".
+nosis (v.) "I think".
 
-revilani, n., revelation.
+revilani (n.) revelation.
 
-soule, n., soul, heart.
+soule (n.) soul, heart.
 
-yan, v., (?).<PB>
+yan (v.) (?).<PB>
 
 <font size=12 style=b><p align=center>English to Narani
 
@@ -4883,35 +4948,35 @@ you: amani.<PB>
 
 <font size=10 style=n><p align=left>ah, (?).
 
-ana, suf., of.
+ana (suff.) of.
 
-azhwa, v., wash away.
+azhwa (v.) wash away.
 
-comensaneen, v., "we begin".
+comensaneen (v.) "we begin".
 
-creatani, v., create.
+creatani (v.) create.
 
-devotah, n., devotion.
+devotah (n.) devotion.
 
-dom, part., and.
+dom (part.) and.
 
-erte, pron., (?).
+erte (pron.) (?).
 
-expedani, n., adventure.
+expedani (n.) adventure.
 
-havahni, pron., your.
+havahni (pron.) your.
 
-nah, v., will.
+nah (v.) will.
 
-revelani, n., revelation.
+revelani (n.) revelation.
 
-salana, n., world.
+salana (n.) world.
 
-tormani, n., torment.
+tormani (n.) torment.
 
-tru, adj., real.
+tru (adj.) real.
 
-yamana, v., (?).<PB>
+yamana (v.) (?).<PB>
 
 
 <font size=12 style=b><p align=center>English to Serani
