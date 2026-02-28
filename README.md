@@ -16,6 +16,8 @@ Max (2012). *A Journey Without An Ending* ([Archived link](https://web.archive.o
 
 Kh’reestrefah (2025). *A Dictionary of the Language of D’ni* ([Link](http://www.eldalamberon.com/dni_dict.htm)) (entries only)
 
+Afalstein (2014). *Mysterious Mynds* ([Index](https://mystonline.com/forums/viewtopic.php?p=428020#p428020))
+
 ## Archived
 
 Dot Macchi, Quinquifid Oddenfen, Nalates Urriah, Andy Legate, et al. (2011). *The Devokan Story* ([Link](https://mystonline.com/forums/viewtopic.php?f=41&t=17633)).
