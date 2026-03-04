@@ -18,6 +18,8 @@ Kh’reestrefah (2025). *A Dictionary of the Language of D’ni*. ([Link](http:/
 
 Afalstein (2014). *Mysterious Mynds*. ([Index](https://mystonline.com/forums/viewtopic.php?p=428020#p428020))
 
+Korov'ev (Ed.) (2026). *D'ni Anthology*.
+
 ## Archived
 
 Dot Macchi, Quinquifid Oddenfen, Nalates Urriah, Andy Legate, et al. (2011). *The Devokan Story*. ([Link](https://mystonline.com/forums/viewtopic.php?f=41&t=17633))
