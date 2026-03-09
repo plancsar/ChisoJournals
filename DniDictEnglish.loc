@@ -3,7 +3,7 @@
     <age name="ChisoPreniv">
         <set name="Journals">
             <element name="DniDictDE1">
-                <translation language="English"><![CDATA[<cover src="DniDictDE1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="DniEngDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 D'ni to English Dictionary: A-I
 
@@ -726,10 +726,11 @@ This word is only known through an unclear audio recording, the spelling is unce
 
 <font size=10 style=b>istah<font size=10 style=n> [ista] (prep.) through.
 
-<font size=10 style=b>isyeer<font size=10 style=n> [isyEr] (v.) revere.]]></translation>
+<font size=10 style=b>isyeer<font size=10 style=n> [isyEr] (v.) revere.
+]]></translation>
             </element>
             <element name="DniDictDE2">
-                <translation language="English"><![CDATA[<cover src="DniDictDE2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="DniEngDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 D'ni to English Dictionary: J-P
 
@@ -1395,7 +1396,7 @@ However, to make looking for terms easier, in this dictionary we adopted the com
 <font size=10 style=b>pumi<font size=10 style=n> [pumE?] (n.) a monkey-like animal native to Negilahn, usually jumping from tree to tree. Also known as "two tails monkey".]]></translation>
             </element>
             <element name="DniDictDE3">
-                <translation language="English"><![CDATA[<cover src="DniDictDE3.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="DniEngDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 D'ni to English Dictionary: R-Z
 
@@ -2145,7 +2146,7 @@ Retogo kenen ahnoets "the floor is wet".
 <font size=10 style=b>zuhnuh<font size=10 style=n> [zunu] (n.) ending.]]></translation>
             </element>
             <element name="DniDictED1">
-                <translation language="English"><![CDATA[<cover src="DniDictED1.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="EngDniDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 English to D'ni Dictionary: A-F
 
@@ -2835,7 +2836,7 @@ Korov'ev<PB>
 <font size=10 style=b>[fund] (v.)<font size=10 style=n>: pazgo [påzgo].]]></translation>
             </element>
             <element name="DniDictED2">
-                <translation language="English"><![CDATA[<cover src="DniDictED2.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="EngDniDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 English to D'ni Dictionary: G-P
 
@@ -3617,7 +3618,7 @@ Korov'ev<PB>
 <font size=10 style=b>puzzle<font size=10 style=n>: deseekay [DesEKA].]]></translation>
             </element>
             <element name="DniDictED3">
-                <translation language="English"><![CDATA[<cover src="DniDictED3.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+                <translation language="English"><![CDATA[<cover src="EngDniDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 English to D'ni Dictionary: Q-Z
 
@@ -4321,204 +4322,8 @@ Korov'ev<PB>
 
 <font size=10 style=b>The Great Zero<font size=10 style=n>: rezeero, regahro zeero [rezEro, regaro zEro].]]></translation>
             </element>
-            <element name="DniDictRE">
-                <translation language="English"><![CDATA[<cover src="DniDictRE.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
-
-Rivenese to English Dictionary
-
-
-
-<font size=12 style=n>Compiled by
-Kh'reestrefah
-
-Edited by
-Korov'ev<PB><PB>
-
-<font size=12 style=b><p align=center>Abbreviations<font size=10 style=n><p align=left>
-
-                   adj: adjective
-                   adv: adverb
-                   art: article
-                   aux: auxiliary
-                    cf: compare
-                  conj: conjunction
-                determ: determinative
-                   fut: future
-                     n: noun
-                   num: number
-                  perf: perfect
-                  pers: person
-                  plur: plural
-                  pref: prefix
-                  prep: preposition
-                  pres: present
-                  prog: progressive
-                  pron: pronoun
-               quantif: quantifier
-                  sing: singular
-                  suff: suffix
-                     v: verb<PB><PB><p align=left>
-
-<a name=abirakin><font size=10 style=b>abi<font size=10 style=n> (v.) love: abirakin "I love you".
-
-<font size=10 style=b>aimo<font size=10 style=n> (n.) woman.
-
-<font size=10 style=b>ainela<font size=10 style=n> (n.) flower; girl.
-
-<font size=10 style=b>aki<font size=10 style=n> (adj.) dangerous.
-
-<font size=10 style=b>Allapo<font size=10 style=n> (n.) water pool.
-
-<a name=allatwan><font size=10 style=b>Allatwan<font size=10 style=n> (n.) pool of stars (cf. <a href=#latai>latai<a link=clear> "star").
-
-<font size=10 style=b>anarapo<font size=10 style=n> (v.) I praise: Gen anarapo "praise Gehn!" (lit. I praise Gehn).
-
-<font size=10 style=b>atrapa<font size=10 style=n> (n.) arm; branch (of a tree).
-
-
-<font size=10 style=b>babi<font size=10 style=n> (v.) cry, weep.
-
-<font size=10 style=b>bela<font size=10 style=n> (n.) [day] (cf. <a href=#ohubela>ohubela<a link=clear> "celebration", <a href=#vrebela>vrebela<a link=clear> "yesterday", <a href=#yibela>yibela<a link=clear> "afternoon").
-
-<font size=10 style=b>buku<font size=10 style=n> (n.) thing (generic).
-
-
-<font size=10 style=b>cho<font size=10 style=n> (suff.) whoa, hey. Verbal suffix indicates speaker is surprised by the action.
-
-<font size=10 style=b>choli<font size=10 style=n> (n.) sorrow, grief.
-
-
-<font size=10 style=b>damai<font size=10 style=n> (v.) laugh.
-
-<font size=10 style=b>droi<font size=10 style=n> (v.) carry.
-
-<font size=10 style=b>duna<font size=10 style=n> (v.) dig; paddle, row.
-
-
-<font size=10 style=b>edre<font size=10 style=n> (adj.) blue or green.
-
-<font size=10 style=b>elari<font size=10 style=n> (adj.) beautiful.
-
-
-<font size=10 style=b>fari<font size=10 style=n> (adj.) red.
-
-<font size=10 style=b>fraita<font size=10 style=n> (adj.) trapped; captured.
-
-
-<font size=10 style=b>kelarapo<font size=10 style=n> (v.) "I strike it".
-
-<font size=10 style=b>kevisa<font size=10 style=n> (n.) mill stone, quern.
-
-<font size=10 style=b>kowa<font size=10 style=n> (adj.) quiet, silent; a calm moment in the sea; a sunbreak.
-
-
-<a name=latai><font size=10 style=b>latai<font size=10 style=n> (n.) star; beloved.
-
-<font size=10 style=b>lopa<font size=10 style=n> (v.) shoot.
-
-<font size=10 style=b>lopom<font size=10 style=n> (n.) heart.
-
-
-<font size=10 style=b>-me<font size=10 style=n> (suff.) added to proverbial or gnomic statements ("everyone knows", "they say that").
-
-<font size=10 style=b>mirimau<font size=10 style=n> (adj.) joy, happiness.
-
-<font size=10 style=b>miyu<font size=10 style=n> (n.) story (usually spoken), an account of events.
-
-<font size=10 style=b>mo<font size=10 style=n> (prep.) one; with.
-
-
-<font size=10 style=b>-n<font size=10 style=n> (suff.) [you] (cf. <a href=#abirakin>abirakin<a link=clear> "I love you", <a href=#torilosan>torilosan<a link=clear> "they possibly discovered you").
-
-<font size=10 style=b>navare<font size=10 style=n> (n.) frame, edge of an opening.
-
-<font size=10 style=b>nefatai<font size=10 style=n> (v.) spark, ignite.
-
-<font size=10 style=b>negen<font size=10 style=n> (v.) pour (lit. "to cause [to] run").
-
-
-<a name=ohubela><font size=10 style=b>ohubela (n.) celebration (lit. "good-day").
-
-
-<font size=10 style=b>palo<font size=10 style=n> (v.) stand; to be in a temporary state of.
-
-<font size=10 style=b>poloiya<font size=10 style=n> (v.) escape.
-
-<font size=10 style=b>puba<font size=10 style=n> (n.) lip; edge; shore.
-
-<font size=10 style=b>pumeko<font size=10 style=n> (n.) whisper.
-
-
-<font size=10 style=b>rahara<font size=10 style=n> (n.) anger.
-
-<font size=10 style=b>rauno<font size=10 style=n> (adj.) strong in sensation (bright, loud, pungent, etc.); proud.
-
-<font size=10 style=b>rekor<font size=10 style=n> (n.) Linking book (cf. D'ni rekor "the book").
-
-
-<font size=10 style=b>sadago<font size=10 style=n> (n.) hide, leather, prepared skin of an animal.
-
-<font size=10 style=b>safi<font size=10 style=n> (n.) song.
-
-<font size=10 style=b>ser<font size=10 style=n> (v.) twist, coil.
-
-<font size=10 style=b>serea<font size=10 style=n> (n.) grain.
-
-<font size=10 style=b>shicho<font size=10 style=n> (n.) flying insect.
-
-<font size=10 style=b>sraba<font size=10 style=n> (n.) leaf; page.
-
-<font size=10 style=b>srain<font size=10 style=n> (n.) shadow.
-
-
-<font size=10 style=b>take<font size=10 style=n> (v.) take.
-
-<font size=10 style=b>tapomo<font size=10 style=n> (n.) window; eyepiece; doorway, opening; linking panel.
-
-<font size=10 style=b>Tay<font size=10 style=n> (n.) Age of the Moiety after escaping from Riven.
-
-<a name=tewan><font size=10 style=b>tewan<font size=10 style=n> (n.) clear daytime sky.
-
-<font size=10 style=b>tis<font size=10 style=n> (v.) examine; read.
-
-<a name=torilosan><font size=10 style=b>torilosan<font size=10 style=n> (v.) "they possibly discovered you".
-
-<font size=10 style=b>tuweda<font size=10 style=n> (n.) memory.
-
-
-<font size=10 style=b>ubin<font size=10 style=n> (n.) knot; joint; place where paths meet.
-
-<font size=10 style=b>usoi<font size=10 style=n> (n.) bone.
-
-
-<font size=10 style=b>vai<font size=10 style=n> (v.) want, desire.
-
-<a name=vrebela><font size=10 style=b>vrebela<font size=10 style=n> (n.) yesterday.
-
-<font size=10 style=b>vrirk<font size=10 style=n> (n.) sliver, a small piece; a moment of time.
-
-<font size=10 style=b>vuten<font size=10 style=n> (n.) hide, skin (of an animal).
-
-
-<font size=10 style=b>wahrk<font size=10 style=n> (n.) large, tusked, carnivorous animal that prowls the oceans on Riven.
-
-<font size=10 style=b>wan<font size=10 style=n> (n.) sky(?); pool (?) (cf. <a href=#tewan>tewan<a link=clear> "clear daytime sky", wuwan "cloudy sky", <a href=#allatwan>Allatwan<a link=clear> "pool of stars").
-
-<font size=10 style=b>wipe<font size=10 style=n> (n.) invader, interloper, unwanted guest.
-
-<font size=10 style=b>wubo<font size=10 style=n> (n.) cloud.
-
-<font size=10 style=b>wusifa<font size=10 style=n> (n.) prison; confinement.
-
-<a name=wuwan><font size=10 style=b>wuwan<font size=10 style=n> (n.) cloudy sky.
-
-
-<a name=yibela><font size=10 style=b>yibela<font size=10 style=n> (n.) uncertain period of time, approximately the length of an afternoon.
-
-<font size=10 style=b>ytram<font size=10 style=n> (n.) froglike animal on Riven; Gehn captured the Ytrams and distilled them into a purified juice which he then smoked in his fire marble pipe.]]></translation>
-            </element>
-            <element name="DniDictER">
-                <translation language="English"><![CDATA[<cover src="DniDictER.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="Riven2Dict">
+                <translation language="English"><![CDATA[<cover src="EngRivDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 English to Rivenese Dictionary
 
@@ -4841,8 +4646,205 @@ Korov'ev<PB><PB>
 
 <font size=10 style=b>yesterday<font size=10 style=n>: vrebela.]]></translation>
             </element>
-            <element name="DniDictNSE">
-                <translation language="English"><![CDATA[<cover src="DniDictNSE.hsm"><font size=12 style=b face=courier color=000000><margin right=56 left=56 top=40 bottom=40><PB><p align=center>
+            <element name="rivendict">
+                <translation language="English"><![CDATA[<cover src="RivEngDict.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
+
+Rivenese to English Dictionary
+
+
+
+<font size=12 style=n>Compiled by
+Kh'reestrefah
+
+Edited by
+Korov'ev<PB><PB>
+
+<font size=12 style=b><p align=center>Abbreviations<font size=10 style=n><p align=left>
+
+                   adj: adjective
+                   adv: adverb
+                   art: article
+                   aux: auxiliary
+                    cf: compare
+                  conj: conjunction
+                determ: determinative
+                   fut: future
+                     n: noun
+                   num: number
+                  perf: perfect
+                  pers: person
+                  plur: plural
+                  pref: prefix
+                  prep: preposition
+                  pres: present
+                  prog: progressive
+                  pron: pronoun
+               quantif: quantifier
+                  sing: singular
+                  suff: suffix
+                     v: verb<PB><PB><p align=left>
+
+<a name=abirakin><font size=10 style=b>abi<font size=10 style=n> (v.) love: abirakin "I love you".
+
+<font size=10 style=b>aimo<font size=10 style=n> (n.) woman.
+
+<font size=10 style=b>ainela<font size=10 style=n> (n.) flower; girl.
+
+<font size=10 style=b>aki<font size=10 style=n> (adj.) dangerous.
+
+<font size=10 style=b>Allapo<font size=10 style=n> (n.) water pool.
+
+<a name=allatwan><font size=10 style=b>Allatwan<font size=10 style=n> (n.) pool of stars (cf. <a href=#latai>latai<a link=clear> "star").
+
+<font size=10 style=b>anarapo<font size=10 style=n> (v.) I praise: Gen anarapo "praise Gehn!" (lit. I praise Gehn).
+
+<font size=10 style=b>atrapa<font size=10 style=n> (n.) arm; branch (of a tree).
+
+
+<font size=10 style=b>babi<font size=10 style=n> (v.) cry, weep.
+
+<font size=10 style=b>bela<font size=10 style=n> (n.) [day] (cf. <a href=#ohubela>ohubela<a link=clear> "celebration", <a href=#vrebela>vrebela<a link=clear> "yesterday", <a href=#yibela>yibela<a link=clear> "afternoon").
+
+<font size=10 style=b>buku<font size=10 style=n> (n.) thing (generic).
+
+
+<font size=10 style=b>cho<font size=10 style=n> (suff.) whoa, hey. Verbal suffix indicates speaker is surprised by the action.
+
+<font size=10 style=b>choli<font size=10 style=n> (n.) sorrow, grief.
+
+
+<font size=10 style=b>damai<font size=10 style=n> (v.) laugh.
+
+<font size=10 style=b>droi<font size=10 style=n> (v.) carry.
+
+<font size=10 style=b>duna<font size=10 style=n> (v.) dig; paddle, row.
+
+
+<font size=10 style=b>edre<font size=10 style=n> (adj.) blue or green.
+
+<font size=10 style=b>elari<font size=10 style=n> (adj.) beautiful.
+
+
+<font size=10 style=b>fari<font size=10 style=n> (adj.) red.
+
+<font size=10 style=b>fraita<font size=10 style=n> (adj.) trapped; captured.
+
+
+<font size=10 style=b>kelarapo<font size=10 style=n> (v.) "I strike it".
+
+<font size=10 style=b>kevisa<font size=10 style=n> (n.) mill stone, quern.
+
+<font size=10 style=b>kowa<font size=10 style=n> (adj.) quiet, silent; a calm moment in the sea; a sunbreak.
+
+
+<a name=latai><font size=10 style=b>latai<font size=10 style=n> (n.) star; beloved.
+
+<font size=10 style=b>lopa<font size=10 style=n> (v.) shoot.
+
+<font size=10 style=b>lopom<font size=10 style=n> (n.) heart.
+
+
+<font size=10 style=b>-me<font size=10 style=n> (suff.) added to proverbial or gnomic statements ("everyone knows", "they say that").
+
+<font size=10 style=b>mirimau<font size=10 style=n> (adj.) joy, happiness.
+
+<font size=10 style=b>miyu<font size=10 style=n> (n.) story (usually spoken), an account of events.
+
+<font size=10 style=b>mo<font size=10 style=n> (prep.) one; with.
+
+
+<font size=10 style=b>-n<font size=10 style=n> (suff.) [you] (cf. <a href=#abirakin>abirakin<a link=clear> "I love you", <a href=#torilosan>torilosan<a link=clear> "they possibly discovered you").
+
+<font size=10 style=b>navare<font size=10 style=n> (n.) frame, edge of an opening.
+
+<font size=10 style=b>nefatai<font size=10 style=n> (v.) spark, ignite.
+
+<font size=10 style=b>negen<font size=10 style=n> (v.) pour (lit. "to cause [to] run").
+
+
+<a name=ohubela><font size=10 style=b>ohubela (n.) celebration (lit. "good-day").
+
+
+<font size=10 style=b>palo<font size=10 style=n> (v.) stand; to be in a temporary state of.
+
+<font size=10 style=b>poloiya<font size=10 style=n> (v.) escape.
+
+<font size=10 style=b>puba<font size=10 style=n> (n.) lip; edge; shore.
+
+<font size=10 style=b>pumeko<font size=10 style=n> (n.) whisper.
+
+
+<font size=10 style=b>rahara<font size=10 style=n> (n.) anger.
+
+<font size=10 style=b>rauno<font size=10 style=n> (adj.) strong in sensation (bright, loud, pungent, etc.); proud.
+
+<font size=10 style=b>rekor<font size=10 style=n> (n.) Linking book (cf. D'ni rekor "the book").
+
+
+<font size=10 style=b>sadago<font size=10 style=n> (n.) hide, leather, prepared skin of an animal.
+
+<font size=10 style=b>safi<font size=10 style=n> (n.) song.
+
+<font size=10 style=b>ser<font size=10 style=n> (v.) twist, coil.
+
+<font size=10 style=b>serea<font size=10 style=n> (n.) grain.
+
+<font size=10 style=b>shicho<font size=10 style=n> (n.) flying insect.
+
+<font size=10 style=b>sraba<font size=10 style=n> (n.) leaf; page.
+
+<font size=10 style=b>srain<font size=10 style=n> (n.) shadow.
+
+
+<font size=10 style=b>take<font size=10 style=n> (v.) take.
+
+<font size=10 style=b>tapomo<font size=10 style=n> (n.) window; eyepiece; doorway, opening; linking panel.
+
+<font size=10 style=b>Tay<font size=10 style=n> (n.) Age of the Moiety after escaping from Riven.
+
+<a name=tewan><font size=10 style=b>tewan<font size=10 style=n> (n.) clear daytime sky.
+
+<font size=10 style=b>tis<font size=10 style=n> (v.) examine; read.
+
+<a name=torilosan><font size=10 style=b>torilosan<font size=10 style=n> (v.) "they possibly discovered you".
+
+<font size=10 style=b>tuweda<font size=10 style=n> (n.) memory.
+
+
+<font size=10 style=b>ubin<font size=10 style=n> (n.) knot; joint; place where paths meet.
+
+<font size=10 style=b>usoi<font size=10 style=n> (n.) bone.
+
+
+<font size=10 style=b>vai<font size=10 style=n> (v.) want, desire.
+
+<a name=vrebela><font size=10 style=b>vrebela<font size=10 style=n> (n.) yesterday.
+
+<font size=10 style=b>vrirk<font size=10 style=n> (n.) sliver, a small piece; a moment of time.
+
+<font size=10 style=b>vuten<font size=10 style=n> (n.) hide, skin (of an animal).
+
+
+<font size=10 style=b>wahrk<font size=10 style=n> (n.) large, tusked, carnivorous animal that prowls the oceans on Riven.
+
+<font size=10 style=b>wan<font size=10 style=n> (n.) sky(?); pool (?) (cf. <a href=#tewan>tewan<a link=clear> "clear daytime sky", wuwan "cloudy sky", <a href=#allatwan>Allatwan<a link=clear> "pool of stars").
+
+<font size=10 style=b>wipe<font size=10 style=n> (n.) invader, interloper, unwanted guest.
+
+<font size=10 style=b>wubo<font size=10 style=n> (n.) cloud.
+
+<font size=10 style=b>wusifa<font size=10 style=n> (n.) prison; confinement.
+
+<a name=wuwan><font size=10 style=b>wuwan<font size=10 style=n> (n.) cloudy sky.
+
+
+<a name=yibela><font size=10 style=b>yibela<font size=10 style=n> (n.) uncertain period of time, approximately the length of an afternoon.
+
+<font size=10 style=b>ytram<font size=10 style=n> (n.) froglike animal on Riven; Gehn captured the Ytrams and distilled them into a purified juice which he then smoked in his fire marble pipe.
+]]></translation>
+            </element>
+            <element name="DictNS">
+                <translation language="English"><![CDATA[<cover src="NSEngDictFIX.hsm"><font size=12 style=b face=courier color=000000><margin left=66 right=46 top=56 bottom=24><PB><p align=center>
 
 Narani and Serani to
 English Dictionary
